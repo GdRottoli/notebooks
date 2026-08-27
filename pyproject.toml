@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "cookiecutter-data-science>=2.3.0",
+    "fastexcel>=0.21.0",
     "imblearn>=0.0",
     "mlxtend>=0.23.4",
     "nltk>=3.9.2",
