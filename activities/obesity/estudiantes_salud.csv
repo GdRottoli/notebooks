@@ -1,0 +1,1481 @@
+id_estudiante,sede,genero,edad,talla_m,peso_kg,antec_familiar,come_calorico,verduras,comidas_principales,picoteo,fuma,agua,controla_calorias,actividad_fisica,pantallas,alcohol,transporte,categoria_peso
+1,Sur,Masculino,17.0,1.62,69.0,Si,Si,3.0,1.0,Siempre,No,,Si,1.0,2.0,A VECES,Transporte_publico,Sobrepeso_I
+2,Central,Masculino,21.123048,1.717037,80.0,Si,Si,2.0,3.0,a veces,No,2.0,No,2.270555,1.343044,Nunca,Transporte_publico,Sobrepeso_II
+3,Sur,M,39.759575,1.792507,101.780099,Si,Si,2.33361,2.113575,A veces,No,2.504136,No,2.998981,1.0,A veces,Auto,Obesidad_I
+4,Sur,Masculino,20.0,1.8,85.0,Si,No,2.0,3.0,a veces,No,,No,2.0,1.0,A veces,Transporte_publico,Sobrepeso_I
+5,Sur,Femenino,19.220108,1.530266,42.0,No,SI,3.0,1.0,Frecuente,No,,No,0.0,0.907868,A veces,Transporte_publico,Peso_insuficiente
+6,Central,Masculino,22.0,1.75,70.0,No,No,2.0,3.0,A veces,No,3.0,No,1.0,1.0,NUNCA,Transporte_publico,Peso_normal
+7,Central,Masculino,21.0,1.62,70.0,No,Si,2.0,1.0,NUNCA,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+8,Sur,M,18.701766,1.704908,81.384224,Si,Si,2.650629,1.0,A veces,No,1.708083,No,1.876051,0.938791,A VECES,Transporte_publico,Sobrepeso_II
+9,Norte,F,19.045357,161.0,82.193405,Si,Si,1.261288,2.930044,a veces,No,1.166655,No,0.133398,0.95174,Nunca,Transporte_publico,Obesidad_I
+10,Central,Femenino,18.107092,1.703259,91.499683,Si,Si,1.899793,3.0,A veces,No,1.439962,No,0.9529,0.838847,A VECES,Transporte_publico,Obesidad_I
+11,Central,Masculino,19.076443,1.62,69.529625,No,Si,2.278644,1.0,A veces,No,2.628985,No,1.0,1.285373,A veces,Transporte_publico,Sobrepeso_I
+12,Central,F,38.542937,1.517248,79.843221,Si,Si,2.0,3.0,A veces,No,1.095134,No,0.0,0.0,a veces,Auto,Obesidad_I
+13,Central,masculino,33.185661,1.836007,97.416417,Si,Si,2.0,1.724887,A veces,No,3.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+14,Central,masculino,18.216032,1.755507,52.0,Si,Si,3.0,3.0,FRECUENTE,No,2.0,No,0.658894,1.0,nunca,Transporte_publico,Peso_insuficiente
+15,Sur,M,30.553097,1.780448,88.431954,Si,Si,2.0,1.178708,A veces,No,1.791286,No,,0.276364,A veces,Transporte_publico,Sobrepeso_II
+16,Central,Masculino,21.963787,1.849601,122.333425,Si,Si,3.0,2.218285,a veces,No,1.340117,No,0.428259,0.0,A veces,Transporte_publico,Obesidad_II
+17,Central,Masculino,39.585811,1.719153,86.464843,Si,SI,2.325623,1.313403,A veces,No,1.94609,No,0.604259,0.0,Nunca,Auto,Sobrepeso_II
+18,Central,F,22.239836,1.59994,65.423942,No,Si,2.99448,3.0,A veces,No,1.706568,No,0.784216,,A veces,Transporte_publico,Sobrepeso_I
+19,Central,Masculino,17.908114,1.793926,59.682591,Si,Si,2.568063,4.0,A veces,No,2.0,No,2.0,0.220029,NUNCA,Auto,Peso_insuficiente
+20,Central,Femenino,21.334585,1.729045,131.529267,Si,Si,3.0,3.0,A veces,No,1.302193,No,1.742453,0.94232,A veces,Transporte_publico,Obesidad_III
+21,Central,masculino,20.580984,1.798354,103.705418,Si,Si,2.0,3.0,A veces,No,2.401315,No,2.891986,0.0,Nunca,Transporte_publico,Obesidad_I
+22,Norte,Masculino,21.086512,186.0,89.558854,Si,Si,2.0,3.0,A veces,No,1.005727,No,0.0,0.798219,A veces,Transporte_publico,Sobrepeso_I
+23,Norte,Femenino,25.524336,167.0,104.768318,Si,Si,3.0,3.0,A VECES,No,1.436616,No,0.167086,0.764717,A veces,Transporte_publico,Obesidad_III
+24,Sur,mujer,27.899784,1.7,74.244004,Si,Si,2.0,3.0,A VECES,No,2.0,No,1.722053,0.0,A veces,Auto,Sobrepeso_I
+25,Central,Femenino,23.0,1.63,45.0,Si,No,3.0,3.0,A veces,No,3.0,Si,2.0,0.0,Nunca,Transporte_publico,Peso_insuficiente
+26,Central,Femenino,19.0,1.61,62.0,Si,Si,3.0,1.0,Frecuente,No,2.0,No,1.0,0.0,Frecuente,Transporte_publico,Peso_normal
+27,Central,Masculino,21.0,1.67,60.0,Si,Si,2.0,3.0,Frecuente,No,2.0,No,,1.0,A veces,Transporte_publico,Peso_normal
+28,Central,Masculino,21.0,1.75,62.0,No,Si,3.0,4.0,Frecuente,Si,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+29,Sur,masculino,22.730414,1.758687,89.673648,Si,Si,2.164062,2.983201,A veces,No,,No,0.752926,0.0,A veces,Transporte_publico,Sobrepeso_II
+30,Sur,Femenino,17.000433,1.584951,44.411801,No,Si,2.737762,3.0,A veces,No,2.310921,No,2.240714,1.59257,A veces,Transporte_publico,Peso_insuficiente
+31,Norte,Femenino,20.796266,180.0,152.473675,Si,Si,3.0,3.0,A veces,No,2.322003,No,0.886602,0.843283,A veces,Transporte_publico,Obesidad_III
+32,Norte,Masculino,25.0,170.0,83.0,No,Si,3.0,3.0,A veces,No,3.0,Si,,0.0,Nunca,Moto,Sobrepeso_II
+33,Central,Femenino,17.0,1.56,51.0,No,Si,3.0,3.0,a veces,No,1.0,No,0.0,2.0,NUNCA,Transporte_publico,Peso_normal
+34,Norte,Femenino,23.0,166.0,60.0,Si,Si,2.0,1.0,A veces,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+35,Sur,Femenino,21.012569,1.758628,78.370039,Si,Si,3.0,1.0,A veces,No,,No,2.971832,0.0,A veces,Transporte_publico,Sobrepeso_I
+36,Norte,Masculino,23.0,180.0,106.528811,Si,Si,2.123159,3.0,A veces,No,2.415343,No,0.295178,,A VECES,Transporte_publico,Obesidad_I
+37,Norte,Femenino,19.931667,165.0,49.026214,No,No,2.530066,3.0,A veces,No,1.965237,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+38,Sur,mujer,21.67315,1.5,63.65233,Si,No,2.0,1.474836,a veces,No,2.0,No,0.274838,,NUNCA,Transporte_publico,Sobrepeso_II
+39,Sur,Masculino,16.198153,1.691007,52.629374,No,Si,2.0,2.000986,A veces,No,2.673835,No,0.99295,0.474836,A veces,Transporte_publico,Peso_insuficiente
+40,Central,Masculino,27.0,1.93,102.0,Si,Si,2.0,1.0,A veces,No,1.0,No,1.0,,a veces,Transporte_publico,Sobrepeso_II
+41,Central,Femenino,18.0,1.62,55.0,Si,Si,2.0,3.0,Frecuente,No,1.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+42,Central,masculino,21.701643,1.896073,90.52446,Si,Si,2.427689,3.715306,A veces,No,2.876096,No,1.815768,0.426465,a veces,Transporte_publico,Sobrepeso_I
+43,Sur,masculino,26.740655,1.863883,120.202596,Si,Si,2.247795,3.0,A veces,No,,No,0.712726,0.0,A veces,Transporte_publico,Obesidad_II
+44,Central,masculino,26.0,1.7,70.0,No,Si,2.0,3.0,A veces,Si,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+45,Norte,F,21.0,161.0,54.5,Si,Si,3.0,3.0,A veces,No,3.0,No,0.0,1.0,A veces,Caminando,Peso_normal
+46,Central,Masculino,21.929387,1.698049,75.0,Si,Si,2.0,3.0,A veces,No,2.763573,No,1.502711,0.127879,A veces,Transporte_publico,Sobrepeso_I
+47,Central,femenino,21.813083,1.712515,51.710723,Si,Si,2.8813,3.087544,Frecuente,No,1.24818,No,1.952427,0.427461,Nunca,Transporte_publico,Peso_insuficiente
+48,Sur,Masculino,17.0,1.844749,59.313525,Si,Sí,2.432886,3.0,A veces,No,2.0,No,2.697949,1.0,Nunca,Auto,Peso_insuficiente
+49,Norte,femenino,23.0,167.0,83.15115,Si,Si,2.928234,1.458507,A VECES,No,2.777379,No,0.354541,1.707018,Nunca,Transporte_publico,Obesidad_I
+50,Sur,M,18.0,1.799779,108.934574,Si,Sí,2.0,1.194815,A VECES,No,2.434832,No,,1.541455,Nunca,Transporte_publico,Obesidad_I
+51,Central,mujer,24.0,1.6,45.0,Si,No,2.0,3.0,Nunca,No,2.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_insuficiente
+52,Sur,F,45.0,1.675953,79.66832,Si,Si,2.598051,3.0,a veces,No,1.0,No,,0.0,Nunca,Auto,Sobrepeso_II
+53,Central,femenino,17.0,1.63,65.0,No,Si,2.0,1.0,a veces,No,3.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+54,Central,Varón,30.605225,1.75,120.0,Si,Sí,2.758394,3.0,A veces,Si,2.174248,No,1.079524,1.358163,A veces,Auto,Obesidad_II
+55,Norte,Masculino,26.70371,180.0,85.770013,Si,SI,2.872121,3.051804,A veces,No,2.111913,No,0.843709,0.153559,A veces,Auto,Sobrepeso_I
+56,Norte,Masculino,18.0,176.0,52.331172,No,Si,2.596364,3.0,A veces,No,2.0,No,0.281734,1.488372,A veces,Transporte_publico,Peso_insuficiente
+57,Sur,Masculino,23.384374,1.725587,82.480214,Si,Si,2.712747,2.853676,A veces,No,1.526313,No,1.0,0.173665,A veces,Transporte_publico,Sobrepeso_II
+58,Sur,Femenino,21.016623,1.755427,78.300084,Si,Si,3.0,1.0,A veces,No,2.0,No,2.877473,,A veces,Transporte_publico,Sobrepeso_I
+59,Sur,Masculino,22.0,1.68,55.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,2.0,A veces,Auto,Peso_normal
+60,Norte,Femenino,19.726522,151.0,61.10403,No,Si,2.778079,3.0,A veces,No,1.696691,Si,,0.879925,A veces,Transporte_publico,Sobrepeso_I
+61,Central,Femenino,19.0,1.51,59.0,Si,SI,3.0,3.0,Frecuente,No,1.0,No,1.0,2.0,A veces,Caminando,Sobrepeso_I
+62,Central,Masculino,21.0,1.714253,75.0,Si,Si,2.0,3.0,A veces,No,1.081597,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+63,Central,Masculino,22.343204,1.87034,121.458232,Si,Sí,2.836055,2.675411,A veces,No,1.711666,No,,0.0,A veces,Transporte_publico,Obesidad_II
+64,Central,Masculino,30.022598,1.747739,83.314157,Si,Si,2.011656,3.165837,A veces,No,,No,0.889963,0.395979,Nunca,Auto,Sobrepeso_II
+65,Norte,Femenino,1.0,156.0,42.12617,No,Si,3.0,1.989398,A veces,No,,No,0.206025,0.284453,Nunca,Transporte_publico,Peso_insuficiente
+66,Norte,femenino,20.345161,153.0,41.96525,No,Si,2.88853,1.0,Frecuente,No,1.0,No,0.0,0.196224,A veces,Transporte_publico,Peso_insuficiente
+67,Central,Masculino,23.0,1.65,60.0,Si,No,2.0,3.0,A veces,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+68,Central,Femenino,21.125098,1.767479,56.265959,Si,Si,2.371338,3.998766,Frecuente,No,2.263466,No,2.0,0.844004,Nunca,Transporte_publico,Peso_insuficiente
+69,Sur,masculino,31.398281,1.919543,101.544589,Si,Si,2.0,1.005391,A VECES,No,2.001936,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+70,Norte,Femenino,16.240576,162.0,65.062945,Si,Si,2.388168,1.0,A veces,No,1.438018,Si,0.110887,1.165817,Nunca,Transporte_publico,Sobrepeso_I
+71,Central,Varón,18.0,1.811189,108.800964,Si,Si,2.0,1.250548,A veces,No,2.121176,No,1.0,0.741069,Nunca,Transporte_publico,Obesidad_I
+72,Central,Femenino,26.0,1.626483,111.357062,Si,Sí,3.0,3.0,A VECES,No,2.61939,No,0.0,0.171034,A veces,Transporte_publico,Obesidad_III
+73,Central,mujer,26.0,1.610636,105.423532,Si,Si,3.0,3.0,a veces,No,2.180566,No,,0.519905,A veces,Transporte_publico,Obesidad_III
+74,Sur,M,18.0,1.77,87.0,Si,Si,3.0,3.0,A veces,No,2.0,No,1.0,1.0,Frecuente,Transporte_publico,Sobrepeso_II
+75,Sur,Femenino,33.251015,1.730379,75.920519,Si,Sí,2.013782,2.625942,a veces,No,1.045586,No,0.553305,0.480214,A veces,Auto,Sobrepeso_I
+76,Central,masculino,24.0409,1.603226,99.605527,Si,Si,3.0,1.262831,A veces,No,1.0,No,0.883171,1.382995,Nunca,Transporte_publico,Obesidad_II
+77,Sur,Femenino,38.464538,1.696423,78.967919,Si,SI,3.0,3.0,A veces,No,,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+78,Sur,Femenino,21.287999,1.555778,42.3601,No,No,2.318355,1.082304,Frecuente,No,1.220365,No,0.033328,,Nunca,Transporte_publico,Peso_insuficiente
+79,Central,M,29.633715,1.834842,105.19936,Si,Si,2.805533,3.0,A veces,No,1.882847,No,2.0,0.70778,A veces,Auto,Obesidad_I
+80,Norte,Masculino,21.997335,165.0,80.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.527341,2.0,Nunca,Transporte_publico,Sobrepeso_II
+81,Norte,Masculino,26.0,191.0,84.0,Si,Sí,3.0,3.0,frecuente,Si,2.0,No,2.0,2.0,Frecuente,Transporte_publico,Peso_normal
+82,Norte,femenino,35.194089,167.0,73.193589,Si,No,3.0,2.809716,A veces,No,1.591425,No,0.178023,0.0,a veces,Auto,Sobrepeso_I
+83,Norte,Femenino,26.0,165.0,60.0,No,No,3.0,4.0,Siempre,No,2.0,No,2.0,0.0,Nunca,Caminando,Peso_normal
+84,Sur,Masculino,26.0,1.83,82.0,No,Si,2.0,3.0,Siempre,No,,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+85,Central,Masculino,33.0,1.85,97.92035,Si,Si,2.0,3.0,A VECES,No,1.117464,No,1.0,0.663649,A veces,Transporte_publico,Sobrepeso_II
+86,Sur,mujer,18.94093,1.746411,133.676663,Si,Si,3.0,3.0,A veces,No,2.864933,No,1.501647,0.786846,A veces,Transporte_publico,Obesidad_III
+87,Central,mujer,25.289428,1.686033,104.772164,Si,Si,3.0,3.0,A VECES,No,1.299194,No,0.234303,0.946888,A veces,Transporte_publico,Obesidad_III
+88,Norte,Femenino,23.0,175.0,56.0,No,No,3.0,3.0,Frecuente,No,2.0,No,2.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+89,Central,Masculino,21.669478,1.75,96.940255,Si,Si,2.0,3.0,A veces,No,2.771469,No,2.359339,1.206251,nunca,Transporte_publico,Obesidad_I
+90,Central,masculino,19.179932,1.637537,70.0,Si,SI,2.0,1.030416,A veces,No,2.118716,No,0.529259,0.0,Nunca,Transporte_publico,Sobrepeso_I
+91,Central,femenino,38.952866,1.568441,62.855073,Si,Si,2.002796,3.0,A veces,No,2.526775,No,0.271174,0.806069,A VECES,Auto,Sobrepeso_I
+92,Norte,Masculino,26.947786,165.0,99.592225,Si,Si,2.935157,1.845858,A veces,No,1.0,No,1.089891,0.715993,Nunca,Transporte_publico,Obesidad_II
+93,Central,mujer,19.0,1.69,70.0,Si,No,2.0,1.0,Nunca,No,2.0,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+94,Central,Femenino,17.0,1.7,56.0,Si,Si,1.0,3.0,A VECES,No,1.0,No,1.0,1.0,Nunca,Auto,Peso_normal
+95,Sur,Femenino,19.029494,1.573987,44.316254,No,No,2.984004,3.0,Frecuente,No,1.015249,Si,1.327833,0.0,a veces,Transporte_publico,Peso_insuficiente
+96,Central,Femenino,24.0,1.65,60.0,Si,No,2.0,3.0,A VECES,No,3.0,Si,1.0,0.0,nunca,Transporte_publico,Peso_normal
+97,Sur,Masculino,35.322112,1.78,102.265955,Si,Si,2.787589,1.114564,A veces,No,3.0,No,2.710338,0.572185,A veces,Auto,Obesidad_I
+98,Norte,Femenino,21.0,160.0,61.0,No,Si,2.0,3.0,A veces,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+99,Central,Masculino,19.515324,1.879144,112.932984,Si,Si,2.0,2.152733,A veces,No,2.53369,No,0.917563,1.285838,A veces,Transporte_publico,Obesidad_I
+100,Central,Femenino,17.420269,1.489409,53.620604,No,SI,1.836554,1.865238,A veces,No,2.0,Si,0.320209,1.969507,A veces,Transporte_publico,Sobrepeso_I
+101,Central,Varón,26.787842,1.817641,87.107317,No,Si,2.971588,2.743277,A veces,No,1.394883,No,2.0,0.470243,Nunca,Auto,Sobrepeso_I
+102,Central,Masculino,24.733308,1.639383,91.267087,Si,Si,1.036159,3.0,A veces,No,1.0,No,0.344013,0.329367,A veces,Auto,Obesidad_I
+103,Sur,M,19.0,1.74,74.0,Si,No,3.0,1.0,a veces,No,3.0,No,,1.0,A veces,Caminando,Peso_normal
+104,Sur,Masculino,24.284861,1.776347,82.329047,Si,Si,1.989905,3.054899,A veces,No,2.080968,No,1.107543,,Nunca,Transporte_publico,Sobrepeso_I
+105,Norte,F,29.0,174.0,72.0,Si,No,3.0,3.0,Siempre,No,,No,0.0,0.0,a veces,Auto,Peso_normal
+106,Central,F,19.0,1.61,53.8,Si,Si,2.0,3.0,Siempre,No,2.0,No,2.0,,A veces,Transporte_publico,Peso_normal
+107,Norte,Masculino,26.0,170.0,72.0,No,Sí,2.0,3.0,siempre,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+108,Norte,Masculino,26.358919,176.0,82.228794,Si,Si,1.94313,3.559841,A veces,No,2.367996,No,0.23553,0.879977,A VECES,Transporte_publico,Sobrepeso_I
+109,Norte,Femenino,21.394047,179.0,137.832414,Si,Sí,3.0,3.0,A VECES,No,2.682909,No,1.318743,0.900497,A VECES,Transporte_publico,Obesidad_III
+110,Central,masculino,21.0,1.693628,75.0,Si,Si,2.0,3.0,A veces,No,1.833055,No,1.0,,A veces,Transporte_publico,Sobrepeso_I
+111,Central,Femenino,26.0,1.654784,111.933152,Si,Si,3.0,3.0,A veces,No,2.770125,No,0.0,0.088236,A veces,Transporte_publico,Obesidad_III
+112,Central,Masculino,23.0,1.718981,81.66995,Si,Si,2.0,1.729553,A veces,No,1.400247,No,0.887923,,A VECES,Transporte_publico,Sobrepeso_II
+113,Norte,Femenino,38.097395,170.0,78.156035,Si,Si,3.0,3.0,A veces,No,2.166024,No,0.0,0.0,NUNCA,Auto,Sobrepeso_II
+114,Norte,Varón,34.647036,177.0,85.0,Si,Si,2.802696,3.0,A veces,No,2.978465,No,,0.936925,Nunca,Auto,Sobrepeso_II
+115,Central,femenino,25.470652,1.680218,104.807284,Si,Si,3.0,3.0,A veces,No,1.423073,No,0.197993,0.763359,A veces,Transporte_publico,Obesidad_III
+116,Sur,Varón,19.693804,1.8,85.0,Si,Si,2.188722,3.0,A veces,No,2.721356,No,1.528968,1.0,A veces,Transporte_publico,Sobrepeso_I
+117,Central,Femenino,21.012542,1.615145,68.653347,Si,Si,1.729824,3.612941,Nunca,No,2.043703,No,0.562118,0.426643,A veces,Transporte_publico,Sobrepeso_I
+118,Norte,Femenino,24.0,160.0,51.0,Si,Si,1.0,3.0,a veces,No,2.0,No,0.0,1.0,A VECES,Auto,Peso_normal
+119,Norte,Femenino,21.0,163.0,60.0,Si,Si,3.0,3.0,Siempre,Si,2.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+120,Central,F,24.163526,1.64603,49.839685,Si,Si,3.0,3.590039,Frecuente,No,2.7305,No,0.107078,0.0,Nunca,Transporte_publico,Peso_insuficiente
+121,Norte,Masculino,22.177099,174.0,96.738014,Si,Si,2.0,3.0,A veces,No,2.697661,No,2.614909,1.229474,Nunca,Transporte_publico,Obesidad_I
+122,Central,Femenino,20.206358,1.738397,93.890682,Si,Si,1.996638,3.0,A veces,No,1.033199,No,0.584793,0.518297,A veces,Transporte_publico,Obesidad_I
+123,Central,Femenino,38.547267,1.526472,75.150345,Si,Sí,2.0,3.0,A veces,No,1.084442,No,0.0,0.0,A veces,Auto,Obesidad_I
+124,Norte,Masculino,25.0,189.0,75.0,No,No,3.0,3.0,Frecuente,No,2.0,Si,3.0,0.0,Nunca,Transporte_publico,Peso_normal
+125,Sur,Femenino,18.634286,1.669354,126.088301,Si,Si,3.0,3.0,A veces,No,1.144539,No,0.922014,0.899673,A VECES,Transporte_publico,Obesidad_III
+126,Central,Femenino,19.833682,1.699464,49.676046,No,SI,1.270448,3.731212,Frecuente,No,1.876915,No,,1.0,A veces,Transporte_publico,Peso_insuficiente
+127,Norte,Femenino,19.005725,160.0,73.513873,Si,No,2.942154,2.667711,A veces,No,2.184768,No,1.524405,0.805008,A veces,Transporte_publico,Sobrepeso_II
+128,Norte,Femenino,25.950898,165.0,104.791035,Si,Si,3.0,3.0,A veces,No,2.535629,No,0.152713,0.7702,A veces,Transporte_publico,Obesidad_III
+129,Central,Varón,20.0,1.81,79.0,Si,No,3.0,1.0,A VECES,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+130,Norte,Masculino,18.0,187.0,67.0,Si,Si,3.0,3.0,Frecuente,No,3.0,Si,1.0,1.0,A VECES,Auto,Peso_normal
+131,Norte,Femenino,25.996716,163.0,105.037203,Si,Si,3.0,3.0,A veces,No,,No,0.008013,0.503896,A VECES,Transporte_publico,Obesidad_III
+132,Central,mujer,25.461411,1.7,78.055968,Si,Si,2.661556,3.0,A veces,No,3.0,No,0.55181,0.658783,A veces,Transporte_publico,Sobrepeso_II
+133,Central,masculino,21.709159,1.658393,80.0,Si,Si,2.0,3.0,A veces,No,2.0,No,2.939733,1.692287,Nunca,Transporte_publico,Sobrepeso_II
+134,Central,M,30.444081,1.761068,118.370628,Si,Si,2.571274,3.0,A VECES,No,2.224164,No,1.018158,1.152899,A veces,Auto,Obesidad_II
+135,Central,M,26.0,1.74,80.0,No,No,2.0,3.0,a veces,No,,No,,0.0,NUNCA,Auto,Sobrepeso_I
+136,Norte,Masculino,22.0,169.0,80.539,Si,Si,2.0,2.038373,a veces,No,2.0,No,2.70825,1.506576,A veces,Transporte_publico,Sobrepeso_II
+137,Central,Femenino,19.724106,1.734832,50.0,No,No,1.123939,4.0,Frecuente,No,1.0,No,1.303976,0.371941,A veces,Transporte_publico,Peso_insuficiente
+138,Sur,Masculino,30.607546,1.757132,118.565568,Si,Si,2.918113,3.0,A VECES,No,,No,1.076248,1.480875,A veces,Auto,Obesidad_II
+139,Central,mujer,32.0,1.57,57.0,Si,Si,3.0,3.0,A veces,No,2.0,No,0.0,0.0,A veces,Auto,Peso_normal
+140,Norte,Femenino,21.165574,162.0,68.908136,Si,Si,1.188089,3.269088,A veces,No,2.039535,No,0.779686,1.043108,A VECES,Transporte_publico,Sobrepeso_I
+141,Central,Femenino,22.654316,1.621233,82.0,Si,Si,1.063449,1.0,A VECES,No,2.0,No,0.0,1.482016,A veces,Transporte_publico,Obesidad_I
+142,Central,masculino,18.0,1.716691,51.149283,Si,Sí,1.813234,3.0,A VECES,No,,No,0.520407,1.673584,A veces,Transporte_publico,Peso_insuficiente
+143,Sur,masculino,23.0,1.715118,81.650778,Si,SI,2.0,1.976744,A veces,No,1.628997,No,,1.127675,A veces,Transporte_publico,Sobrepeso_II
+144,Central,femenino,20.700876,1.68838,121.889803,Si,Si,3.0,3.0,A veces,No,1.353167,No,1.093679,0.534553,A veces,Transporte_publico,Obesidad_III
+145,Central,masculino,23.0,1.74,93.5,No,Si,2.0,3.0,frecuente,Si,1.0,No,1.0,1.0,Frecuente,Auto,Obesidad_I
+146,Central,Masculino,19.684891,1.700627,78.048207,Si,No,1.653081,2.753418,A veces,No,2.192063,No,1.474937,0.518542,A veces,Transporte_publico,Sobrepeso_II
+147,Norte,Masculino,33.0,185.0,93.0,Si,Si,2.0,3.0,A veces,No,1.0,No,1.0,1.0,A veces,Caminando,Sobrepeso_II
+148,Sur,Femenino,17.451085,1.6,65.0,Si,Sí,3.0,2.449723,A veces,No,2.0,Si,0.479592,1.720642,A veces,Transporte_publico,Sobrepeso_I
+149,Sur,Femenino,38.378056,1.67805,77.224574,Si,Si,2.444599,3.0,A veces,No,1.029798,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+150,Central,Femenino,19.084967,1.768435,49.597765,No,Si,3.0,3.725797,A veces,No,1.191401,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+151,Norte,Varón,17.0,179.0,57.0,Si,Si,2.0,4.0,Frecuente,No,,No,2.0,1.0,Nunca,Transporte_publico,Peso_insuficiente
+152,Sur,Masculino,32.787101,1.903832,99.812443,Si,SI,2.0,1.863012,A veces,No,2.196471,No,1.0,0.0,A VECES,Auto,Sobrepeso_II
+153,Norte,femenino,38.692265,155.0,62.341438,Si,Si,2.956671,2.965494,A veces,No,2.868132,No,0.0,0.54925,A veces,Auto,Sobrepeso_I
+154,Norte,Masculino,300.0,172.0,83.0,Si,Si,2.0,1.0,A veces,No,2.0,No,3.0,0.0,A veces,Auto,Sobrepeso_II
+155,Central,Masculino,22.0,1.65,80.0,Si,No,2.0,3.0,A veces,No,2.0,No,3.0,2.0,Nunca,Caminando,Sobrepeso_II
+156,Central,Varón,26.69858,1.816298,86.963765,No,SI,2.341133,1.578521,A veces,No,2.0,No,2.0,0.554072,Nunca,Auto,Sobrepeso_I
+157,Norte,Masculino,39.825592,171.0,108.012603,Si,Si,2.487781,3.755976,A VECES,No,1.0,No,1.860765,0.0,Nunca,Auto,Obesidad_II
+158,Central,Femenino,23.629159,1.70002,80.420434,Si,Si,2.0,3.0,A veces,No,2.386904,No,0.926201,1.34403,A veces,Transporte_publico,Sobrepeso_II
+159,Norte,Masculino,18.0,176.0,69.5,No,No,3.0,3.0,Frecuente,No,3.0,No,2.0,2.0,Nunca,Transporte_publico,Peso_normal
+160,Central,Femenino,18.0,1.64,56.0,Si,SI,3.0,3.0,FRECUENTE,No,,Si,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+161,Central,masculino,21.948577,1.773594,105.000789,Si,SI,2.252653,3.0,A veces,No,2.962371,No,1.0,0.0,A veces,Transporte_publico,Obesidad_I
+162,Norte,Masculino,22.396504,187.0,61.411141,Si,Si,3.0,3.263201,A veces,No,,No,1.557737,0.000355,a veces,Auto,Peso_insuficiente
+163,Central,F,23.0,1.710129,50.079991,Si,Si,2.0,3.0,Frecuente,No,,No,0.373186,2.0,NUNCA,Transporte_publico,Peso_insuficiente
+164,Central,Masculino,22.851834,1.854592,63.611109,Si,Si,3.0,3.691226,A veces,No,2.650989,No,1.228136,0.8324,A veces,Auto,Peso_insuficiente
+165,Central,M,24.000307,1.607939,100.618239,Si,Si,2.877743,1.311797,A veces,No,1.000463,No,0.182249,1.4312,Nunca,Transporte_publico,Obesidad_II
+166,Sur,masculino,23.0,1.65,67.0,Si,SI,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+167,Norte,Masculino,25.0,183.0,121.0,Si,NO,3.0,3.0,A veces,No,,No,2.0,0.0,A veces,Caminando,Obesidad_II
+168,Sur,masculino,24.108711,1.7,80.761409,Si,Si,2.0,3.0,A veces,No,,No,0.0,0.322405,A veces,Transporte_publico,Sobrepeso_II
+169,Central,M,19.478533,1.804099,85.196279,Si,Si,2.459976,3.30846,A veces,No,2.078011,No,1.779646,0.871772,A veces,Transporte_publico,Sobrepeso_I
+170,Central,Femenino,26.0,1.649178,111.914361,Si,SI,3.0,3.0,A veces,No,2.884077,No,0.0,0.096576,A veces,Transporte_publico,Obesidad_III
+171,Central,femenino,22.926352,1.715597,50.0,Si,Si,2.449267,3.647154,Frecuente,No,1.266018,No,0.866045,0.097234,NUNCA,Transporte_publico,Peso_insuficiente
+172,Norte,femenino,41.403862,157.0,81.056851,Si,SI,2.152264,2.977999,A veces,No,1.513199,No,0.0,0.0,A veces,Auto,Obesidad_I
+173,Central,M,38.825189,1.780846,85.687751,Si,Si,2.901924,1.124977,A veces,No,2.76382,No,0.8554,0.999183,A veces,Auto,Sobrepeso_II
+174,Central,Femenino,21.413498,1.7199,133.886031,Si,Si,3.0,3.0,A VECES,No,2.41752,No,1.556155,0.873936,A veces,Transporte_publico,Obesidad_III
+175,Norte,Femenino,21.82165,149.0,62.269912,Si,No,2.0,1.477581,A veces,No,1.995035,No,0.324676,0.51743,Nunca,Transporte_publico,Sobrepeso_II
+176,Central,Varón,21.0,1.71,100.0,Si,Si,2.0,1.0,A veces,No,2.0,No,0.0,2.0,Nunca,Transporte_publico,Obesidad_I
+177,Central,Femenino,17.0,1.6,59.0,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,2.0,Nunca,Transporte_publico,Peso_normal
+178,Central,mujer,20.0,1.56,51.5,No,Sí,2.0,3.0,frecuente,No,2.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+179,Central,mujer,19.911246,1.530248,68.85097,Si,No,2.258795,3.53009,A veces,No,1.172186,No,0.678943,1.0,Nunca,Transporte_publico,Sobrepeso_II
+180,Central,Masculino,19.703095,1.704141,78.790936,Si,No,1.650505,3.0,A veces,No,2.0,No,1.73234,1.0,A veces,Transporte_publico,Sobrepeso_II
+181,Norte,F,21.708354,170.0,50.165754,Si,Si,2.969205,3.21043,Frecuente,No,2.765876,No,0.611037,1.300692,Nunca,Transporte_publico,Peso_insuficiente
+182,Norte,Masculino,23.367212,185.0,87.083266,Si,Si,2.0,1.097312,A veces,No,1.328835,No,1.264257,1.0,A veces,Auto,Sobrepeso_I
+183,Norte,F,22.209706,159.0,44.050251,No,No,3.0,2.99321,Frecuente,No,2.702783,No,1.967234,0.0,Nunca,Transporte_publico,Peso_insuficiente
+184,Norte,Femenino,22.0,165.0,58.0,Si,Si,3.0,4.0,Frecuente,No,2.0,No,1.0,0.0,A veces,Transporte_publico,Peso_normal
+185,Norte,Varón,17.971574,172.0,85.0,Si,Si,2.0,3.0,A veces,No,2.802498,No,1.0,0.41758,A VECES,Transporte_publico,Sobrepeso_II
+186,Central,Masculino,21.0,1.8,75.0,Si,Si,3.0,3.0,Frecuente,No,1.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+187,Norte,Femenino,21.0,175.0,77.929204,Si,Si,2.915279,1.104642,a veces,No,1.530046,No,1.360635,0.0,A veces,Transporte_publico,Sobrepeso_I
+188,Sur,mujer,19.442663,1.627812,82.0,Si,Si,1.081585,2.870661,A veces,No,1.11756,No,0.0,1.616826,A veces,Transporte_publico,Obesidad_I
+189,Norte,Masculino,27.349745,184.0,97.58826,Si,Si,2.923433,1.338033,A VECES,No,1.944095,No,1.931829,1.0,A veces,Transporte_publico,Sobrepeso_II
+190,Sur,Masculino,22.087389,1.786238,89.802492,Si,Sí,1.718156,1.631184,A veces,No,2.0,No,0.0,0.306124,A veces,Transporte_publico,Sobrepeso_II
+191,Central,masculino,55.24625,1.769269,80.491339,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,Nunca,Auto,Sobrepeso_II
+192,Central,Masculino,38.10894,1.752863,119.201465,Si,Si,2.499388,2.989791,A veces,No,1.959777,No,0.6081,0.64676,A veces,Auto,Obesidad_II
+193,Central,masculino,25.659092,1.84842,117.631707,Si,Si,2.128574,3.0,A veces,No,2.531984,No,1.003294,0.026575,A veces,Transporte_publico,Obesidad_II
+194,Norte,masculino,34.098174,184.0,91.798103,Si,SI,2.0,2.997414,A veces,No,1.259454,No,0.935217,0.9976,A veces,Auto,Sobrepeso_II
+195,Central,Varón,19.0,1.67,68.0,No,Si,2.0,3.0,A VECES,No,2.0,No,1.0,0.0,A VECES,Transporte_publico,Peso_normal
+196,Central,Masculino,17.0,1.67,60.0,No,No,2.0,4.0,Siempre,No,2.0,No,0.0,2.0,Nunca,Transporte_publico,Peso_normal
+197,Sur,Femenino,18.947102,1.518917,60.267427,No,Si,2.838037,2.737571,A veces,No,1.144467,Si,0.753782,1.286844,A VECES,Transporte_publico,Sobrepeso_I
+198,Central,Femenino,19.408999,1.670552,49.804245,No,Si,2.794197,3.409363,A veces,No,1.543021,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+199,Central,Masculino,19.0,1.69,60.0,No,Si,2.0,3.0,siempre,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+200,Central,masculino,23.0,1.72,82.0,Si,Si,2.0,1.0,A veces,No,1.0,No,,1.0,A veces,Transporte_publico,Sobrepeso_II
+201,Central,Varón,19.749627,1.680764,79.621463,Si,No,1.83746,3.0,A veces,No,2.0,No,1.194519,1.212762,Nunca,Transporte_publico,Sobrepeso_II
+202,Central,Femenino,19.0,1.76,79.544998,Si,Si,2.0,1.146794,A veces,No,3.0,No,1.809745,1.690102,Frecuente,Transporte_publico,Sobrepeso_I
+203,Norte,Femenino,22.998709,174.0,53.65727,Si,Si,2.241606,3.0,Frecuente,No,1.846626,No,2.460238,0.814518,Nunca,Transporte_publico,Peso_insuficiente
+204,Central,M,22.283082,1.870931,89.251639,Si,Si,2.0,2.799979,A veces,No,1.081333,No,0.444347,1.0,a veces,Transporte_publico,Sobrepeso_I
+205,Sur,Masculino,31.335093,1.665798,89.738596,Si,Sí,2.274164,1.049534,a veces,No,1.358172,No,1.482411,0.0,A veces,Auto,Obesidad_I
+206,Sur,Femenino,16.172992,1.603842,65.0,Si,Si,2.543563,1.0,A veces,No,2.0,Si,0.694281,1.056911,A veces,Transporte_publico,Sobrepeso_I
+207,Norte,Masculino,21.379676,170.0,96.710735,Si,Si,2.0,2.961192,A veces,No,2.623344,No,0.981686,1.35537,Nunca,Transporte_publico,Obesidad_I
+208,Norte,Femenino,37.471683,155.0,76.082517,Si,Si,2.0,2.765213,A veces,No,1.551266,No,1.350001,0.0,A veces,Auto,Obesidad_I
+209,Sur,M,40.564513,1.748015,109.758736,Si,Si,2.310751,3.220181,A veces,No,1.006643,No,1.15804,,Nunca,Auto,Obesidad_II
+210,Central,Femenino,26.0,1.633945,111.9307,Si,Si,3.0,3.0,A veces,No,2.682804,No,0.0,0.15171,A veces,Transporte_publico,Obesidad_III
+211,Norte,Masculino,20.534089,186.0,115.39792,Si,Si,2.0,3.0,A veces,No,3.0,No,0.987591,,A veces,Transporte_publico,Obesidad_I
+212,Sur,Femenino,22.0,1.65,60.0,Si,SI,3.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Auto,Peso_normal
+213,Central,Femenino,21.868932,1.731261,78.175706,Si,Si,2.577427,1.0,A VECES,No,2.0,No,2.287423,0.0,A veces,Transporte_publico,Sobrepeso_I
+214,Norte,F,23.0,160.0,63.0,Si,No,3.0,3.0,FRECUENTE,No,2.0,No,3.0,0.0,A veces,Caminando,Peso_normal
+215,Central,M,55.137881,1.657221,80.993213,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,Nunca,Auto,Sobrepeso_II
+216,Central,masculino,23.826684,1.783609,120.921535,Si,Si,2.591292,2.956422,A veces,No,2.31083,No,1.48524,0.281815,A VECES,Transporte_publico,Obesidad_II
+217,Central,F,33.0,1.59,60.0,No,Si,3.0,1.0,Frecuente,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+218,Sur,Masculino,21.0,1.65,53.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,A VECES,Transporte_publico,Peso_normal
+219,Sur,masculino,34.993835,1.752456,84.783756,Si,Si,2.63165,2.98212,A veces,No,2.778587,No,2.667739,0.905181,Nunca,Auto,Sobrepeso_II
+220,Norte,Masculino,21.384259,178.0,89.667406,Si,Sí,1.780746,1.471053,A veces,No,2.0,No,0.467562,0.568668,A veces,Transporte_publico,Sobrepeso_II
+221,Norte,F,34.0,168.0,77.0,Si,no,3.0,1.0,A veces,No,2.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+222,Central,M,20.0,1.81748,85.0,Si,Si,2.95118,3.0,A veces,No,3.0,No,2.433918,0.561602,A veces,Transporte_publico,Sobrepeso_I
+223,Central,Masculino,30.686701,1.644517,100.004418,Si,Si,2.96405,2.123138,A veces,No,1.0,No,1.699181,0.620465,Nunca,Transporte_publico,Obesidad_II
+224,Central,F,21.0,1.52,42.0,No,Si,3.0,1.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+225,Central,femenino,26.0,1.65,63.0,No,Si,3.0,3.0,A veces,No,,No,1.0,0.0,Nunca,Caminando,Peso_normal
+226,Norte,masculino,31.662814,185.0,98.912261,Si,Sí,2.399531,2.623079,A veces,No,2.535127,No,,0.606264,a veces,Auto,Sobrepeso_II
+227,Central,masculino,22.874658,1.713343,75.828119,Si,Si,2.507841,3.648194,A veces,No,1.279756,No,0.132629,,A veces,Transporte_publico,Sobrepeso_I
+228,Sur,masculino,20.261925,1.807538,85.316125,Si,Sí,2.0,3.0,A veces,No,1.968011,No,1.072662,0.776758,A veces,Transporte_publico,Sobrepeso_I
+229,Central,Femenino,20.843363,1.521008,67.083121,Si,no,2.493448,3.0,A veces,No,1.849997,No,0.954459,1.444532,Nunca,Transporte_publico,Sobrepeso_II
+230,Norte,Femenino,21.207423,171.0,121.864326,Si,Si,3.0,3.0,A veces,No,1.615548,No,1.376534,0.926052,a veces,Transporte_publico,Obesidad_III
+231,Norte,Masculino,17.486869,184.0,58.943347,Si,Si,2.767731,3.821168,A veces,No,2.0,No,2.0,0.556245,Nunca,Auto,Peso_insuficiente
+232,Central,M,21.0,1.72,72.0,Si,Si,3.0,3.0,Siempre,No,3.0,Si,3.0,0.0,A veces,Auto,Peso_normal
+233,Central,Masculino,18.118277,1.654757,80.0,Si,SI,2.821977,2.044035,a veces,No,1.954968,No,1.0,0.854536,Nunca,Transporte_publico,Sobrepeso_II
+234,Sur,Masculino,21.378039,1.718534,80.0,Si,SI,2.0,3.0,A veces,No,2.0,No,2.721646,1.269982,NUNCA,Transporte_publico,Sobrepeso_II
+235,Central,Femenino,20.971429,1.549311,41.557468,No,Sí,2.927218,1.0,FRECUENTE,No,1.0,No,0.0,0.276592,A veces,Transporte_publico,Peso_insuficiente
+236,Central,Femenino,18.166318,1.649553,82.323954,Si,Sí,2.864776,3.0,A VECES,No,1.876915,No,0.631565,0.186414,Nunca,Transporte_publico,Obesidad_I
+237,Norte,Femenino,27.0,155.0,62.877347,No,SI,2.244142,1.704828,A veces,No,1.0,No,0.792929,0.395468,A veces,Transporte_publico,Sobrepeso_I
+238,Norte,Femenino,20.0,150.0,44.0,No,SI,2.0,3.0,A VECES,No,1.0,No,0.0,0.0,A veces,Auto,Peso_normal
+239,Norte,F,39.392569,171.0,85.720788,Si,Si,2.944287,1.466393,A veces,No,2.442775,No,0.675262,0.779334,Nunca,Auto,Sobrepeso_II
+240,Central,Varón,29.509151,1.770663,112.471118,Si,Si,2.303041,3.0,A veces,No,,No,0.0,0.725222,A veces,Auto,Obesidad_II
+241,Central,Femenino,19.94814,1.530884,39.371523,No,Si,1.522001,3.0,a veces,No,1.98126,No,2.306844,0.720454,A veces,Transporte_publico,Peso_insuficiente
+242,Central,Femenino,25.0,1.61,61.0,No,No,2.0,3.0,A veces,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+243,Central,M,17.729923,1.732862,51.216463,No,Si,2.051283,2.645858,A veces,No,2.35752,No,0.291309,0.897942,A veces,Transporte_publico,Peso_insuficiente
+244,Sur,femenino,26.0,1.618867,110.777391,Si,SI,3.0,3.0,A veces,No,2.618198,No,0.0,0.380695,A veces,Transporte_publico,Obesidad_III
+245,Central,F,17.0,1.58,50.0,No,SI,1.0,4.0,Frecuente,No,2.0,No,1.0,2.0,A veces,Transporte_publico,Peso_normal
+246,Central,Masculino,19.0,1.7,60.0,Si,Si,2.0,1.0,A VECES,No,2.0,No,2.0,0.0,a veces,Transporte_publico,Peso_normal
+247,Central,Femenino,36.631456,1.532322,62.417228,Si,Si,2.288604,2.845307,A veces,No,2.638164,No,0.0,0.990741,A veces,Auto,Sobrepeso_I
+248,Central,masculino,21.0,1.7,65.0,Si,Sí,2.0,1.0,Frecuente,No,2.0,No,1.0,2.0,Siempre,Caminando,Peso_normal
+249,Central,M,37.275298,1.746055,83.282232,Si,Si,2.746408,1.058123,A veces,No,2.265727,No,0.885633,0.673408,Nunca,Auto,Sobrepeso_II
+250,Sur,Femenino,26.0,1.583889,110.545378,Si,Si,3.0,3.0,A veces,No,2.578292,No,0.0,0.492394,A veces,Transporte_publico,Obesidad_III
+251,Central,masculino,18.0,1.93,86.0,No,No,3.0,4.0,Siempre,No,2.0,No,2.0,0.0,A veces,Caminando,Peso_normal
+252,Sur,Masculino,19.671876,1.699474,78.0,Si,No,1.925064,2.358298,A veces,No,2.774043,No,0.0,0.133566,Nunca,Transporte_publico,Sobrepeso_II
+253,Central,Masculino,21.856301,1.87199,115.627554,Si,Si,2.0,2.358455,a veces,No,2.515765,No,0.98232,1.157466,A veces,Transporte_publico,Obesidad_I
+254,Central,Varón,22.276969,1.84995,121.786485,Si,Sí,3.0,2.272214,A veces,No,1.555534,No,0.348839,0.0,A veces,Transporte_publico,Obesidad_II
+255,Norte,Masculino,31.010302,176.0,119.373019,Si,SI,2.970983,3.0,A VECES,No,2.828861,No,0.454944,1.915818,A VECES,Auto,Obesidad_II
+256,Central,Femenino,34.799519,1.689141,50.0,Si,Si,2.652779,3.804944,Frecuente,No,1.60114,No,0.174692,0.096982,Nunca,Transporte_publico,Peso_insuficiente
+257,Norte,masculino,31.190219,184.0,125.973927,Si,SI,2.151335,3.0,A veces,Si,1.491169,No,0.883542,0.527766,A veces,Transporte_publico,Obesidad_II
+258,Central,mujer,24.0,1.7,80.0,Si,Si,2.0,3.0,A veces,No,3.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_II
+259,Central,Femenino,24.497373,1.737056,132.527011,Si,SI,3.0,3.0,A veces,No,2.86559,No,0.973864,0.58345,a veces,Transporte_publico,Obesidad_III
+260,Norte,Masculino,21.033794,163.0,70.0,No,Si,2.0,1.0,Nunca,No,2.00876,No,0.63119,0.0,a veces,Transporte_publico,Sobrepeso_I
+261,Central,Femenino,21.95994,1.483284,62.894283,Si,No,2.0,1.680838,A veces,No,1.833635,No,0.281876,0.575848,Nunca,Transporte_publico,Sobrepeso_II
+262,Central,Femenino,17.0,1.8,50.0,No,Si,3.0,4.0,FRECUENTE,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+263,Sur,M,20.0,1.6,50.0,Si,No,2.0,4.0,Frecuente,Si,2.0,No,3.0,,Nunca,Transporte_publico,Peso_normal
+264,Norte,mujer,17.764764,179.0,50.0,No,Si,2.784464,4.0,A VECES,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+265,Norte,Masculino,22.828435,171.0,75.142858,Si,Si,2.786008,3.0,A VECES,No,2.526193,No,0.925118,2.0,A VECES,Transporte_publico,Sobrepeso_I
+266,Sur,Masculino,55.022494,1.673394,80.400306,Si,Sí,2.0,3.0,A VECES,No,,No,1.0,0.0,nunca,Auto,Sobrepeso_II
+267,Norte,M,21.196152,165.0,88.472359,Si,Si,2.4277,1.001633,A veces,No,3.0,No,1.172641,1.0,Nunca,Transporte_publico,Obesidad_I
+268,Central,F,45.821267,1.687326,80.413997,Si,Si,2.076689,3.0,A veces,No,1.026729,No,0.647798,0.0,Nunca,Auto,Sobrepeso_II
+269,Sur,Masculino,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,,0.0,A veces,Transporte_publico,Sobrepeso_I
+270,Norte,masculino,26.047077,175.0,80.018571,Si,Si,1.993101,3.171082,A veces,No,2.364498,No,1.224743,0.022245,A veces,Transporte_publico,Sobrepeso_I
+271,Norte,F,24.0,160.0,48.0,No,Si,3.0,3.0,A veces,No,2.0,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+272,Norte,masculino,36.726617,179.0,100.624553,Si,Sí,2.031185,2.992606,A veces,No,2.852254,No,,0.36037,Frecuente,Auto,Obesidad_I
+273,Central,Femenino,23.501249,1.6,45.0,No,No,2.591439,3.0,Frecuente,No,2.074048,No,1.679935,0.0,Nunca,Transporte_publico,Peso_insuficiente
+274,Norte,masculino,34.543563,177.0,85.0,Si,Sí,2.694281,3.0,A veces,No,2.653831,No,1.96582,0.891189,Nunca,Auto,Sobrepeso_II
+275,Sur,Masculino,21.0,1.67,67.0,Si,Si,3.0,1.0,siempre,No,2.0,No,1.0,,Nunca,Transporte_publico,Peso_normal
+276,Central,Femenino,34.389679,1.691322,77.561602,Si,Si,3.0,1.802305,A veces,No,2.0,No,0.390877,0.0,Nunca,Auto,Sobrepeso_II
+277,Norte,Masculino,21.0,161.0,69.463458,No,Si,2.0,1.259628,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+278,Central,mujer,16.30687,1.616366,67.183128,Si,Si,1.620845,1.0,A veces,No,2.0,Si,0.926592,1.657098,Nunca,Transporte_publico,Sobrepeso_I
+279,Norte,F,37.063599,150.0,75.279605,Si,SI,2.0,3.0,A veces,No,1.759803,No,0.0,0.0,A VECES,Auto,Obesidad_I
+280,Central,masculino,17.469417,1.798645,59.612717,Si,Si,2.336044,4.0,A veces,No,2.0,No,2.0,0.133005,Nunca,Auto,Peso_insuficiente
+281,Central,Varón,22.0,1.64,53.0,No,NO,2.0,3.0,A veces,No,2.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+282,Central,Femenino,21.0,1.55,58.0,No,SI,2.0,1.0,A veces,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Peso_normal
+283,Central,Masculino,33.270448,1.733439,84.75383,Si,Si,2.631565,2.627173,a veces,No,2.253422,No,2.690756,0.845774,Nunca,Auto,Sobrepeso_II
+284,Sur,Femenino,20.924956,1.752531,133.618706,Si,Si,3.0,3.0,A veces,No,2.887659,No,1.480919,0.779641,A veces,Transporte_publico,Obesidad_III
+285,Central,Masculino,25.785925,1.818848,87.032398,No,Si,2.286481,1.713762,A veces,No,1.797161,No,1.658698,,Nunca,Auto,Sobrepeso_I
+286,Central,Femenino,19.407204,1.520862,42.0,No,Si,3.0,1.0,Frecuente,No,1.848703,No,0.0,0.744555,A veces,Transporte_publico,Peso_insuficiente
+287,Central,Femenino,17.0,1.75,57.0,Si,Si,3.0,3.0,Frecuente,No,2.0,No,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+288,Central,Femenino,21.009596,1.714193,131.866734,Si,Sí,3.0,3.0,A VECES,No,1.709556,No,1.592494,0.925843,A veces,Transporte_publico,Obesidad_III
+289,Central,masculino,27.558801,1.801224,119.050381,Si,Si,2.744994,3.0,A veces,No,2.478838,No,0.684487,0.677909,A veces,Transporte_publico,Obesidad_II
+290,Sur,femenino,23.0,1.64,52.0,No,Si,3.0,1.0,A veces,No,2.0,No,2.0,2.0,NUNCA,Transporte_publico,Peso_normal
+291,Sur,Masculino,30.200946,1.755926,112.289883,Si,Si,2.317734,3.0,A veces,No,2.152736,No,0.0,1.108145,Nunca,Auto,Obesidad_II
+292,Norte,Femenino,21.0,150.0,42.3,Si,NO,1.0,1.0,A VECES,No,2.0,No,3.0,,Nunca,Transporte_publico,Peso_normal
+293,Norte,M,22.0,175.0,74.0,Si,No,2.0,3.0,A VECES,No,2.0,No,1.0,2.0,A veces,Bicicleta,Peso_normal
+294,Central,Masculino,17.888073,1.841879,60.0,Si,Sí,3.0,3.732126,A veces,No,2.0,No,2.000934,0.384662,Nunca,Auto,Peso_insuficiente
+295,Central,Femenino,19.0,1.530875,42.0,No,No,2.844607,1.273128,Frecuente,No,1.69551,No,0.260079,0.635867,A veces,Transporte_publico,Peso_insuficiente
+296,Central,F,21.982942,1.748584,133.742943,Si,Si,3.0,3.0,A veces,No,2.00513,No,1.34139,0.59927,A veces,Transporte_publico,Obesidad_III
+297,Norte,Masculino,19.0,169.0,65.0,No,Si,2.0,3.0,Frecuente,No,1.0,No,1.0,1.0,A VECES,Transporte_publico,Peso_normal
+298,Norte,Masculino,23.0,180.0,90.0,Si,SI,1.0,3.0,Siempre,No,2.0,No,0.0,2.0,Frecuente,Transporte_publico,Sobrepeso_II
+299,Central,Varón,18.0,1.84,60.0,Si,Si,3.0,4.0,A VECES,No,2.0,Si,2.0,0.0,A veces,Auto,Peso_insuficiente
+300,Norte,Femenino,21.0,152.0,42.0,No,Si,3.0,1.0,Frecuente,No,,No,0.0,0.0,a veces,Transporte_publico,Peso_insuficiente
+301,Central,Femenino,21.082384,1.486484,60.117993,Si,No,2.0,1.104642,A veces,No,1.0,No,0.0,0.969097,Nunca,Transporte_publico,Sobrepeso_II
+302,Norte,femenino,37.631769,151.0,75.410647,Si,Si,2.0,2.582591,A veces,No,1.535134,No,1.88452,0.0,A veces,Auto,Obesidad_I
+303,Central,Masculino,23.0,1.72,76.0,Si,No,3.0,4.0,FRECUENTE,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+304,Central,Masculino,20.0,1.9,91.0,Si,Si,3.0,4.0,A veces,No,3.0,No,2.0,0.0,A veces,Caminando,Sobrepeso_I
+305,Central,Masculino,32.241587,1.757961,87.906019,Si,Si,2.0,1.79558,A veces,No,1.855054,No,1.083572,0.218574,A veces,Transporte_publico,Sobrepeso_II
+306,Central,femenino,18.766033,1.579561,41.890204,No,Si,2.027574,1.0,A veces,No,1.636326,No,0.0,1.906141,a veces,Transporte_publico,Peso_insuficiente
+307,Central,Femenino,26.0,1.650125,111.939671,Si,Si,3.0,3.0,A veces,No,2.770732,No,0.0,0.125235,A veces,Transporte_publico,Obesidad_III
+308,Sur,masculino,17.210933,1.819557,58.325122,Si,Si,2.5596,4.0,A veces,No,2.0,No,2.0,0.331483,Nunca,Auto,Peso_insuficiente
+309,Central,mujer,0.0,1.74379,50.0,No,Si,1.344854,4.0,Frecuente,No,1.0,No,2.0,,a veces,Transporte_publico,Peso_insuficiente
+310,Norte,Masculino,21.962219,193.0,118.20313,Si,Si,2.0,3.0,A veces,No,,No,0.743593,1.0,A veces,Transporte_publico,Obesidad_I
+311,Central,Masculino,21.618246,1.679306,75.0,Si,Sí,2.0,3.0,A veces,No,1.957871,No,0.994592,0.117303,A veces,Transporte_publico,Sobrepeso_I
+312,Sur,M,21.0,1.62,70.0,No,Sí,2.0,1.0,NUNCA,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+313,Sur,Femenino,21.501721,1.809871,152.394739,Si,Si,3.0,3.0,A veces,No,2.351207,No,0.246831,0.91336,A VECES,Transporte_publico,Obesidad_III
+314,Central,Varón,14.0,1.71,72.0,Si,SI,3.0,3.0,A veces,No,3.0,No,,1.0,nunca,Caminando,Peso_normal
+315,Sur,Femenino,22.591026,1.650012,87.676154,Si,Si,2.983851,1.068443,A veces,No,,No,1.103209,1.0,Nunca,Transporte_publico,Obesidad_I
+316,Central,F,22.637018,1.703584,51.607091,Si,Si,2.55996,3.0,FRECUENTE,No,1.990788,No,0.486006,1.561272,nunca,Transporte_publico,Peso_insuficiente
+317,Central,Femenino,16.834813,1.74402,50.0,No,Si,2.19005,3.420618,A veces,No,1.356405,No,1.351996,0.98468,A veces,Transporte_publico,Peso_insuficiente
+318,Central,masculino,17.405104,1.82525,58.913579,Si,Si,2.580872,3.887906,A veces,No,2.0,No,2.0,0.453649,Nunca,Auto,Peso_insuficiente
+319,Sur,Masculino,22.0,1.61,67.0,Si,No,2.0,4.0,A veces,No,3.0,Si,2.0,2.0,A veces,Transporte_publico,Sobrepeso_I
+320,Norte,Femenino,18.281092,170.0,50.0,No,Si,1.036414,3.205587,A veces,No,1.745959,No,,1.0,A veces,Transporte_publico,Peso_insuficiente
+321,Sur,Masculino,21.0,1.62,70.0,No,Sí,2.0,1.0,Nunca,No,3.0,No,1.0,,A veces,Transporte_publico,Sobrepeso_I
+322,Norte,Masculino,20.0,178.0,68.0,No,No,2.0,1.0,Frecuente,No,3.0,Si,2.0,1.0,Nunca,Transporte_publico,Peso_normal
+323,Norte,F,61.0,165.0,66.0,No,Si,3.0,3.0,Siempre,No,2.0,No,1.0,1.0,FRECUENTE,Transporte_publico,Peso_normal
+324,Norte,Masculino,31.333798,184.0,91.059595,Si,Si,2.0,3.0,A veces,No,1.18423,No,0.155579,,A veces,Transporte_publico,Sobrepeso_II
+325,Norte,Femenino,19.773303,160.0,45.0,No,No,3.0,3.0,Frecuente,No,2.875583,Si,1.258504,0.0,A veces,Transporte_publico,Peso_insuficiente
+326,Central,Masculino,23.0,1.753716,106.49141,Si,Si,2.740633,3.0,A veces,No,2.081005,No,0.650235,0.76906,A veces,Transporte_publico,Obesidad_I
+327,Sur,F,33.864257,1.679299,77.355417,Si,Si,2.76802,2.137068,A veces,No,1.873591,No,,0.691944,Nunca,Auto,Sobrepeso_II
+328,Central,Femenino,19.058511,1.662017,49.838965,No,Si,1.4925,3.0,A veces,No,1.049134,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+329,Sur,Masculino,31.56724,1.753327,118.26569,Si,Si,2.232836,3.0,A veces,No,2.146398,No,,0.47787,A veces,Auto,Obesidad_II
+330,Central,femenino,33.0,1.55,55.0,Si,Si,3.0,1.0,A veces,No,3.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+331,Norte,Femenino,21.0,166.0,59.0,No,Si,1.0,3.0,Siempre,No,,Si,3.0,0.0,NUNCA,Auto,Peso_normal
+332,Central,Femenino,36.769646,1.55,62.337721,Si,Si,2.392665,3.0,A veces,No,2.951056,No,0.0,0.369134,A veces,Auto,Sobrepeso_I
+333,Central,Masculino,19.0,1.88,79.0,No,No,2.0,3.0,A veces,No,3.0,No,3.0,0.0,A veces,Auto,Peso_normal
+334,Sur,Masculino,19.0,1.8,80.0,No,Si,2.0,1.0,a veces,No,2.0,No,,1.0,A veces,Transporte_publico,Peso_normal
+335,Central,M,20.0,1.65,80.0,Si,no,2.0,3.0,A veces,No,2.0,No,1.0,2.0,Nunca,Caminando,Sobrepeso_II
+336,Central,femenino,30.958957,1.633491,68.803694,Si,Si,2.052152,3.0,A VECES,No,,No,0.228307,0.0,A veces,Auto,Sobrepeso_I
+337,Norte,Femenino,33.954433,168.0,77.431678,Si,Si,3.0,2.049908,A veces,No,1.999882,No,1.637368,0.10724,Nunca,Auto,Sobrepeso_II
+338,Central,Femenino,26.0,1.62495,111.00492,Si,Sí,3.0,3.0,A VECES,No,,No,0.0,0.322666,A veces,Transporte_publico,Obesidad_III
+339,Central,masculino,55.0,1.65,80.0,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,Nunca,Auto,Sobrepeso_II
+340,Central,Masculino,17.362129,1.80671,59.243506,Si,Si,2.424977,4.0,A veces,No,2.0,No,2.0,0.03921,Nunca,Auto,Peso_insuficiente
+341,Central,Masculino,27.0,1.834986,99.083478,Si,Si,2.760607,1.0,A veces,No,1.336378,No,1.898889,0.487375,A veces,Transporte_publico,Sobrepeso_II
+342,Central,femenino,18.874591,1.533609,41.669346,No,Si,2.762325,1.163666,A veces,No,1.30491,No,0.25289,1.001405,A veces,Transporte_publico,Peso_insuficiente
+343,Central,femenino,18.0,1.6,60.0,Si,Si,3.0,1.0,A veces,No,1.0,Si,0.0,2.0,Nunca,Caminando,Peso_normal
+344,Sur,masculino,24.0,1.7,85.0,Si,Si,2.0,3.0,Frecuente,No,,No,0.0,1.0,frecuente,Transporte_publico,Sobrepeso_II
+345,Norte,Masculino,27.635029,181.0,120.423567,Si,Si,2.974006,3.0,A veces,No,2.565828,No,0.690269,1.339691,A VECES,Transporte_publico,Obesidad_II
+346,Central,Masculino,37.936044,1.785957,99.199287,Si,Sí,2.04516,1.874532,A veces,No,2.856521,No,2.005286,0.105408,A veces,Auto,Obesidad_I
+347,Central,Femenino,34.044229,1.665807,77.098973,Si,Si,2.976975,1.346987,A veces,No,1.868349,No,0.702538,,Nunca,Auto,Sobrepeso_II
+348,Sur,Masculino,55.0,1.78,84.0,Si,No,3.0,4.0,Frecuente,No,3.0,Si,3.0,,Frecuente,Caminando,Sobrepeso_I
+349,Norte,Masculino,30.605464,175.0,118.805937,Si,Si,2.907542,3.0,A VECES,No,,No,0.647632,,a veces,Auto,Obesidad_II
+350,Norte,Masculino,21.0,162.0,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+351,Norte,Femenino,33.690239,168.0,77.426465,Si,Sí,3.0,2.679724,A veces,No,1.999737,No,1.747347,0.681773,Nunca,Auto,Sobrepeso_II
+352,Sur,Femenino,30.0,1.71,82.0,Si,Si,3.0,4.0,Frecuente,Si,,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+353,Norte,Masculino,21.0,162.0,70.0,No,Si,2.0,1.0,nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+354,Sur,Varón,26.0,1.72,65.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,1.0,A veces,Caminando,Peso_normal
+355,Norte,Masculino,18.0,171.0,50.664459,Si,Sí,1.786841,3.0,A veces,No,1.546856,No,0.512094,1.608265,A veces,Transporte_publico,Peso_insuficiente
+356,Sur,Femenino,22.667596,1.718939,75.951472,Si,Si,2.0,3.0,Frecuente,No,2.0,No,0.0,2.0,A veces,Transporte_publico,Sobrepeso_I
+357,Central,mujer,24.023972,1.599697,64.808022,No,Si,2.903545,3.0,A VECES,No,1.549931,No,0.0,0.273882,A veces,Transporte_publico,Sobrepeso_I
+358,Central,masculino,18.274358,1.824655,58.621349,Si,Si,2.14084,4.0,A veces,No,2.931438,No,2.0,1.164457,Nunca,Auto,Peso_insuficiente
+359,Sur,femenino,19.376997,1.600264,45.0,No,No,3.0,3.0,Frecuente,No,2.949419,Si,1.295697,,A veces,Transporte_publico,Peso_insuficiente
+360,Central,masculino,30.357745,1.841852,93.614246,Si,Sí,2.045027,2.946063,a veces,No,1.307563,No,1.442485,,A veces,Transporte_publico,Sobrepeso_II
+361,Central,Femenino,26.0,1.640535,111.555967,Si,Si,3.0,3.0,A veces,No,2.634342,No,0.0,0.178301,A veces,Transporte_publico,Obesidad_III
+362,Central,Femenino,43.604901,1.569234,81.827288,Si,Si,2.909853,1.0,A veces,No,2.0,No,1.308852,0.0,Nunca,Auto,Obesidad_I
+363,Central,Masculino,21.017383,1.752391,79.109637,Si,Si,3.0,1.0,A veces,No,2.0,No,2.57223,0.0,A veces,Auto,Sobrepeso_I
+364,Central,Masculino,40.106145,1.760175,117.651046,Si,Si,2.032883,2.976211,a veces,No,1.726109,No,0.477855,0.0,A veces,Auto,Obesidad_II
+365,Sur,femenino,37.455752,1.508908,63.183846,Si,Si,2.048582,1.047197,A veces,No,2.0,No,0.15136,,A veces,Auto,Sobrepeso_I
+366,Norte,masculino,21.037514,164.0,70.0,No,Si,2.0,1.0,Nunca,No,2.881677,No,0.915699,0.0,a veces,Transporte_publico,Sobrepeso_I
+367,Sur,Femenino,18.0,1.56,51.0,Si,Si,2.0,4.0,Frecuente,No,2.0,No,1.0,,A veces,Transporte_publico,Peso_normal
+368,Central,Femenino,36.0,1.58,60.0,Si,No,3.0,3.0,A veces,No,1.0,No,2.0,0.0,A veces,Auto,Peso_normal
+369,Norte,femenino,18.024853,170.0,50.0,No,Si,1.0816,3.520555,Frecuente,No,1.016968,No,0.651412,1.0,A veces,Transporte_publico,Peso_insuficiente
+370,Sur,Masculino,21.544554,1.84998,122.609911,Si,Si,3.0,1.971659,a veces,No,1.179254,No,,0.0,A veces,Transporte_publico,Obesidad_II
+371,Central,femenino,20.0,1.6,57.0,No,No,3.0,3.0,Siempre,No,2.0,No,1.0,0.0,Nunca,Caminando,Peso_normal
+372,Norte,Masculino,23.0,180.0,77.0,Si,No,2.0,3.0,A veces,No,2.0,No,2.0,1.0,FRECUENTE,Transporte_publico,Peso_normal
+373,Norte,masculino,29.622804,181.0,109.411622,Si,Si,2.407817,2.070033,a veces,No,1.796257,No,1.234483,0.178708,A veces,Auto,Obesidad_I
+374,Central,Femenino,41.823567,1.721854,82.919584,No,Si,2.81646,3.36313,A veces,No,,No,3.0,0.26579,A veces,Auto,Sobrepeso_I
+375,Central,Femenino,34.281681,1.673333,77.205685,Si,Si,2.689929,1.835543,A VECES,No,1.718569,No,0.674348,0.707246,Nunca,Auto,Sobrepeso_II
+376,Central,M,20.156664,1.620109,103.393354,Si,Si,2.766441,1.240424,A veces,No,1.413218,No,0.165269,0.862587,Nunca,Transporte_publico,Obesidad_II
+377,Norte,Femenino,23.018443,158.0,44.376637,No,no,2.204914,2.127797,Frecuente,No,2.120292,No,0.995735,0.0,Nunca,Transporte_publico,Peso_insuficiente
+378,Sur,masculino,20.0,1.67,78.0,Si,No,2.0,1.0,A veces,No,3.0,No,0.0,0.0,Frecuente,Auto,Sobrepeso_II
+379,Central,Femenino,22.980221,1.724983,132.94066,Si,Si,3.0,3.0,A veces,No,2.085553,No,,0.587932,A veces,Transporte_publico,Obesidad_III
+380,Central,mujer,18.0,1.456346,55.523481,No,Si,2.0,3.0,A veces,No,1.040342,Si,0.497373,1.783319,A veces,Transporte_publico,Sobrepeso_I
+381,Sur,Femenino,19.0,1.564199,42.096062,No,Si,3.0,1.894384,A veces,No,2.456581,Si,1.596576,0.9974,Nunca,Transporte_publico,Peso_insuficiente
+382,Sur,Femenino,29.0,1.7,78.0,Si,Si,3.0,3.0,A veces,No,1.0,No,2.0,1.0,Frecuente,Auto,Sobrepeso_II
+383,Sur,Femenino,21.0,1.66,64.0,Si,Si,1.0,3.0,A veces,No,1.0,No,0.0,0.0,nunca,Transporte_publico,Peso_normal
+384,Sur,Femenino,19.872667,1.817231,152.371911,Si,SI,3.0,3.0,A veces,No,,No,1.956278,0.92376,a veces,Transporte_publico,Obesidad_III
+385,Central,Masculino,20.0,1.56,45.0,No,No,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+386,Central,Masculino,19.329542,1.767335,55.700497,Si,Si,2.0,4.0,A veces,No,,No,2.0,1.679149,NUNCA,Auto,Peso_insuficiente
+387,Norte,Femenino,25.97731,162.0,104.950776,Si,Si,3.0,3.0,A veces,No,1.71659,No,0.001272,0.545993,A veces,Transporte_publico,Obesidad_III
+388,Central,M,21.0,1.68,70.0,Si,Si,3.0,3.0,A veces,No,3.0,No,,2.0,A veces,Transporte_publico,Peso_normal
+389,Central,Femenino,18.0,1.6,55.0,No,Si,2.0,4.0,Frecuente,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+390,Sur,Femenino,19.86997,1.520997,42.0,No,Si,3.0,1.0,Frecuente,No,1.527036,No,0.0,0.860497,A veces,Transporte_publico,Peso_insuficiente
+391,Central,Masculino,31.965402,1.840708,98.259423,Si,Si,2.333503,1.820779,A veces,No,2.559265,No,1.327193,0.481357,A veces,Auto,Sobrepeso_II
+392,Central,Masculino,19.0,1.85,65.0,Si,No,2.0,3.0,A veces,No,,No,2.0,1.0,A veces,Bicicleta,Peso_normal
+393,Sur,femenino,37.642177,1.676095,79.079738,Si,Si,2.802128,3.0,A veces,No,,No,0.0,0.721167,Nunca,Auto,Sobrepeso_II
+394,Sur,Varón,18.0,1.844218,109.195529,Si,Si,2.0,1.548407,A veces,No,2.191401,No,1.0,1.676944,Nunca,Transporte_publico,Obesidad_I
+395,Norte,Femenino,20.089969,180.0,151.417292,Si,Si,3.0,3.0,a veces,No,2.226081,No,1.881761,0.933964,A veces,Transporte_publico,Obesidad_III
+396,Central,Masculino,18.0,1.74,64.0,Si,Si,3.0,4.0,A veces,No,,Si,2.0,0.0,A veces,Transporte_publico,Peso_normal
+397,Norte,femenino,18.372563,159.0,40.202773,No,SI,2.0,1.075553,A veces,No,1.0,No,0.127425,1.679442,A veces,Transporte_publico,Peso_insuficiente
+398,Central,Femenino,18.0,1.59,40.0,Si,Si,2.0,1.0,Frecuente,No,1.0,No,0.0,2.0,NUNCA,Transporte_publico,Peso_insuficiente
+399,Norte,femenino,21.798856,167.0,49.980968,Si,Si,2.979383,3.0,Frecuente,No,2.975887,No,0.945093,1.241755,Nunca,Transporte_publico,Peso_insuficiente
+400,Norte,Masculino,24.82929,176.0,112.256165,Si,Si,1.369529,3.0,A veces,No,2.0,No,1.596576,0.0026,A veces,Transporte_publico,Obesidad_II
+401,Central,Varón,18.0,1.73,70.0,No,SI,3.0,3.0,Frecuente,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+402,Sur,F,19.758286,1.667404,49.125955,No,NO,2.880792,3.281391,A veces,No,1.960131,No,1.513029,1.0,A veces,Transporte_publico,Peso_insuficiente
+403,Norte,Femenino,28.583944,158.0,65.522744,Si,No,2.0,2.283673,A veces,No,1.970622,No,1.863258,1.581703,A veces,Transporte_publico,Sobrepeso_II
+404,Sur,Femenino,19.735968,1.699956,49.98297,No,Si,1.204855,3.531038,A veces,No,1.134658,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+405,Norte,masculino,23.0,175.0,120.0,Si,Si,2.0,3.0,A veces,Si,2.0,No,2.0,1.0,A veces,Transporte_publico,Obesidad_II
+406,Norte,Femenino,33.226808,156.0,77.647716,Si,Si,2.02091,2.093831,A veces,No,,No,0.0,0.0,A veces,Auto,Obesidad_I
+407,Central,F,19.0,1.5,50.0,No,Si,2.0,3.0,Frecuente,No,1.0,No,,2.0,A veces,Transporte_publico,Peso_normal
+408,Norte,Masculino,23.0,170.0,75.093569,Si,Si,3.0,3.205009,A veces,No,2.643468,No,0.998039,1.898139,a veces,Transporte_publico,Sobrepeso_I
+409,Central,Masculino,45.0,1.7,86.0,No,Si,3.0,3.0,Frecuente,No,1.0,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+410,Central,Masculino,23.0,1.70074,81.32297,Si,Si,2.0,2.720642,A veces,No,1.5197,No,0.279375,1.043435,A veces,Transporte_publico,Sobrepeso_II
+411,Central,Femenino,22.329041,1.598393,44.918255,No,No,2.886157,2.326233,Frecuente,No,2.306821,No,1.42237,0.0,Nunca,Transporte_publico,Peso_insuficiente
+412,Norte,Femenino,21.760734,174.0,135.346677,Si,Si,3.0,3.0,A veces,No,2.611654,No,1.618512,0.868788,A veces,Transporte_publico,Obesidad_III
+413,Central,Femenino,19.88036,1.670635,49.742931,No,No,2.88626,3.559841,Frecuente,No,1.632004,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+414,Sur,Femenino,19.462713,1.550122,69.936073,Si,No,2.501683,3.394788,a veces,No,1.337378,No,0.932888,1.0,Nunca,Transporte_publico,Sobrepeso_II
+415,Central,Femenino,20.074449,1.810427,152.217135,Si,Si,3.0,3.0,A veces,No,2.299156,No,1.699056,0.729722,A veces,Transporte_publico,Obesidad_III
+416,Central,mujer,26.0,1.641132,111.841706,Si,Si,3.0,3.0,a veces,No,2.617401,No,0.0,0.200379,A veces,Transporte_publico,Obesidad_III
+417,Central,Varón,21.81119,1.71266,51.598593,Si,Si,3.0,3.156153,Frecuente,No,1.253803,No,0.544784,0.256382,Nunca,Transporte_publico,Peso_insuficiente
+418,Central,femenino,18.869151,1.756774,79.989789,Si,Si,2.0,2.658639,A veces,No,2.781628,No,1.955992,1.409198,Frecuente,Transporte_publico,Sobrepeso_I
+419,Norte,femenino,20.254534,157.0,41.324558,No,Si,2.392665,1.0,Frecuente,No,1.0,No,0.0,0.738269,A veces,Transporte_publico,Peso_insuficiente
+420,Sur,Femenino,16.0,1.6,57.0,No,Si,3.0,3.0,A veces,No,1.0,No,3.0,0.0,Nunca,Transporte_publico,Peso_normal
+421,Sur,Masculino,19.96247,1.756338,54.98234,Si,Si,2.277436,3.502604,A VECES,No,2.891713,No,1.696294,1.894902,Nunca,Transporte_publico,Peso_insuficiente
+422,Central,Masculino,21.403421,1.716308,80.0,Si,Si,2.0,3.0,A veces,No,2.0,No,2.936551,1.40913,Nunca,Transporte_publico,Sobrepeso_II
+423,Norte,Femenino,28.770852,153.0,65.031879,Si,No,2.0,1.0,A veces,No,1.0,No,0.262171,0.0,Nunca,Transporte_publico,Sobrepeso_II
+424,Norte,femenino,18.827008,170.0,50.0,No,Sí,1.0,3.240578,A VECES,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+425,Sur,Femenino,21.0,1.62,69.0,Si,Si,1.0,3.0,Frecuente,No,2.0,No,0.0,1.0,Nunca,Transporte_publico,Sobrepeso_I
+426,Central,Femenino,19.0,1.64,53.0,Si,Si,3.0,3.0,A veces,No,1.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+427,Central,Femenino,23.0,1.59,48.0,Si,Si,2.0,1.0,Frecuente,No,1.0,No,0.0,2.0,A veces,Transporte_publico,Peso_normal
+428,Central,Masculino,24.657598,1.7088,83.520113,Si,Si,2.689577,2.714115,A veces,No,,No,,0.828549,A VECES,Transporte_publico,Sobrepeso_II
+429,Central,Femenino,20.492077,1.529223,65.140408,Si,No,2.003951,3.0,A veces,No,1.207978,No,1.916751,1.228995,Nunca,Transporte_publico,Sobrepeso_II
+430,Sur,femenino,19.0,1.5,45.0,No,SI,2.0,3.0,A veces,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+431,Sur,Masculino,18.0,1.758787,85.050558,Si,Si,2.846981,3.0,A veces,No,2.87781,No,1.0,0.429081,A veces,Transporte_publico,Sobrepeso_II
+432,Central,masculino,38.0,1.75,75.0,Si,No,3.0,3.0,Frecuente,No,1.0,No,3.0,1.0,Nunca,Auto,Peso_normal
+433,Norte,mujer,21.0,154.0,47.0,Si,no,3.0,3.0,SIEMPRE,No,1.0,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+434,Sur,Masculino,18.0,1.739344,50.951444,Si,Si,1.889883,3.0,A veces,No,1.959531,No,0.520407,1.151166,A veces,Transporte_publico,Peso_insuficiente
+435,Central,mujer,20.954955,1.759358,55.01045,Si,Si,2.971574,3.592415,Frecuente,No,2.894678,No,2.0,1.009632,Nunca,Transporte_publico,Peso_insuficiente
+436,Sur,Masculino,22.649792,1.685045,81.022119,Si,SI,2.0,2.756622,a veces,No,1.606076,No,,1.749586,Nunca,Transporte_publico,Sobrepeso_II
+437,Central,M,39.0,1.79,90.0,No,No,2.0,1.0,A VECES,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+438,Central,Femenino,24.0,1.56,51.0,No,No,3.0,3.0,Frecuente,No,,No,2.0,2.0,Frecuente,Transporte_publico,Peso_normal
+439,Sur,Varón,18.0,1.79,52.0,No,No,3.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+440,Central,Masculino,20.406066,1.868931,63.199726,Si,Sí,3.0,3.699594,A veces,No,2.825629,No,1.699592,0.071028,A veces,Auto,Peso_insuficiente
+441,Sur,Femenino,20.323767,1.774207,138.143162,Si,Si,3.0,3.0,A veces,No,2.816052,No,1.571865,,A veces,Transporte_publico,Obesidad_III
+442,Norte,Masculino,21.027662,173.0,82.853749,Si,Sí,2.265973,2.687502,A veces,No,2.0,No,2.21722,0.648522,a veces,Transporte_publico,Sobrepeso_II
+443,Central,F,19.633898,1.66084,49.039794,No,no,2.750715,3.0,Frecuente,No,2.0,No,1.067817,1.0,A veces,Transporte_publico,Peso_insuficiente
+444,Central,Masculino,19.97166,1.822573,85.084364,Si,Si,2.995599,3.095663,a veces,No,2.568157,No,2.7243,,A veces,Transporte_publico,Sobrepeso_I
+445,Norte,Femenino,18.0,150.0,55.376512,No,Si,2.0,3.0,A veces,No,1.274718,Si,,0.978574,A veces,Transporte_publico,Sobrepeso_I
+446,Central,M,17.178483,1.78629,95.277392,Si,Si,2.0,3.0,A VECES,No,3.0,No,1.072318,0.651904,A veces,Transporte_publico,Sobrepeso_II
+447,Central,Masculino,29.620095,1.787933,112.536367,Si,SI,2.008245,3.0,A veces,No,2.040137,No,0.0,0.474216,A veces,Auto,Obesidad_II
+448,Central,Masculino,18.0,1.742819,86.565148,Si,Sí,3.0,3.0,A veces,No,2.0,No,2.040816,0.860321,A veces,Transporte_publico,Sobrepeso_II
+449,Norte,Femenino,21.979769,160.0,66.126964,Si,Si,2.213135,3.0,A veces,No,2.046766,No,2.172546,0.0,A veces,Transporte_publico,Sobrepeso_I
+450,Norte,Femenino,34.0,168.0,75.0,No,Si,3.0,1.0,A veces,No,1.0,No,0.0,0.0,A veces,Auto,Sobrepeso_I
+451,Norte,Femenino,18.024744,162.0,83.121811,Si,Si,2.976509,3.0,A VECES,No,1.022705,No,1.02569,0.313016,Nunca,Transporte_publico,Obesidad_I
+452,Sur,Varón,21.0,1.65,60.0,No,No,3.0,1.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Moto,Peso_normal
+453,Central,Masculino,18.181821,1.662669,79.863546,Si,No,2.492758,2.270163,A veces,No,1.992586,No,,0.864583,nunca,Transporte_publico,Sobrepeso_II
+454,Central,Masculino,21.0,1.605404,68.226511,No,SI,2.0,1.9154,Nunca,No,3.0,No,,0.0,A veces,Transporte_publico,Sobrepeso_I
+455,Sur,Femenino,23.469538,1.507106,64.814109,Si,No,2.252472,3.986652,A veces,No,2.0,No,0.934286,0.890626,Nunca,Transporte_publico,Sobrepeso_II
+456,Norte,Femenino,21.837996,159.0,44.236067,No,No,3.0,1.69608,FRECUENTE,No,2.550307,No,1.098862,0.0,Nunca,Transporte_publico,Peso_insuficiente
+457,Sur,Femenino,20.744839,1.667852,49.803921,Si,SI,2.977018,3.193671,Frecuente,No,2.482933,No,2.0,1.0,nunca,Transporte_publico,Peso_insuficiente
+458,Norte,Femenino,18.0,163.0,63.0,Si,Si,1.0,3.0,A veces,No,2.0,No,2.0,2.0,a veces,Transporte_publico,Peso_normal
+459,Central,Masculino,38.112989,1.766888,118.134898,Si,Si,2.240757,2.911568,A veces,No,1.895876,No,0.822186,0.0,A veces,Auto,Obesidad_II
+460,Central,Femenino,20.0,1.58,53.0,Si,Si,2.0,4.0,Frecuente,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+461,Central,Masculino,23.0,1.62,53.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+462,Central,Masculino,25.426457,1.836592,118.377601,Si,Si,1.84199,3.0,A veces,No,2.503244,No,1.226019,0.078207,A veces,Transporte_publico,Obesidad_II
+463,Norte,Femenino,21.0,175.0,77.956921,Si,Si,2.446872,2.372311,A veces,No,1.81031,No,,,A veces,Transporte_publico,Sobrepeso_I
+464,Sur,F,18.0,1.56,55.0,No,Si,2.0,3.0,A veces,No,1.0,No,0.0,0.0,Frecuente,Auto,Peso_normal
+465,Central,Femenino,29.970445,1.610863,49.516027,Si,Si,2.059138,3.904858,Frecuente,No,2.0,No,0.821977,0.0,nunca,Transporte_publico,Peso_insuficiente
+466,Central,M,18.0,1.719827,52.289828,Si,Si,1.202075,3.0,A veces,No,1.927976,No,0.023574,1.747256,A veces,Transporte_publico,Peso_insuficiente
+467,Central,Masculino,46.491859,1.718097,88.600878,Si,Si,2.129969,3.0,A veces,No,1.568035,No,0.870127,0.0,Nunca,Auto,Sobrepeso_II
+468,Central,M,19.858973,1.62,69.575315,No,Sí,2.185938,1.0,Nunca,No,2.81353,No,1.0,1.110222,A veces,Transporte_publico,Sobrepeso_I
+469,Sur,masculino,34.0,1.78,73.0,No,Si,2.0,3.0,A veces,No,2.0,No,3.0,1.0,A VECES,Auto,Peso_normal
+470,Norte,Masculino,20.0,170.0,65.0,No,Si,2.0,3.0,a veces,No,2.0,No,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+471,Central,masculino,17.377131,1.811238,58.83071,Si,Si,2.483979,3.762778,A veces,No,2.0,No,,0.930051,Nunca,Auto,Peso_insuficiente
+472,Norte,Femenino,43.719395,158.0,80.986496,Si,Si,2.186322,2.900915,A veces,No,,No,0.256113,0.0,nunca,Auto,Obesidad_I
+473,Central,femenino,15.0,1.65,86.0,Si,Sí,3.0,3.0,A veces,No,1.0,No,3.0,2.0,Nunca,Caminando,Obesidad_I
+474,Norte,Femenino,25.19291,170.0,80.749657,Si,Si,2.54527,3.0,A veces,No,2.269564,No,0.503122,1.0,Frecuente,Transporte_publico,Sobrepeso_II
+475,Norte,masculino,30.722801,178.0,120.751656,Si,Si,2.519592,3.0,a veces,No,,No,,1.140348,A veces,Auto,Obesidad_II
+476,Norte,masculino,22.0,170.0,66.4,Si,No,2.0,3.0,Frecuente,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+477,Norte,Femenino,17.807828,152.0,55.822119,No,Si,1.773265,2.118153,a veces,No,1.075239,Si,0.085388,1.915191,A veces,Transporte_publico,Sobrepeso_I
+478,Norte,Masculino,18.0,165.0,85.0,No,Si,2.0,3.0,A VECES,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Obesidad_I
+479,Central,Femenino,16.0,1.55,45.0,No,Si,2.0,3.0,frecuente,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+480,Sur,M,19.0,1.75,76.0,Si,Si,3.0,3.0,A veces,No,,Si,3.0,1.0,A veces,Transporte_publico,Peso_normal
+481,Sur,Masculino,26.650419,1.791047,83.26312,No,Si,1.27785,3.999591,A veces,No,2.495944,No,0.00342,1.0,Nunca,Auto,Sobrepeso_I
+482,Sur,Masculino,21.413642,1.709484,75.0,Si,Si,2.0,3.0,A veces,No,2.843777,No,2.022315,0.009254,A veces,Transporte_publico,Sobrepeso_I
+483,Norte,Femenino,26.0,162.0,105.037463,Si,Si,3.0,3.0,A veces,No,2.553198,No,0.0,0.393838,A veces,Transporte_publico,Obesidad_III
+484,Sur,F,26.0,1.648143,111.950113,Si,Si,3.0,3.0,A veces,No,2.786417,No,0.0,0.079673,A veces,Transporte_publico,Obesidad_III
+485,Norte,Femenino,21.0,169.0,63.0,No,Si,3.0,1.0,A veces,No,1.0,No,0.0,0.0,a veces,Transporte_publico,Peso_normal
+486,Norte,Masculino,23.118327,168.0,75.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.334579,1.905826,A veces,Transporte_publico,Sobrepeso_I
+487,Norte,Masculino,19.084317,185.0,61.264785,Si,Si,3.0,3.994588,A veces,No,2.548527,No,,0.267076,A VECES,Auto,Peso_insuficiente
+488,Central,Masculino,19.72925,1.793315,58.19515,Si,Sí,2.508835,3.435905,A veces,No,2.076933,No,2.026668,1.443328,Nunca,Auto,Peso_insuficiente
+489,Norte,F,18.595614,161.0,42.656563,No,Si,2.896562,2.625475,A veces,No,2.839558,Si,1.949667,1.253311,Nunca,Transporte_publico,Peso_insuficiente
+490,Sur,Masculino,18.0,1.7,55.3,Si,Si,3.0,3.0,A veces,No,2.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+491,Sur,masculino,24.0,1.66,67.0,Si,Si,3.0,1.0,a veces,No,2.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+492,Central,femenino,18.0,1.647971,68.818893,Si,Si,2.0,1.411685,a veces,No,1.859089,No,0.0,1.306,Nunca,Transporte_publico,Sobrepeso_I
+493,Central,Masculino,24.739421,1.757069,117.298233,Si,Si,1.392665,3.0,A veces,No,2.0,No,1.097983,0.630866,A veces,Transporte_publico,Obesidad_II
+494,Sur,Femenino,23.455303,1.677672,114.470482,Si,Si,3.0,3.0,A veces,No,2.426094,No,0.294763,0.737226,A veces,Transporte_publico,Obesidad_III
+495,Sur,Femenino,31.386405,1.556579,78.233341,Si,Si,2.13683,2.092179,A veces,No,1.505381,No,0.0,0.0,A veces,Transporte_publico,Obesidad_I
+496,Norte,Masculino,22.0,174.0,75.0,Si,Si,3.0,3.0,Frecuente,No,1.0,No,1.0,0.0,Nunca,Auto,Peso_normal
+497,Sur,Femenino,18.120739,1.807576,152.567671,Si,Si,3.0,3.0,A veces,No,2.164718,No,1.999631,0.941336,A veces,Transporte_publico,Obesidad_III
+498,Central,M,30.967417,1.688436,90.0,Si,Si,2.180047,2.733077,A veces,No,2.77962,No,1.454129,0.0,A veces,Auto,Obesidad_I
+499,Norte,Masculino,34.389906,168.0,83.568035,Si,Si,2.0,1.660768,A veces,No,2.482294,No,0.891205,0.0,NUNCA,Auto,Sobrepeso_II
+500,Central,Masculino,17.491272,1.834637,59.990861,Si,SI,2.943749,4.0,A veces,No,2.0,No,2.0,0.128895,Nunca,Auto,Peso_insuficiente
+501,Central,Femenino,21.0,1.52,42.0,No,Si,3.0,1.0,Frecuente,No,1.0,No,0.0,,A veces,Transporte_publico,Peso_insuficiente
+502,Norte,masculino,230.0,182.0,86.522799,Si,Si,2.0,3.0,A veces,No,2.177386,No,0.336814,0.004813,a veces,Transporte_publico,Sobrepeso_I
+503,Sur,Varón,29.216019,1.752265,88.096062,Si,Si,2.0,1.894384,A veces,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+504,Norte,Masculino,27.0,172.0,88.0,Si,Si,2.0,1.0,Siempre,No,2.0,No,0.0,0.0,a veces,Auto,Sobrepeso_II
+505,Sur,Femenino,37.218161,1.593894,63.320629,Si,Si,2.37464,3.0,A veces,No,2.0,No,,0.480813,A veces,Auto,Sobrepeso_I
+506,Central,Varón,18.026457,1.752123,80.0,Si,Si,2.0,2.794156,A veces,No,2.377362,No,0.101236,,Nunca,Transporte_publico,Sobrepeso_I
+507,Central,Masculino,31.540751,1.828092,91.495718,Si,SI,2.0,2.698883,A veces,No,2.035104,No,0.598438,0.017016,A veces,Auto,Sobrepeso_II
+508,Central,Femenino,20.848608,1.726606,131.76807,Si,Si,3.0,3.0,A veces,No,1.759352,No,1.469928,0.950438,A veces,Transporte_publico,Obesidad_III
+509,Norte,Femenino,23.035829,160.0,42.993937,No,No,2.753752,2.812377,Frecuente,No,2.346647,No,1.612248,0.0,Nunca,Transporte_publico,Peso_insuficiente
+510,Sur,F,26.0,1.602025,104.899348,Si,Si,3.0,3.0,A veces,No,2.613928,No,0.0,0.553093,A veces,Transporte_publico,Obesidad_III
+511,Central,Femenino,19.673262,1.599486,44.810751,No,No,3.0,2.974568,Frecuente,No,1.145761,Si,0.87967,0.0,A veces,Transporte_publico,Peso_insuficiente
+512,Central,Femenino,38.943282,1.554728,63.011645,Si,Si,2.869436,3.0,A veces,No,2.972426,No,2.16079,0.305954,A veces,Auto,Sobrepeso_I
+513,Norte,Femenino,18.985119,176.0,80.0,Si,Sí,2.0,1.411808,A veces,No,2.651194,No,2.878414,0.953841,Nunca,Transporte_publico,Sobrepeso_I
+514,Central,Femenino,28.0,1.7,73.0,Si,NO,2.0,3.0,FRECUENTE,No,2.0,Si,2.0,0.0,A veces,Caminando,Sobrepeso_I
+515,Norte,Femenino,21.001282,152.0,64.696248,Si,No,2.1239,1.672958,A veces,No,2.0,No,1.582428,1.313363,Nunca,Transporte_publico,Sobrepeso_II
+516,Norte,M,21.0,176.0,78.0,Si,Si,3.0,1.0,a veces,No,2.0,No,3.0,0.0,A veces,Caminando,Sobrepeso_I
+517,Central,mujer,21.772251,1.732951,132.904884,Si,Si,3.0,3.0,A veces,No,1.817899,No,1.577824,0.930836,A veces,Transporte_publico,Obesidad_III
+518,Norte,Femenino,26.0,163.0,111.157811,Si,Si,3.0,3.0,A veces,No,2.638896,No,0.0,0.224559,A veces,Transporte_publico,Obesidad_III
+519,Central,Masculino,33.049121,1.708742,83.001642,Si,Si,2.0,1.171027,A veces,No,2.405172,No,2.300282,0.0,NUNCA,Auto,Sobrepeso_II
+520,Central,M,21.0,1.85,83.0,Si,Si,2.0,1.0,Frecuente,No,3.0,No,1.0,0.0,nunca,Transporte_publico,Peso_normal
+521,Norte,Masculino,22.882558,179.0,89.909259,Si,Si,1.899116,2.375026,A veces,No,1.39854,No,,1.365793,A veces,Transporte_publico,Sobrepeso_II
+522,Norte,femenino,21.0,162.0,64.0,Si,No,2.0,3.0,A VECES,No,2.0,No,,1.0,Nunca,Transporte_publico,Peso_normal
+523,Central,mujer,19.0,1.51,45.0,No,Si,2.0,4.0,A veces,No,1.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+524,Central,Femenino,16.611837,1.830068,43.534531,No,Si,2.945967,3.0,A veces,No,2.953192,No,2.830911,1.466667,A veces,Transporte_publico,Peso_insuficiente
+525,Central,Masculino,22.285024,1.75376,55.879263,Si,Si,2.450218,3.995147,A veces,No,2.147746,No,2.0,0.58998,A veces,Transporte_publico,Peso_insuficiente
+526,Central,mujer,19.314429,1.67231,49.713944,No,SI,2.562409,3.488342,A veces,No,1.67062,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+527,Central,Varón,23.0,1.690196,75.0,Si,SI,2.620963,3.0,A VECES,No,2.824559,No,0.754599,2.0,A veces,Transporte_publico,Sobrepeso_I
+528,Sur,M,26.348156,1.830317,117.75701,Si,Sí,2.068834,3.0,A veces,No,,No,1.217993,,A veces,Transporte_publico,Obesidad_II
+529,Sur,Masculino,26.0,1.745033,80.0,Si,Si,2.217267,1.193589,A veces,No,2.0,No,2.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+530,Norte,Femenino,25.951979,166.0,112.098616,Si,Si,3.0,3.0,A VECES,No,,No,0.259424,0.080128,A veces,Transporte_publico,Obesidad_III
+531,Central,Masculino,37.056193,1.75015,118.206565,Si,Si,2.09283,3.0,A veces,No,2.077704,No,0.598655,0.0,A veces,Auto,Obesidad_II
+532,Central,Masculino,18.0,1.708107,51.314659,Si,Sí,1.303878,3.0,A veces,No,1.755497,No,0.062932,1.672532,A veces,Transporte_publico,Peso_insuficiente
+533,Central,M,21.0,1.8,72.0,No,Si,3.0,3.0,A VECES,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+534,Central,Femenino,27.0,1.55,63.0,No,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.0,A veces,Auto,Sobrepeso_I
+535,Central,Femenino,19.090023,1.562434,70.442775,Si,No,2.748243,3.070386,A veces,No,1.962322,No,1.145752,1.0,Nunca,Transporte_publico,Sobrepeso_II
+536,Central,Varón,19.0,1.8,60.0,No,Si,2.0,3.0,A VECES,No,1.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+537,Sur,Masculino,18.426619,1.777108,57.145917,Si,Si,2.0,3.092116,A veces,No,2.426465,No,2.0,1.839862,Nunca,Auto,Peso_insuficiente
+538,Norte,Masculino,21.808159,165.0,80.0,Si,Si,2.0,3.0,a veces,No,2.0,No,0.826609,2.0,Nunca,Transporte_publico,Sobrepeso_II
+539,Norte,Masculino,31.484494,171.0,82.586893,Si,Si,2.795086,3.250467,A veces,No,1.367876,No,,0.0,Nunca,Auto,Sobrepeso_II
+540,Central,Femenino,35.432059,1.663178,80.135167,Si,Si,2.0,3.0,A veces,No,1.992548,No,0.039207,1.528714,Nunca,Auto,Sobrepeso_II
+541,Norte,Femenino,21.849705,177.0,133.963349,Si,SI,3.0,3.0,A veces,No,2.825629,No,1.399183,0.928972,A veces,Transporte_publico,Obesidad_III
+542,Central,Femenino,21.538225,1.610327,67.999778,Si,Si,1.887951,3.728377,nunca,No,2.682107,No,1.123931,0.492528,A veces,Transporte_publico,Sobrepeso_I
+543,Sur,M,22.754646,1.734237,95.0,Si,Si,2.0,3.0,A veces,No,2.287248,No,2.669179,1.237867,Nunca,Transporte_publico,Obesidad_I
+544,Sur,Masculino,20.0,1.84,104.0,Si,NO,2.0,3.0,A veces,No,3.0,No,3.0,,NUNCA,Moto,Obesidad_I
+545,Central,Masculino,22.429812,1.64037,70.0,No,SI,2.0,1.0,Nunca,No,2.069184,No,0.729898,0.0,a veces,Transporte_publico,Sobrepeso_I
+546,Sur,masculino,23.083621,1.848553,121.421121,Si,Si,3.0,2.567567,A veces,No,2.011023,No,0.916478,0.0,A veces,Transporte_publico,Obesidad_II
+547,Sur,Femenino,38.895069,1.549257,80.0,Si,Si,2.736628,1.130751,A veces,No,1.385175,No,1.666965,0.0,A veces,Auto,Obesidad_I
+548,Norte,Masculino,33.015258,173.0,84.315608,Si,Si,2.0,3.0,A veces,No,2.205911,No,1.293396,0.0,Nunca,Auto,Sobrepeso_II
+549,Norte,Femenino,30.711381,154.0,65.912688,Si,No,2.030256,2.948721,A veces,No,,No,0.986414,0.333673,Nunca,Transporte_publico,Sobrepeso_II
+550,Central,Femenino,24.317607,1.586751,79.109029,Si,Si,2.0,1.0,A veces,No,2.0,No,0.852446,0.0,nunca,Transporte_publico,Obesidad_I
+551,Norte,Masculino,21.0,171.0,75.0,Si,Si,2.0,3.0,a veces,No,1.333707,No,,0.0,A veces,Transporte_publico,Sobrepeso_I
+552,Central,mujer,20.850119,1.524926,42.0,No,SI,2.866383,1.226342,FRECUENTE,No,1.0,No,0.14495,0.0,A veces,Transporte_publico,Peso_insuficiente
+553,Norte,Masculino,21.652229,170.0,75.057177,Si,Si,2.086093,3.546352,A veces,No,2.081121,No,1.993666,0.673835,A veces,Transporte_publico,Sobrepeso_I
+554,Sur,Masculino,22.661556,1.660324,94.189167,Si,Si,2.0,3.0,a veces,No,,No,,0.105936,Nunca,Transporte_publico,Obesidad_I
+555,Central,F,27.0,1.55,62.0,No,Si,3.0,1.0,A veces,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+556,Central,Masculino,41.0,1.75,110.0,Si,No,2.0,1.0,A veces,No,1.0,No,1.0,0.0,Frecuente,Auto,Obesidad_II
+557,Norte,Masculino,30.188303,176.0,112.10074,Si,Si,1.387489,3.0,A veces,No,2.017712,No,0.0,0.731257,A veces,Auto,Obesidad_II
+558,Central,masculino,18.0,1.8,72.0,Si,Si,2.0,3.0,A VECES,No,2.0,No,3.0,0.0,A veces,Auto,Peso_normal
+559,Central,mujer,39.214514,1.580765,62.631382,Si,Si,2.487167,3.0,A veces,No,2.396977,No,0.577063,0.435072,A veces,Auto,Sobrepeso_I
+560,Norte,Masculino,33.070142,171.0,83.014033,Si,Si,2.0,1.044628,A veces,No,2.01051,No,2.805801,0.0,Nunca,Auto,Sobrepeso_II
+561,Norte,Femenino,45.0,163.0,77.0,Si,Si,2.0,3.0,frecuente,No,1.0,No,0.0,,Nunca,Auto,Sobrepeso_II
+562,Central,Masculino,18.0,1.85,66.0,No,SI,2.0,3.0,Frecuente,No,1.0,No,1.0,1.0,a veces,Transporte_publico,Peso_normal
+563,Central,Femenino,18.0,1.6,83.0,Si,Si,2.0,3.0,a veces,No,2.0,Si,1.0,0.0,Nunca,Transporte_publico,Obesidad_I
+564,Sur,masculino,41.0,1.8,92.0,Si,Sí,2.0,1.0,frecuente,No,3.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+565,Central,M,18.0,1.781543,50.869704,No,Si,2.052932,3.0,A veces,No,,No,0.520408,1.0,A veces,Transporte_publico,Peso_insuficiente
+566,Central,Masculino,19.108796,1.768578,87.803311,Si,Si,2.754646,3.0,A veces,No,2.957821,No,2.242754,0.786609,A veces,Transporte_publico,Sobrepeso_II
+567,Central,Masculino,17.70368,1.883364,60.0,Si,Si,3.0,3.626815,A veces,No,2.0,No,2.011519,0.456462,Nunca,Auto,Peso_insuficiente
+568,Norte,Femenino,26.0,163.0,111.829957,Si,Si,3.0,3.0,A veces,No,2.55975,No,0.0,0.237307,A VECES,Transporte_publico,Obesidad_III
+569,Sur,Femenino,42.24475,1.768231,75.62931,Si,Si,3.0,2.951837,A VECES,No,2.112032,No,,0.0,A veces,Auto,Sobrepeso_I
+570,Central,Varón,17.0,1.66,56.0,Si,SI,1.0,3.0,Siempre,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+571,Central,Masculino,18.068767,1.787787,52.0,Si,Si,3.0,3.0,A veces,No,,No,0.854337,1.0,A veces,Transporte_publico,Peso_insuficiente
+572,Central,Masculino,22.927011,1.751046,95.285898,Si,Si,2.0,3.0,A veces,No,2.530301,No,2.89118,1.287117,Nunca,Transporte_publico,Obesidad_I
+573,Central,Femenino,23.0,1.66,60.0,Si,No,2.0,3.0,A veces,No,2.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+574,Central,Femenino,31.0,1.62,68.0,No,No,3.0,3.0,A veces,No,2.0,No,1.0,0.0,A VECES,Auto,Sobrepeso_I
+575,Sur,Masculino,30.003358,1.758355,112.007101,Si,Si,1.750809,3.0,A veces,No,2.002871,No,0.0,,A veces,Auto,Obesidad_II
+576,Sur,Femenino,26.0,1.656504,111.993054,Si,Si,3.0,3.0,A veces,No,2.893117,No,0.0,0.01931,A veces,Transporte_publico,Obesidad_III
+577,Central,Masculino,18.0,1.788459,51.552595,No,Si,2.897899,3.0,A veces,No,1.835545,No,,1.0,A veces,Transporte_publico,Peso_insuficiente
+578,Norte,mujer,300.0,168.0,80.0,No,No,3.0,3.0,A veces,No,3.0,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+579,Central,Masculino,18.0,1.76,70.0,Si,Si,2.0,4.0,frecuente,No,2.0,No,2.0,1.0,A veces,Auto,Peso_normal
+580,Central,mujer,190.0,1.53,55.0,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+581,Norte,Masculino,21.0,175.0,50.0,Si,No,3.0,4.0,Frecuente,No,,No,1.0,0.0,Nunca,Caminando,Peso_insuficiente
+582,Central,Femenino,18.0,1.57,48.0,Si,Si,3.0,1.0,Siempre,No,1.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+583,Central,Femenino,19.010211,1.555431,44.188767,No,No,2.724285,3.0,Frecuente,No,1.0,Si,1.070331,0.0,A veces,Transporte_publico,Peso_insuficiente
+584,Central,M,24.186273,1.794827,120.919703,Si,Si,2.611847,2.749334,A veces,No,2.364849,No,1.141708,0.063005,A veces,Transporte_publico,Obesidad_II
+585,Norte,Masculino,19.0,180.0,70.0,No,Si,3.0,3.0,Frecuente,No,1.0,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+586,Norte,mujer,25.930376,161.0,102.38745,Si,Si,3.0,3.0,A veces,No,1.050564,No,0.026033,0.539074,A veces,Transporte_publico,Obesidad_III
+587,Central,Femenino,26.0,1.622701,109.982692,Si,Si,3.0,3.0,A veces,No,2.688229,No,0.0,0.451377,A veces,Transporte_publico,Obesidad_III
+588,Central,Femenino,32.383858,1.640688,46.655622,Si,Si,3.0,3.11158,Frecuente,No,2.721769,No,1.44287,0.0,Nunca,Transporte_publico,Peso_insuficiente
+589,Norte,Femenino,26.0,164.0,111.894229,Si,Si,3.0,3.0,A veces,No,2.72005,No,0.0,,A veces,Transporte_publico,Obesidad_III
+590,Central,M,19.47554,1.857231,88.138777,Si,Si,2.061952,4.0,A veces,No,2.426465,No,2.0,0.160138,A veces,Transporte_publico,Sobrepeso_I
+591,Central,Masculino,30.451174,1.758539,111.950413,Si,SI,1.067909,3.656401,A veces,No,1.98459,No,0.054238,0.0,A veces,Auto,Obesidad_II
+592,Central,masculino,21.721507,1.849998,122.119682,Si,Si,3.0,2.014671,A veces,No,1.292786,No,0.145687,0.0,a veces,Transporte_publico,Obesidad_II
+593,Central,mujer,19.717249,1.688426,49.660995,No,No,2.714447,3.0,frecuente,No,2.0,No,1.903182,1.0,A veces,Transporte_publico,Peso_insuficiente
+594,Norte,Femenino,21.90012,184.0,165.057269,Si,Si,3.0,3.0,A veces,No,2.406541,No,0.10032,0.479221,A veces,Transporte_publico,Obesidad_III
+595,Central,F,23.0,1.65,70.0,Si,No,2.0,1.0,A veces,No,2.0,No,0.0,0.0,a veces,Transporte_publico,Sobrepeso_I
+596,Central,Femenino,25.196214,1.686306,104.572712,Si,Si,3.0,3.0,A veces,No,1.152736,No,0.319156,1.0,A veces,Transporte_publico,Obesidad_III
+597,Central,F,24.0,1.6,100.5,Si,Si,3.0,1.0,A veces,No,,No,0.0,2.0,A veces,Transporte_publico,Obesidad_II
+598,Central,Varón,25.0,1.7,83.0,Si,Si,2.0,3.0,Frecuente,No,2.0,No,0.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+599,Central,Masculino,34.0,1.69,84.0,Si,NO,2.0,3.0,A veces,No,3.0,No,2.0,0.0,Nunca,Auto,Sobrepeso_II
+600,Norte,Femenino,21.0,152.0,56.0,Si,no,3.0,3.0,A veces,Si,3.0,Si,3.0,0.0,a veces,Transporte_publico,Peso_normal
+601,Central,masculino,19.799054,1.743702,54.927529,Si,Si,2.0,3.28926,A veces,No,2.847264,No,1.680844,2.0,a veces,Transporte_publico,Peso_insuficiente
+602,Central,Femenino,18.863875,1.560029,71.728069,Si,No,3.0,3.339914,A VECES,No,2.0,No,1.0,1.0,a veces,Transporte_publico,Sobrepeso_II
+603,Norte,F,40.0,158.0,63.0,No,Si,2.0,3.0,frecuente,No,2.0,No,3.0,1.0,A veces,Transporte_publico,Sobrepeso_I
+604,Norte,masculino,0.0,171.0,83.952968,Si,Si,2.0,2.6648,A veces,No,1.810738,No,0.80989,1.0,a veces,Transporte_publico,Sobrepeso_II
+605,Norte,Masculino,19.565496,171.0,78.025625,Si,No,1.936479,2.837388,A veces,No,2.159987,No,1.475772,0.646514,A veces,Transporte_publico,Sobrepeso_II
+606,Norte,Femenino,23.728707,166.0,80.0,Si,Si,2.0,3.0,A veces,No,2.13755,No,0.0,0.124977,Nunca,Transporte_publico,Sobrepeso_II
+607,Norte,femenino,19.007177,169.0,49.895716,No,Si,1.212908,3.207071,A veces,No,1.029703,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+608,Norte,Masculino,20.0,158.0,74.0,No,No,3.0,3.0,Frecuente,No,2.0,No,3.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+609,Central,Masculino,18.0,1.845399,60.0,Si,Si,3.0,4.0,A veces,No,2.0,No,2.0,0.0,NUNCA,Auto,Peso_insuficiente
+610,Central,Femenino,25.982261,1.629225,104.838425,Si,Si,3.0,3.0,a veces,No,2.556068,No,0.01682,,A veces,Transporte_publico,Obesidad_III
+611,Norte,M,17.0,180.0,58.0,No,Sí,2.0,3.0,Frecuente,No,2.0,No,2.0,1.0,NUNCA,Caminando,Peso_insuficiente
+612,Sur,Femenino,18.845518,1.753471,80.0,Si,SI,2.0,1.391778,A veces,No,2.64548,No,,,nunca,Transporte_publico,Sobrepeso_I
+613,Sur,Masculino,19.795269,1.758972,87.861431,Si,Si,2.332074,3.0,A veces,No,2.999495,No,2.405963,0.441502,A veces,Transporte_publico,Sobrepeso_II
+614,Central,masculino,25.015173,1.788239,115.382519,Si,Si,1.735664,3.0,A veces,No,2.041536,No,1.392406,0.39174,A veces,Transporte_publico,Obesidad_II
+615,Norte,masculino,23.0,180.0,60.0,Si,No,2.0,3.0,Nunca,No,3.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+616,Norte,Masculino,19.623574,182.0,85.833029,Si,Sí,2.954996,3.714833,A veces,No,2.430918,No,2.545931,0.469735,A veces,Transporte_publico,Sobrepeso_I
+617,Central,Masculino,23.0,1.72,70.0,No,No,2.0,3.0,A VECES,No,2.0,No,3.0,1.0,FRECUENTE,Transporte_publico,Peso_normal
+618,Central,mujer,19.816228,1.507853,64.259379,No,Si,2.568063,3.0,A veces,No,1.817983,Si,0.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+619,Central,Masculino,30.899219,1.909639,129.013178,Si,Si,2.22259,3.0,A veces,Si,1.591909,No,1.392026,0.917727,A veces,Transporte_publico,Obesidad_II
+620,Central,masculino,22.0,1.84,84.0,Si,Si,3.0,3.0,Frecuente,No,2.0,Si,3.0,0.0,A veces,Transporte_publico,Peso_normal
+621,Norte,mujer,21.02497,167.0,49.869791,Si,Si,3.0,3.0,Frecuente,No,,No,2.0,1.0,Nunca,Transporte_publico,Peso_insuficiente
+622,Central,Masculino,18.0,1.797523,108.316462,Si,Si,2.0,1.941307,A veces,No,2.708168,No,1.0,1.425852,Nunca,Transporte_publico,Obesidad_I
+623,Central,masculino,21.142432,1.855353,86.413388,Si,Si,2.0,3.0,A veces,No,1.345298,No,1.097905,1.0,a veces,Transporte_publico,Sobrepeso_I
+624,Central,Masculino,19.0,1.78,64.0,No,Si,2.0,3.0,A veces,No,1.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+625,Central,Femenino,26.0,1.641601,111.830924,Si,Si,3.0,3.0,A veces,No,2.552388,No,0.0,0.196288,A veces,Transporte_publico,Obesidad_III
+626,Central,femenino,18.006742,1.7,50.0,No,SI,1.003566,3.238258,Frecuente,No,1.014634,No,,1.0,a veces,Transporte_publico,Peso_insuficiente
+627,Norte,Masculino,18.525525,186.0,59.258372,Si,Si,2.592247,3.304123,A veces,No,,No,2.038653,1.119877,Nunca,Auto,Peso_insuficiente
+628,Norte,masculino,19.556729,177.0,56.307019,Si,Si,2.362918,4.0,a veces,No,2.358172,No,2.0,0.939819,Nunca,Auto,Peso_insuficiente
+629,Norte,Varón,21.00829,162.0,70.0,No,Si,2.0,1.0,Nunca,No,2.795651,No,0.80873,0.0,A veces,Transporte_publico,Sobrepeso_I
+630,Central,femenino,17.823438,1.708406,50.0,No,Si,1.642241,3.45259,a veces,No,1.099231,No,0.418875,1.0,A veces,Transporte_publico,Peso_insuficiente
+631,Central,Masculino,18.470562,1.856406,58.673963,Si,Sí,2.34222,3.937099,A veces,No,2.311791,No,2.013377,1.128355,Nunca,Auto,Peso_insuficiente
+632,Norte,Femenino,23.0,171.0,50.287967,Si,Si,2.0,3.0,Frecuente,No,2.099863,No,1.63581,2.0,Nunca,Transporte_publico,Peso_insuficiente
+633,Central,Masculino,50.832559,1.745528,82.130728,Si,Si,2.0,3.0,A veces,No,,No,0.943266,0.0,Nunca,Auto,Sobrepeso_II
+634,Central,Varón,39.656559,1.789992,98.021766,Si,Si,2.043359,2.209314,A veces,No,2.785804,No,1.259613,0.669616,a veces,Auto,Obesidad_I
+635,Sur,Masculino,21.0,1.8,62.0,Si,Si,3.0,3.0,A veces,No,2.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+636,Central,Masculino,21.963457,1.697228,75.5771,Si,Si,2.204914,3.623364,A veces,No,,No,0.989316,,A veces,Transporte_publico,Sobrepeso_I
+637,Sur,Masculino,18.128206,1.778447,80.273807,Si,Si,1.570089,3.0,A veces,No,,No,2.707882,0.0,Nunca,Transporte_publico,Sobrepeso_I
+638,Central,Masculino,25.341399,1.786997,115.025361,Si,Si,1.99953,3.0,A veces,No,2.111908,No,1.453042,0.849503,A veces,Transporte_publico,Obesidad_II
+639,Sur,masculino,19.0,1.76,79.0,Si,Si,2.0,3.0,Frecuente,No,3.0,No,1.0,2.0,Frecuente,Transporte_publico,Sobrepeso_I
+640,Central,femenino,24.565628,1.62093,81.718232,Si,Si,2.260543,1.374791,A veces,No,1.947935,No,0.0,0.078607,Nunca,Transporte_publico,Obesidad_I
+641,Central,Femenino,38.0,1.55,59.0,Si,no,3.0,3.0,A VECES,No,1.0,No,2.0,1.0,Frecuente,Auto,Peso_normal
+642,Central,femenino,18.367481,1.745644,133.665587,Si,Si,3.0,3.0,A veces,No,2.900857,No,1.508897,0.625371,A veces,Transporte_publico,Obesidad_III
+643,Sur,Masculino,16.0,1.82,71.0,Si,Si,2.0,3.0,frecuente,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+644,Norte,femenino,17.0,160.0,65.0,No,Si,3.0,1.0,a veces,No,,Si,1.0,2.0,A veces,Transporte_publico,Sobrepeso_I
+645,Central,M,23.807181,1.729177,82.52724,Si,Si,2.742796,2.937607,a veces,No,1.99467,No,1.0,0.023564,A veces,Transporte_publico,Sobrepeso_II
+646,Sur,femenino,52.0,1.69,87.0,Si,SI,3.0,1.0,a veces,Si,2.0,No,0.0,0.0,Nunca,Auto,Obesidad_I
+647,Central,Femenino,21.837058,1.558045,63.597633,No,Si,2.53915,1.590982,A veces,No,1.977801,No,1.264616,0.0,A veces,Transporte_publico,Sobrepeso_I
+648,Sur,F,16.0,1.57,49.0,No,Si,2.0,4.0,Siempre,No,2.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+649,Central,Varón,24.0,1.7,75.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Auto,Sobrepeso_I
+650,Norte,Varón,34.432669,169.0,84.451423,Si,Si,2.129668,2.693646,A veces,No,2.60669,No,1.170823,0.290898,NUNCA,Auto,Sobrepeso_II
+651,Central,M,22.766227,1.874061,89.754302,Si,Sí,2.0,2.870005,A VECES,No,1.15031,No,0.417724,1.0,A veces,Auto,Sobrepeso_I
+652,Central,M,19.0,1.78,81.0,Si,No,1.0,3.0,A veces,No,2.0,No,3.0,0.0,Nunca,Bicicleta,Sobrepeso_I
+653,Sur,Femenino,16.0,1.66,58.0,No,No,2.0,1.0,a veces,No,1.0,No,0.0,1.0,Nunca,Caminando,Peso_normal
+654,Central,M,33.0,1.74,76.0,No,no,2.0,3.0,A veces,No,1.0,No,0.0,2.0,A veces,Caminando,Sobrepeso_I
+655,Central,Femenino,24.0,1.62,58.0,No,Si,3.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+656,Central,Femenino,23.0,1.7,56.0,No,No,3.0,4.0,Siempre,No,3.0,Si,3.0,0.0,Nunca,Auto,Peso_normal
+657,Norte,M,25.191627,181.0,85.637789,No,Sí,1.450218,3.985442,A veces,No,2.147746,No,0.046836,1.0,Nunca,Auto,Sobrepeso_I
+658,Norte,M,21.556361,177.0,116.160329,Si,SI,2.0,3.0,A veces,No,2.0,No,1.399183,,A veces,Transporte_publico,Obesidad_II
+659,Central,femenino,18.198322,1.543338,71.799982,Si,No,3.0,3.087119,A veces,No,2.0,No,1.403872,1.0,Nunca,Transporte_publico,Sobrepeso_II
+660,Sur,Femenino,20.901393,1.709585,75.0,Si,Sí,2.104105,3.0,A veces,No,,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+661,Norte,Femenino,20.519916,173.0,49.815599,Si,No,2.890535,3.90779,Frecuente,No,1.109115,No,1.548953,0.555468,NUNCA,Transporte_publico,Peso_insuficiente
+662,Central,F,19.0,1.6,45.0,No,No,3.0,3.0,Nunca,No,3.0,Si,2.0,0.0,Nunca,Caminando,Peso_insuficiente
+663,Norte,Femenino,18.177882,182.0,142.102468,Si,Si,3.0,3.0,A veces,No,2.714949,No,1.999773,0.813784,A VECES,Transporte_publico,Obesidad_III
+664,Norte,F,18.270434,174.0,76.699774,Si,Si,2.838969,3.0,A veces,No,2.425927,No,1.0,1.453335,Frecuente,Transporte_publico,Sobrepeso_I
+665,Central,Varón,21.0,1.7,65.0,Si,SI,2.0,3.0,frecuente,No,,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+666,Norte,M,20.0,180.0,65.0,No,Si,2.0,3.0,Frecuente,No,1.0,No,2.0,0.0,A veces,Moto,Peso_normal
+667,Sur,Masculino,23.0,1.67,85.5,Si,Si,2.0,3.0,Siempre,No,2.0,No,0.0,1.0,nunca,Transporte_publico,Obesidad_I
+668,Norte,Femenino,18.909439,173.0,50.0,No,SI,1.053534,3.378859,A veces,No,1.0,No,1.853425,,A veces,Transporte_publico,Peso_insuficiente
+669,Norte,Masculino,25.062942,183.0,120.998266,Si,Sí,3.0,3.0,A veces,No,3.0,No,1.685369,0.264969,A veces,Transporte_publico,Obesidad_II
+670,Sur,M,22.0,1.65,56.0,No,no,3.0,3.0,A veces,No,,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+671,Norte,Masculino,28.825223,177.0,82.045045,Si,Si,1.064162,3.98955,A veces,No,2.028426,No,,0.894678,A veces,Transporte_publico,Sobrepeso_I
+672,Sur,femenino,18.656912,1.574017,41.220175,No,Si,1.649974,1.513835,A VECES,No,1.549974,No,0.227802,1.972926,A veces,Transporte_publico,Peso_insuficiente
+673,Sur,Femenino,22.909992,1.700038,80.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.973114,1.540298,Nunca,Transporte_publico,Sobrepeso_II
+674,Norte,Femenino,18.13782,182.0,151.278532,Si,Si,3.0,3.0,A veces,No,2.155926,No,1.999836,0.94603,a veces,Transporte_publico,Obesidad_III
+675,Norte,Femenino,20.0,164.0,49.0,No,No,3.0,3.0,A veces,Si,2.0,No,2.0,1.0,A veces,Auto,Peso_insuficiente
+676,Central,Masculino,26.758516,1.80179,86.981202,No,Si,2.652958,2.488189,A veces,No,2.0,No,2.0,0.096614,Nunca,Auto,Sobrepeso_I
+677,Norte,Varón,18.900253,175.0,79.828725,Si,Si,2.0,2.228113,A veces,No,2.045004,No,,0.961806,Frecuente,Transporte_publico,Sobrepeso_I
+678,Central,Masculino,24.911994,1.785241,88.03748,Si,SI,1.306844,2.279546,a veces,No,2.0,No,0.0,0.739609,A veces,Transporte_publico,Sobrepeso_II
+679,Norte,Femenino,24.0,150.0,63.0,Si,No,2.0,1.0,A veces,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_II
+680,Central,M,39.685846,1.781032,96.303855,Si,Si,2.252698,2.475228,A VECES,No,2.923856,No,2.165429,0.616045,Frecuente,Auto,Obesidad_I
+681,Central,F,21.785351,1.675054,49.945233,Si,Si,2.929889,3.0,Frecuente,No,2.792074,No,0.630944,1.366355,Nunca,Transporte_publico,Peso_insuficiente
+682,Norte,F,33.0,156.0,48.0,Si,No,2.0,3.0,A veces,No,2.0,No,1.0,0.0,a veces,Transporte_publico,Peso_normal
+683,Norte,F,22.0,168.0,51.154201,Si,Sí,3.0,3.0,FRECUENTE,No,2.815293,No,1.978631,1.0,Nunca,Transporte_publico,Peso_insuficiente
+684,Norte,Masculino,18.0,179.0,51.524444,No,Si,2.91548,3.0,A veces,No,,No,1.077469,1.0,A veces,Transporte_publico,Peso_insuficiente
+685,Sur,Femenino,23.0,1.68,67.0,Si,Si,2.0,3.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+686,Norte,masculino,18.178023,185.0,114.77484,Si,Si,2.0,1.854536,A veces,No,2.160169,No,1.0,2.0,A veces,Transporte_publico,Obesidad_I
+687,Central,Femenino,18.0,1.64,59.0,Si,Si,2.0,3.0,A veces,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+688,Sur,Masculino,22.0,1.6,66.0,No,Si,3.0,3.0,A veces,No,2.0,No,3.0,,Nunca,Bicicleta,Sobrepeso_I
+689,Central,Masculino,17.0,1.74,56.0,Si,Si,2.0,3.0,A veces,No,2.0,No,2.0,1.0,Nunca,Transporte_publico,Peso_normal
+690,Norte,Masculino,20.0,165.0,58.0,No,Si,2.0,3.0,A VECES,No,2.0,No,3.0,1.0,A veces,Transporte_publico,Peso_normal
+691,Central,femenino,18.836315,1.751631,80.0,Si,Sí,2.0,1.73762,a veces,No,2.207978,No,2.641072,0.707044,Frecuente,Transporte_publico,Sobrepeso_I
+692,Norte,Femenino,18.0,155.0,50.0,Si,Si,3.0,3.0,FRECUENTE,No,1.0,No,1.0,2.0,Nunca,Transporte_publico,Peso_normal
+693,Central,Femenino,19.300435,1.739354,49.649613,No,Si,3.0,3.754599,A veces,No,1.692112,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+694,Central,Masculino,28.493397,1.817572,120.8158,Si,Si,2.969233,3.0,A veces,No,2.807984,No,0.982134,1.191998,A veces,Transporte_publico,Obesidad_II
+695,Central,Masculino,23.801436,1.855779,86.098523,Si,Sí,2.0,2.372339,A veces,No,1.675733,No,1.066241,1.0,A veces,Auto,Sobrepeso_I
+696,Central,Masculino,23.0,1.72,66.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,1.0,A veces,Caminando,Peso_normal
+697,Norte,Femenino,43.37634,158.0,81.919454,Si,Si,2.76632,1.317884,A veces,No,1.889341,No,0.990642,0.0,Nunca,Auto,Obesidad_I
+698,Central,Masculino,21.0,1.8,73.0,Si,Si,1.0,3.0,SIEMPRE,No,2.0,No,3.0,1.0,A VECES,Transporte_publico,Peso_normal
+699,Central,Femenino,36.0,1.63,80.0,Si,No,3.0,3.0,A veces,No,1.0,No,0.0,0.0,A veces,Auto,Obesidad_I
+700,Norte,Masculino,17.0,190.0,60.0,No,No,3.0,3.0,A veces,No,2.0,No,3.0,1.0,Nunca,Caminando,Peso_insuficiente
+701,Norte,femenino,21.0,152.0,42.0,No,Si,3.0,1.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+702,Central,M,16.0,1.67,50.0,Si,Si,2.0,1.0,Frecuente,No,3.0,No,,0.0,Nunca,Transporte_publico,Peso_insuficiente
+703,Central,Femenino,18.0,1.5,50.0,Si,Si,3.0,3.0,Frecuente,No,2.0,No,0.0,1.0,A VECES,Transporte_publico,Peso_normal
+704,Norte,masculino,23.0,175.0,75.0,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,Frecuente,Transporte_publico,Peso_normal
+705,Central,F,18.052394,1.725233,75.970712,Si,Sí,2.927409,3.0,A veces,No,2.209991,No,1.0,0.797215,Frecuente,Transporte_publico,Sobrepeso_I
+706,Sur,Masculino,27.266287,1.828276,120.872294,Si,Si,2.637202,3.0,A veces,No,,No,1.159598,0.758897,A VECES,Transporte_publico,Obesidad_II
+707,Norte,F,21.529439,159.0,44.00945,No,No,3.0,1.612747,Frecuente,No,2.566629,No,1.190465,,Nunca,Transporte_publico,Peso_insuficiente
+708,Norte,masculino,17.039058,180.0,95.419668,Si,Sí,2.0,3.0,A veces,No,3.0,No,1.04729,0.933802,A veces,Transporte_publico,Sobrepeso_II
+709,Central,masculino,30.0,1.75,73.0,Si,No,2.0,3.0,Nunca,No,2.0,Si,1.0,0.0,A veces,Caminando,Peso_normal
+710,Central,Femenino,29.32038,1.642506,69.906708,Si,Sí,2.366949,3.0,A veces,No,,No,1.581242,0.0,A veces,Auto,Sobrepeso_I
+711,Norte,masculino,32.774488,191.0,101.482054,Si,Si,2.0,2.110937,A veces,No,2.175632,No,1.0,0.0,A veces,Caminando,Sobrepeso_II
+712,Central,Femenino,20.147114,1.528011,42.0,No,Si,3.0,1.0,Frecuente,No,1.322669,No,0.0,0.478676,A veces,Transporte_publico,Peso_insuficiente
+713,Central,Masculino,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+714,Norte,Masculino,26.225442,177.0,116.160329,Si,Si,2.442536,3.0,A veces,No,2.174371,No,0.0,1.928972,A veces,Transporte_publico,Obesidad_II
+715,Norte,Masculino,19.895877,181.0,85.073801,Si,Si,2.801514,3.0,A veces,No,2.734782,No,2.207881,0.143675,a veces,Transporte_publico,Sobrepeso_I
+716,Norte,Masculino,22.906886,182.0,120.775439,Si,Si,2.636719,2.806341,A veces,No,1.967591,No,1.525384,0.315595,A veces,Transporte_publico,Obesidad_II
+717,Central,Masculino,24.0,1.7,68.0,No,Sí,3.0,3.0,A veces,No,2.0,No,0.0,0.0,A veces,Moto,Peso_normal
+718,Central,Masculino,29.713169,1.763259,113.215814,Si,Si,2.181057,3.0,A veces,No,2.08554,No,0.0,1.439004,A veces,Auto,Obesidad_II
+719,Norte,Femenino,22.154854,148.0,61.373868,Si,No,2.0,2.983297,A veces,No,1.453626,No,,0.509396,Nunca,Transporte_publico,Sobrepeso_II
+720,Norte,Varón,24.06894,171.0,85.743727,Si,SI,2.0,2.994198,a veces,No,2.747302,No,0.0,0.799756,A veces,Transporte_publico,Sobrepeso_II
+721,Central,Femenino,26.0,1.632377,111.946655,Si,Si,3.0,3.0,A veces,No,2.737091,No,0.0,0.037078,A VECES,Transporte_publico,Obesidad_III
+722,Central,M,18.0,1.74,64.0,No,No,3.0,3.0,a veces,No,2.0,Si,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+723,Sur,Masculino,17.080493,1.782756,56.029418,Si,Si,2.0,4.0,A veces,No,2.28525,No,2.0,1.162801,Nunca,Auto,Peso_insuficiente
+724,Central,Femenino,26.0,1.624099,109.978402,Si,Si,3.0,3.0,A veces,No,2.523793,No,0.0,0.383953,A VECES,Transporte_publico,Obesidad_III
+725,Central,femenino,26.0,1.628909,106.875927,Si,Si,3.0,3.0,A veces,No,2.686824,No,0.0,0.540812,A veces,Transporte_publico,Obesidad_III
+726,Norte,Masculino,22.814657,172.0,75.688433,Si,Si,2.0,3.0,A veces,No,2.0,No,0.092344,1.466496,A veces,Transporte_publico,Sobrepeso_I
+727,Sur,Masculino,28.404332,1.787379,112.173731,Si,Si,1.878251,3.0,A veces,No,2.022933,No,0.0,0.325445,A veces,Auto,Obesidad_II
+728,Central,mujer,22.884722,1.622787,82.0,Si,Si,1.754401,1.0,A veces,No,2.0,No,0.0,0.301909,Nunca,Transporte_publico,Obesidad_I
+729,Central,Femenino,25.612462,1.674515,112.879662,Si,Si,3.0,3.0,A veces,No,2.989389,No,0.36009,0.169016,A veces,Transporte_publico,Obesidad_III
+730,Norte,Masculino,22.336216,179.0,105.055686,Si,Si,2.253707,3.0,A veces,No,2.524432,No,0.58216,0.175694,a veces,Transporte_publico,Obesidad_I
+731,Central,Masculino,22.0,1.74,94.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,,A veces,Transporte_publico,Obesidad_I
+732,Central,Varón,17.580627,1.770324,55.695253,Si,Si,2.0,4.0,A veces,No,2.369627,No,2.0,1.612466,nunca,Auto,Peso_insuficiente
+733,Central,Femenino,25.816445,1.684082,104.592372,Si,Si,3.0,3.0,A veces,No,1.295436,No,0.282063,0.929356,A veces,Transporte_publico,Obesidad_III
+734,Central,Femenino,24.0,1.56,60.0,Si,Si,1.0,3.0,Siempre,No,2.0,No,0.0,2.0,A VECES,Transporte_publico,Peso_normal
+735,Central,Femenino,18.0,1.45,53.0,No,SI,2.0,3.0,Frecuente,No,2.0,Si,,,Frecuente,Transporte_publico,Sobrepeso_I
+736,Norte,Femenino,18.0,169.0,90.032671,Si,Si,2.496455,3.0,A veces,No,1.850344,No,1.066101,0.732265,a veces,Transporte_publico,Obesidad_I
+737,Central,Masculino,21.084625,1.787264,58.585146,Si,Sí,2.530233,3.24934,A veces,No,2.387945,No,1.976341,1.672508,Nunca,Auto,Peso_insuficiente
+738,Norte,masculino,22.591439,165.0,80.0,Si,Si,2.0,3.0,a veces,No,2.0,No,0.451078,2.0,nunca,Transporte_publico,Sobrepeso_II
+739,Central,mujer,38.0,1.64,59.8,Si,Si,2.0,3.0,a veces,No,,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+740,Central,Femenino,32.278869,1.64602,74.147443,Si,Si,2.885178,2.562895,A VECES,No,1.017006,No,0.588673,0.916291,A veces,Auto,Sobrepeso_I
+741,Norte,Femenino,23.0,160.0,52.0,No,Si,2.0,4.0,Frecuente,No,2.0,No,2.0,1.0,A veces,Auto,Peso_normal
+742,Central,Masculino,23.0,1.672101,80.939733,Si,Si,2.0,2.395785,A veces,No,,No,0.788659,1.544357,Nunca,Transporte_publico,Sobrepeso_II
+743,Norte,Femenino,38.148845,156.0,79.661693,Si,Sí,2.0,3.0,A veces,No,1.274774,No,0.0,0.0,A veces,Auto,Obesidad_I
+744,Sur,Masculino,17.971786,1.754441,85.002884,Si,Si,2.765769,3.0,a veces,No,,No,1.0,0.42683,A veces,Transporte_publico,Sobrepeso_II
+745,Sur,Masculino,21.052894,1.694633,75.0522,Si,Si,2.178889,3.563744,A veces,No,1.853991,No,0.997731,,A veces,Transporte_publico,Sobrepeso_I
+746,Sur,Femenino,22.875223,1.624367,82.0,Si,Si,1.826885,1.0,A veces,No,,No,0.0,0.459274,Nunca,Transporte_publico,Obesidad_I
+747,Central,F,23.0,1.615854,80.615325,Si,Si,2.0,1.0,A veces,No,2.0,No,0.026142,0.0,Nunca,Transporte_publico,Obesidad_I
+748,Central,Femenino,40.0,1.561109,62.871794,Si,Si,2.948248,3.0,A veces,No,2.429911,No,0.11964,0.360193,A veces,Auto,Sobrepeso_I
+749,Sur,Masculino,23.0,1.7,75.0,No,Si,3.0,3.0,A veces,No,3.0,No,1.0,2.0,A veces,Transporte_publico,Sobrepeso_I
+750,Central,Masculino,18.0,1.7,50.0,No,Si,1.0,3.0,Frecuente,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+751,Norte,Masculino,24.0,184.0,86.0,Si,Si,2.0,1.0,Siempre,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Sobrepeso_I
+752,Sur,Femenino,34.772902,1.675612,73.501233,Si,Si,3.0,2.400943,A veces,No,1.509734,No,0.167125,0.0,A veces,Auto,Sobrepeso_I
+753,Central,masculino,23.0,1.87,95.0,Si,Sí,1.0,3.0,Frecuente,No,2.0,No,0.0,2.0,Frecuente,Transporte_publico,Sobrepeso_II
+754,Central,Masculino,30.577944,1.783953,120.613561,Si,Si,2.341999,3.0,a veces,No,2.299878,No,0.565242,0.921991,A VECES,Auto,Obesidad_II
+755,Norte,Varón,24.362124,172.0,85.261339,Si,Si,2.0,2.676148,A veces,No,2.083939,No,0.632164,0.993786,A veces,Transporte_publico,Sobrepeso_II
+756,Sur,masculino,21.0,1.88,84.0,Si,Si,3.0,3.0,A veces,No,3.0,No,2.0,1.0,a veces,Caminando,Peso_normal
+757,Sur,Masculino,26.0,1.7,70.0,Si,NO,3.0,1.0,FRECUENTE,No,2.0,No,2.0,0.0,Frecuente,Transporte_publico,Peso_normal
+758,Central,Masculino,22.869778,1.795311,89.868784,Si,Si,1.57223,1.888067,A VECES,No,2.0,No,0.0,0.552498,A veces,Transporte_publico,Sobrepeso_II
+759,Central,femenino,37.496175,1.653088,80.0,Si,Si,2.033745,3.0,A veces,No,1.517225,No,0.0,1.517897,Nunca,Auto,Sobrepeso_II
+760,Central,Femenino,18.976968,1.759091,133.903612,Si,Si,3.0,3.0,A veces,No,2.862408,No,1.456933,0.742423,A veces,Transporte_publico,Obesidad_III
+761,Sur,F,20.552695,1.523426,42.0,No,Si,3.0,1.0,Frecuente,No,1.185062,No,0.0,0.076654,A veces,Transporte_publico,Peso_insuficiente
+762,Norte,M,20.242237,176.0,54.567343,Si,Si,2.0,3.98525,A veces,No,,No,2.113151,2.0,Nunca,Transporte_publico,Peso_insuficiente
+763,Central,masculino,30.475248,1.801368,121.094257,Si,Si,2.328469,3.0,a veces,No,,No,0.800487,0.176678,A veces,Auto,Obesidad_II
+764,Sur,masculino,18.0,1.840138,60.0,Si,Si,3.0,4.0,A veces,No,2.0,No,2.0,0.0,Nunca,Auto,Peso_insuficiente
+765,Sur,Femenino,21.0,1.5,65.0,Si,No,2.0,3.0,A veces,No,2.0,No,2.0,2.0,a veces,Transporte_publico,Sobrepeso_II
+766,Sur,mujer,21.0,1.72,80.0,Si,Si,2.0,3.0,Frecuente,No,2.0,Si,,1.0,A veces,Transporte_publico,Sobrepeso_II
+767,Sur,M,27.0,1.880992,99.623778,Si,Si,2.684528,1.0,A veces,No,1.05668,No,1.516147,,A VECES,Transporte_publico,Sobrepeso_II
+768,Central,M,17.188754,1.771915,55.695036,Si,Si,2.0,4.0,A veces,No,2.884033,No,2.0,1.340107,A veces,Transporte_publico,Peso_insuficiente
+769,Central,Masculino,18.0,1.7,78.0,No,Si,1.0,3.0,A veces,No,2.0,No,0.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+770,Norte,Masculino,19.816949,181.0,85.079589,Si,Si,2.0,3.0,A veces,No,2.292073,No,1.067817,0.19668,A veces,Transporte_publico,Sobrepeso_I
+771,Sur,Femenino,18.378203,1.746061,128.261402,Si,Si,3.0,3.0,a veces,No,2.501638,No,1.546179,0.66488,A veces,Transporte_publico,Obesidad_III
+772,Norte,mujer,21.996523,173.0,50.890363,No,No,3.0,3.765526,frecuente,No,1.656082,No,,,A veces,Transporte_publico,Peso_insuficiente
+773,Norte,femenino,40.0,157.0,62.211572,Si,Si,2.253371,3.0,A veces,No,2.756916,No,1.016042,0.213437,A veces,Auto,Sobrepeso_I
+774,Norte,Femenino,19.639431,154.0,42.0,No,SI,3.0,1.0,Frecuente,No,1.49681,No,,0.513427,A veces,Transporte_publico,Peso_insuficiente
+775,Sur,Masculino,25.66668,1.79858,117.93329,Si,Si,2.037042,3.0,A veces,No,2.43699,No,1.016254,,A veces,Transporte_publico,Obesidad_II
+776,Sur,Masculino,25.0,1.87,66.0,No,Si,3.0,3.0,SIEMPRE,No,2.0,No,2.0,,Frecuente,Transporte_publico,Peso_normal
+777,Central,M,18.0,1.8,80.0,Si,Si,2.0,3.0,Frecuente,No,1.0,No,0.0,1.0,frecuente,Transporte_publico,Peso_normal
+778,Central,Masculino,34.161998,1.705682,103.067766,Si,Si,2.562687,2.100918,A veces,No,1.458545,No,1.167856,0.412329,Nunca,Transporte_publico,Obesidad_II
+779,Norte,Femenino,30.255744,165.0,73.575981,Si,Si,2.0,3.0,A veces,No,,No,0.0,0.018877,A veces,Auto,Sobrepeso_I
+780,Central,M,20.0,1.87,75.0,No,Si,2.0,3.0,Frecuente,No,,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+781,Central,Masculino,20.31094,1.849425,85.228116,Si,Si,2.146598,3.0,A veces,No,2.100112,No,1.17116,0.833761,A VECES,Transporte_publico,Sobrepeso_I
+782,Central,F,38.384177,1.698626,78.637307,Si,Si,3.0,3.0,A veces,No,2.503198,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+783,Sur,Masculino,22.0,1.78,89.8,No,No,2.0,1.0,A veces,No,,No,0.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+784,Sur,femenino,37.205173,1.667469,80.993373,Si,Si,2.01054,2.77684,A veces,No,,No,0.0,,nunca,Auto,Sobrepeso_II
+785,Sur,femenino,19.0,1.59,49.0,Si,Si,2.0,1.0,nunca,No,2.0,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+786,Sur,F,16.613108,1.777929,44.762023,No,Si,2.911877,3.098399,A veces,No,2.196405,No,2.328147,1.55011,A veces,Transporte_publico,Peso_insuficiente
+787,Sur,Femenino,20.0,1.62,45.0,No,Si,3.0,3.0,Frecuente,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+788,Central,F,23.71259,1.588597,62.339003,No,Sí,2.39728,2.656588,A veces,No,2.061062,No,,1.887386,A veces,Transporte_publico,Sobrepeso_I
+789,Central,Masculino,23.245408,1.707968,75.383716,Si,Sí,2.5621,3.105007,A veces,No,1.172427,No,0.184917,0.923082,A veces,Transporte_publico,Sobrepeso_I
+790,Central,Masculino,27.0,1.83,71.0,Si,Si,2.0,3.0,A veces,No,2.0,No,3.0,2.0,Nunca,Auto,Peso_normal
+791,Central,Masculino,31.783845,1.75,120.0,Si,Sí,2.941627,3.0,A veces,No,2.318134,No,0.582686,1.588046,A veces,Auto,Obesidad_II
+792,Central,Masculino,21.20563,1.704573,80.0,Si,Si,2.0,3.0,A VECES,No,2.0,No,2.847761,1.413375,nunca,Transporte_publico,Sobrepeso_II
+793,Central,Femenino,18.540535,1.564568,41.397378,No,Si,2.658112,1.0,A veces,No,1.298165,No,0.0,1.639326,a veces,Transporte_publico,Peso_insuficiente
+794,Norte,F,20.0,162.0,53.0,No,Si,3.0,1.0,A veces,No,3.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+795,Central,Masculino,20.880161,1.674327,80.0,Si,Si,2.0,3.0,A VECES,No,2.0,No,1.66639,1.443212,Nunca,Transporte_publico,Sobrepeso_II
+796,Central,Femenino,21.274628,1.737453,50.479039,Si,Si,3.0,3.489918,Frecuente,No,1.326694,No,0.791929,0.128394,nunca,Transporte_publico,Peso_insuficiente
+797,Sur,M,17.282945,1.821514,59.605028,Si,Sí,2.613249,3.712183,A veces,No,2.0,No,2.002997,0.174848,Nunca,Auto,Peso_insuficiente
+798,Norte,Femenino,22.0,169.0,65.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+799,Central,Masculino,18.0,1.75,70.0,No,Si,3.0,4.0,A veces,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+800,Sur,Femenino,21.951309,1.730167,78.429312,Si,Sí,2.138334,1.0,a veces,No,2.0,No,2.269058,0.0,A veces,Transporte_publico,Sobrepeso_I
+801,Sur,mujer,18.0,1.54,71.0,No,No,3.0,4.0,Frecuente,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Sobrepeso_II
+802,Central,Femenino,22.0,1.7,66.0,Si,No,3.0,3.0,Siempre,No,2.0,Si,2.0,1.0,A veces,Transporte_publico,Peso_normal
+803,Central,Masculino,16.30687,1.752755,50.0,No,Si,2.310423,3.558637,A veces,No,1.787843,No,1.926592,0.828549,A veces,Transporte_publico,Peso_insuficiente
+804,Central,F,25.930376,1.608808,102.083964,Si,Si,3.0,3.0,A veces,No,1.019684,No,0.026033,1.0,A veces,Transporte_publico,Obesidad_III
+805,Sur,Femenino,22.77789,1.661415,120.748213,Si,Si,3.0,3.0,A veces,No,1.91039,No,0.217455,0.77582,A veces,Transporte_publico,Obesidad_III
+806,Central,femenino,23.0,1.728834,51.442293,Si,Si,2.0,3.0,Frecuente,No,1.229915,No,0.619533,2.0,Nunca,Transporte_publico,Peso_insuficiente
+807,Central,M,18.0,1.70165,50.157707,Si,Si,1.757466,3.0,A veces,No,1.153559,No,0.833976,1.616045,a veces,Transporte_publico,Peso_insuficiente
+808,Central,F,27.14823,1.660446,49.558304,Si,Si,2.004146,3.443456,Frecuente,No,2.020764,No,1.078719,1.26729,NUNCA,Transporte_publico,Peso_insuficiente
+809,Central,femenino,20.70768,1.569878,69.743323,Si,no,2.417635,3.0,A veces,No,1.937674,No,1.417035,1.0,Nunca,Transporte_publico,Sobrepeso_II
+810,Central,Masculino,23.0,1.62,58.0,No,No,2.0,3.0,A veces,No,1.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+811,Central,masculino,18.0,1.717826,51.7325,Si,Si,1.133844,3.0,A veces,No,1.325326,No,0.227985,1.708309,A veces,Transporte_publico,Peso_insuficiente
+812,Norte,mujer,27.757187,151.0,63.892071,Si,No,2.0,1.0,A veces,No,1.278578,No,0.02112,0.0,Nunca,Transporte_publico,Sobrepeso_II
+813,Central,Femenino,25.113537,1.505387,63.715219,Si,No,2.0,1.193729,A VECES,No,1.846441,No,0.546402,0.235711,NUNCA,Transporte_publico,Sobrepeso_II
+814,Central,F,18.094079,1.723328,50.0,No,SI,1.052699,3.998618,Frecuente,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+815,Central,Varón,18.038422,1.698914,51.692272,Si,Si,2.824559,3.0,A veces,No,2.0,No,0.533309,1.099764,A veces,Transporte_publico,Peso_insuficiente
+816,Central,Femenino,25.999174,1.638218,104.810024,Si,Si,3.0,3.0,A veces,No,2.654636,No,0.069238,0.629578,A veces,Transporte_publico,Obesidad_III
+817,Central,mujer,40.821515,1.553026,77.74518,Si,Si,2.0,3.0,A veces,No,1.406115,No,0.0,0.0,A veces,Auto,Obesidad_I
+818,Norte,Masculino,21.0,161.0,68.865008,No,Si,1.910176,2.938135,Nunca,No,2.943097,No,0.997202,0.207922,A veces,Transporte_publico,Sobrepeso_I
+819,Sur,masculino,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,,0.0,A veces,Transporte_publico,Sobrepeso_I
+820,Central,masculino,18.0,1.75,80.0,Si,Si,2.0,3.0,siempre,No,2.0,No,0.0,0.0,Frecuente,Transporte_publico,Sobrepeso_I
+821,Norte,F,20.0,154.0,39.0,Si,Sí,1.0,3.0,a veces,No,2.0,No,,2.0,A veces,Transporte_publico,Peso_insuficiente
+822,Sur,F,18.147705,1.802257,149.935848,Si,Si,3.0,3.0,A veces,No,2.181811,No,1.995582,0.939665,A veces,Transporte_publico,Obesidad_III
+823,Norte,M,33.009285,174.0,84.773349,Si,Si,2.0,3.0,A veces,No,2.035954,No,1.210736,0.0,Nunca,Auto,Sobrepeso_II
+824,Central,M,17.038222,1.710564,51.588874,No,Si,2.0,2.057935,a veces,No,2.371015,No,0.288032,0.714627,A veces,Transporte_publico,Peso_insuficiente
+825,Central,M,20.338815,1.698829,98.572753,Si,Si,2.0,2.392811,A veces,No,2.0,No,0.0,1.80931,Nunca,Transporte_publico,Obesidad_I
+826,Norte,Masculino,28.363149,179.0,112.725005,Si,Si,1.99124,3.0,A veces,No,2.0,No,0.0,0.292956,A veces,Transporte_publico,Obesidad_II
+827,Norte,Femenino,27.0,160.0,61.0,No,Si,3.0,3.0,SIEMPRE,No,2.0,No,0.0,0.0,A veces,Auto,Peso_normal
+828,Central,Femenino,23.803904,1.581527,78.089575,Si,Sí,2.0,1.0,A veces,No,2.0,No,0.057758,0.0,Nunca,Transporte_publico,Obesidad_I
+829,Sur,M,18.0,1.791174,108.9606,Si,Sí,2.0,1.08687,A VECES,No,,No,1.0,1.609773,Nunca,Transporte_publico,Obesidad_I
+830,Norte,Femenino,16.0,161.0,65.0,Si,Si,1.0,1.0,A veces,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_I
+831,Sur,Femenino,21.996118,1.730199,78.997062,Si,Si,2.277077,1.0,A veces,No,2.0,No,1.061743,0.0,A veces,Transporte_publico,Sobrepeso_I
+832,Sur,F,18.306615,1.7456,133.03441,Si,Si,3.0,3.0,A veces,No,2.984323,No,1.586525,0.62535,A veces,Transporte_publico,Obesidad_III
+833,Norte,femenino,19.0,163.0,58.0,No,No,3.0,3.0,A veces,No,2.0,Si,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+834,Central,femenino,23.0,1.717601,51.073918,Si,SI,2.0,3.0,FRECUENTE,No,1.426874,No,2.20208,2.0,NUNCA,Transporte_publico,Peso_insuficiente
+835,Sur,Masculino,21.180346,1.773766,89.28282,Si,Si,2.010684,1.322087,a veces,No,2.0,No,,0.973834,A veces,Transporte_publico,Sobrepeso_II
+836,Norte,Femenino,17.402028,171.0,50.0,No,Si,2.015258,3.300666,A veces,No,1.315608,No,0.069802,1.0,A veces,Transporte_publico,Peso_insuficiente
+837,Sur,mujer,22.518787,1.634342,82.414477,Si,Si,1.853314,1.320768,A veces,No,2.135552,No,,1.727828,A veces,Transporte_publico,Obesidad_I
+838,Central,F,19.0,1.76,80.0,Si,Si,2.0,1.0,A veces,No,3.0,No,3.0,1.0,Nunca,Transporte_publico,Sobrepeso_I
+839,Norte,Masculino,23.0,177.0,60.0,Si,SI,3.0,1.0,A veces,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+840,Sur,Femenino,22.717943,1.59559,44.581159,No,NO,2.596579,1.10548,Frecuente,No,1.490613,No,,0.0,Nunca,Transporte_publico,Peso_insuficiente
+841,Norte,Femenino,20.634694,157.0,67.904023,Si,No,2.512719,3.0,A veces,No,1.131169,No,0.095389,1.0,NUNCA,Transporte_publico,Sobrepeso_II
+842,Norte,F,21.0,154.0,49.0,Si,No,2.0,1.0,A veces,No,2.0,Si,2.0,0.0,a veces,Transporte_publico,Peso_normal
+843,Sur,M,18.0,1.82,80.0,Si,Si,2.0,3.0,A veces,No,2.0,No,3.0,2.0,NUNCA,Caminando,Peso_normal
+844,Central,Femenino,22.033129,1.704223,51.437985,Si,Si,2.984425,3.0,frecuente,No,2.044694,No,2.008256,1.250871,nunca,Transporte_publico,Peso_insuficiente
+845,Central,Masculino,17.521754,1.757958,52.09432,No,Si,2.21498,2.64155,a veces,No,2.121251,No,0.998391,0.85882,A VECES,Transporte_publico,Peso_insuficiente
+846,Norte,Masculino,20.677105,178.0,102.950929,Si,Si,2.0,3.0,A VECES,No,1.618189,No,0.571648,,Nunca,Transporte_publico,Obesidad_I
+847,Central,Femenino,18.0,1.704193,50.631889,No,Si,2.0,3.0,A veces,No,2.0,No,0.0,,A VECES,Transporte_publico,Peso_insuficiente
+848,Central,Femenino,19.725718,1.746529,129.363771,Si,Si,3.0,3.0,A veces,No,2.250711,No,0.64235,0.685129,A veces,Transporte_publico,Obesidad_III
+849,Central,Masculino,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+850,Sur,Femenino,31.62638,1.666023,72.906186,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.301385,A veces,Auto,Sobrepeso_I
+851,Central,F,19.349258,1.52337,42.0,No,Si,2.913486,1.060796,Frecuente,No,1.596212,No,0.108948,0.773087,A veces,Transporte_publico,Peso_insuficiente
+852,Norte,Femenino,18.0,170.0,50.0,No,No,2.0,3.0,A veces,No,2.0,No,0.0,,A veces,Caminando,Peso_insuficiente
+853,Sur,Masculino,31.264628,1.803129,91.052215,Si,Si,2.0,3.0,A veces,No,1.199517,No,0.047738,0.163329,A veces,Transporte_publico,Sobrepeso_II
+854,Central,Masculino,20.0,1.66,60.0,No,Si,2.0,4.0,Frecuente,No,3.0,No,0.0,0.0,NUNCA,Transporte_publico,Peso_normal
+855,Norte,masculino,35.0,178.0,105.0,Si,Si,3.0,1.0,NUNCA,No,3.0,No,3.0,1.0,Frecuente,Auto,Obesidad_I
+856,Central,Masculino,25.100513,1.830596,118.424156,Si,Sí,1.455602,3.0,A veces,No,2.363307,No,1.144683,0.101026,A veces,Transporte_publico,Obesidad_II
+857,Central,Varón,17.0,1.75,70.0,Si,No,2.0,3.0,a veces,No,1.0,No,3.0,2.0,A veces,Caminando,Peso_normal
+858,Central,Varón,23.0,1.68,60.0,No,NO,2.0,4.0,Frecuente,No,2.0,No,0.0,0.0,Nunca,Caminando,Peso_normal
+859,Norte,femenino,17.781183,160.0,65.0,Si,Si,3.0,2.973504,a veces,No,2.0,Si,0.178976,0.166076,A veces,Transporte_publico,Sobrepeso_I
+860,Central,Varón,21.0,1.75,72.0,Si,Si,1.0,3.0,Frecuente,No,3.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+861,Central,Masculino,19.223259,1.706082,78.073528,Si,No,1.961347,3.0,A veces,No,,No,1.655488,1.0,A veces,Transporte_publico,Sobrepeso_II
+862,Central,Masculino,23.0,1.75,69.0,No,No,3.0,3.0,Nunca,No,2.0,No,2.0,1.0,a veces,Auto,Peso_normal
+863,Norte,Femenino,21.895468,164.0,88.119139,Si,Si,2.693859,1.000283,A VECES,No,3.0,No,1.201403,1.612432,Nunca,Transporte_publico,Obesidad_I
+864,Sur,Femenino,40.466313,1.559005,77.601483,Si,SI,2.0,3.0,A veces,No,1.572371,No,0.0,0.0,a veces,Auto,Obesidad_I
+865,Central,Masculino,28.39124,1.81006,87.286783,No,SI,3.0,3.0,A veces,No,1.205633,No,2.0,0.0,Nunca,Auto,Sobrepeso_I
+866,Central,F,21.376426,1.722527,50.833029,No,No,3.0,3.285167,Frecuente,No,1.569082,No,0.545931,0.469735,A veces,Transporte_publico,Peso_insuficiente
+867,Norte,F,29.08107,167.0,71.602622,Si,Si,2.0,3.0,a veces,No,1.701835,No,1.682271,,A veces,Auto,Sobrepeso_I
+868,Central,mujer,18.0,1.5,58.0,No,Si,2.0,3.0,A veces,No,1.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_I
+869,Central,Masculino,25.139466,1.767186,112.226032,Si,Si,1.443674,3.0,A veces,No,2.002194,No,1.386151,0.001337,A veces,Transporte_publico,Obesidad_II
+870,Norte,Masculino,30.916426,178.0,120.794535,Si,Si,2.111887,3.0,A VECES,No,2.357373,No,0.425621,1.416353,A veces,Auto,Obesidad_II
+871,Central,Masculino,18.0,1.78,64.4,Si,Si,3.0,3.0,Frecuente,No,2.0,No,3.0,2.0,Nunca,Caminando,Peso_normal
+872,Central,Femenino,18.91505,1.633316,45.0,No,SI,3.0,3.0,A veces,No,2.924594,Si,1.352558,0.220087,A veces,Transporte_publico,Peso_insuficiente
+873,Central,Femenino,31.0,1.58,68.0,Si,No,2.0,1.0,A veces,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+874,Sur,Masculino,19.114981,1.855543,88.965521,Si,Si,2.0,3.0,A veces,No,1.015677,No,0.0,0.37465,A veces,Transporte_publico,Sobrepeso_I
+875,Central,Masculino,21.016665,1.790172,105.042194,Si,Si,2.259679,3.0,A veces,No,1.026143,No,0.268801,0.077818,A veces,Transporte_publico,Obesidad_I
+876,Central,masculino,23.0,1.77433,90.0,Si,Si,2.116432,3.0,A veces,No,1.002292,No,0.0,,A veces,Transporte_publico,Sobrepeso_II
+877,Central,Femenino,31.0,1.68,63.0,Si,Si,3.0,1.0,Frecuente,No,2.0,No,1.0,1.0,A veces,Auto,Peso_normal
+878,Central,Varón,17.0,1.824414,59.295172,Si,Sí,2.432302,3.0,A veces,No,2.0,No,2.349495,1.0,Nunca,Auto,Peso_insuficiente
+879,Norte,Femenino,20.0,157.0,60.0,No,Sí,3.0,3.0,A VECES,No,3.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+880,Norte,Masculino,18.0,175.0,86.963628,Si,No,3.0,3.0,A veces,No,2.0,No,1.271667,0.155278,A veces,Transporte_publico,Sobrepeso_II
+881,Central,masculino,33.0,1.76,66.5,No,No,2.0,3.0,A veces,No,2.0,No,3.0,1.0,A VECES,Auto,Peso_normal
+882,Norte,F,18.0,162.0,68.250249,Si,Si,2.0,1.010319,A veces,No,1.319437,No,0.0,1.626456,nunca,Transporte_publico,Sobrepeso_I
+883,Norte,Femenino,20.670975,151.0,64.852953,Si,No,2.294067,3.209508,A veces,No,2.0,No,1.103088,1.261043,Nunca,Transporte_publico,Sobrepeso_II
+884,Central,Masculino,21.0,1.62,70.0,No,Si,2.0,1.0,nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+885,Central,Femenino,21.0,1.55,49.0,Si,Si,2.0,3.0,A VECES,No,3.0,No,3.0,1.0,A veces,Transporte_publico,Peso_normal
+886,Norte,masculino,23.0,184.0,58.854416,Si,Si,3.0,3.0,A veces,No,2.027984,No,1.661556,0.114716,a veces,Auto,Peso_insuficiente
+887,Norte,Femenino,21.016849,172.0,133.033523,Si,Si,3.0,3.0,A veces,No,1.650612,No,1.537639,0.912457,A veces,Transporte_publico,Obesidad_III
+888,Central,masculino,29.791101,1.703317,102.592171,Si,SI,2.654792,1.077331,A veces,No,1.345407,No,0.327418,0.386861,Nunca,Transporte_publico,Obesidad_II
+889,Central,Femenino,20.534606,1.758372,79.469513,Si,Si,2.8557,1.0,a veces,No,2.663861,No,2.762711,0.783336,A VECES,Transporte_publico,Sobrepeso_I
+890,Central,M,56.0,1.79,90.0,Si,NO,2.0,3.0,A veces,Si,2.0,No,1.0,0.0,Frecuente,Auto,Sobrepeso_II
+891,Central,M,21.333429,1.716545,80.005809,Si,Si,2.0,2.783336,A veces,No,2.0,No,2.536615,1.206535,Nunca,Transporte_publico,Sobrepeso_II
+892,Sur,F,21.0,1.53,65.0,Si,NO,2.0,3.0,A veces,No,1.0,No,0.0,1.0,NUNCA,Transporte_publico,Sobrepeso_II
+893,Central,Femenino,23.252457,1.589616,65.127324,No,Si,2.286146,2.961113,A VECES,No,2.657303,No,1.91108,1.618227,A veces,Transporte_publico,Sobrepeso_I
+894,Sur,mujer,20.0,1.68,68.0,No,Si,3.0,1.0,A veces,No,1.0,No,,0.0,Nunca,Transporte_publico,Peso_normal
+895,Sur,Femenino,26.0,1.629727,111.275646,Si,Sí,3.0,3.0,A veces,No,2.495851,No,0.0,0.218645,A VECES,Transporte_publico,Obesidad_III
+896,Central,Masculino,22.815416,1.732694,98.44113,Si,Si,2.0,2.993623,A veces,No,2.326635,No,,1.529423,Nunca,Transporte_publico,Obesidad_I
+897,Norte,M,22.582371,175.0,95.269089,Si,Si,2.0,3.0,A veces,No,3.0,No,3.0,2.0,Nunca,Transporte_publico,Obesidad_I
+898,Central,M,24.825398,1.796332,120.901591,Si,Si,2.195964,3.0,A veces,No,2.514872,No,1.664722,0.127673,A veces,Transporte_publico,Obesidad_II
+899,Norte,Varón,30.958051,191.0,128.856677,Si,Si,2.633855,3.0,A veces,No,1.619305,No,1.847802,0.424612,A veces,Transporte_publico,Obesidad_II
+900,Central,Masculino,27.394123,1.764138,112.323213,Si,Si,1.924632,3.0,A veces,No,2.006595,No,0.1768,0.511694,A veces,Auto,Obesidad_II
+901,Central,femenino,21.0,1.63,51.0,No,SI,2.0,1.0,A veces,No,1.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+902,Central,F,22.0,1.69,65.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+903,Norte,Femenino,21.071195,162.0,68.77185,Si,Si,1.452524,3.950553,Nunca,No,2.109858,No,0.508847,1.194633,A veces,Transporte_publico,Sobrepeso_I
+904,Sur,femenino,19.950605,1.527133,42.0,No,No,2.725282,1.259803,Frecuente,No,1.0,No,1.37467,0.0,A veces,Transporte_publico,Peso_insuficiente
+905,Central,Femenino,20.172661,1.605521,44.661461,No,No,3.0,2.893778,FRECUENTE,No,1.0,Si,0.769726,0.0,A veces,Transporte_publico,Peso_insuficiente
+906,Central,Masculino,24.982997,1.78968,118.436166,Si,Si,1.469384,2.996444,A veces,No,,No,1.082236,,A veces,Transporte_publico,Obesidad_II
+907,Sur,M,17.0,1.7,55.0,No,Si,3.0,3.0,Siempre,No,,No,3.0,1.0,a veces,Transporte_publico,Peso_normal
+908,Norte,Masculino,30.242597,176.0,118.382361,Si,Si,2.312528,3.0,A veces,No,2.208068,No,1.07672,1.035711,A veces,Auto,Obesidad_II
+909,Sur,Masculino,24.679807,1.7,84.687554,Si,Sí,2.0,3.0,A veces,No,2.020424,No,0.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+910,Norte,mujer,18.019572,170.0,50.088468,No,Si,1.601236,3.433908,A veces,No,1.055019,No,0.819269,1.030848,A veces,Transporte_publico,Peso_insuficiente
+911,Central,Varón,17.06713,1.896734,59.895052,Si,Si,2.842102,3.34175,A veces,No,2.0,No,2.511157,0.560351,Nunca,Auto,Peso_insuficiente
+912,Central,femenino,18.0,1.609321,84.493156,Si,Si,2.0,3.0,A veces,No,1.051735,No,1.0,0.0,Nunca,Transporte_publico,Obesidad_I
+913,Central,Masculino,19.0,1.82,87.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,,Nunca,Transporte_publico,Sobrepeso_I
+914,Norte,Femenino,18.53084,157.0,39.850137,No,Si,1.21498,1.717608,A veces,No,1.179942,No,0.684739,2.0,A veces,Transporte_publico,Peso_insuficiente
+915,Sur,masculino,30.079371,1.810616,92.860254,Si,Sí,2.0,3.0,A veces,No,1.622638,No,0.033745,0.105895,A veces,Transporte_publico,Sobrepeso_II
+916,Sur,Femenino,31.539393,1.657496,73.641633,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.112489,A veces,Auto,Sobrepeso_I
+917,Central,Femenino,39.0,1.65,50.0,No,Si,3.0,4.0,Frecuente,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+918,Central,Femenino,20.979254,1.75655,78.721696,Si,Si,2.0,3.0,A veces,No,2.813234,No,0.228753,2.0,frecuente,Transporte_publico,Sobrepeso_I
+919,Sur,femenino,25.918524,1.621231,104.986792,Si,Si,3.0,3.0,A VECES,No,1.653049,No,,0.711331,A veces,Transporte_publico,Obesidad_III
+920,Sur,masculino,23.0,1.68,62.0,No,No,2.0,4.0,Frecuente,No,2.0,No,0.0,0.0,A veces,Auto,Peso_normal
+921,Norte,Varón,22.0,165.0,62.0,No,Sí,2.0,4.0,Frecuente,No,2.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+922,Norte,femenino,22.935612,173.0,54.835576,Si,Si,3.0,3.0,Frecuente,No,2.00357,No,1.25955,0.417116,nunca,Transporte_publico,Peso_insuficiente
+923,Central,Femenino,20.255616,1.534223,41.268597,No,Si,2.673638,2.779379,Frecuente,No,1.249074,No,0.043412,0.403694,A veces,Transporte_publico,Peso_insuficiente
+924,Central,Femenino,19.272573,1.71367,50.0,No,SI,1.005578,4.0,Frecuente,No,1.0,No,1.683957,0.704978,A veces,Transporte_publico,Peso_insuficiente
+925,Norte,Femenino,26.0,158.0,105.055597,Si,Sí,3.0,3.0,A veces,No,1.197667,No,0.0,0.534769,a veces,Transporte_publico,Obesidad_III
+926,Central,Masculino,34.288249,1.835678,96.01851,Si,Si,2.0,1.546665,A veces,No,3.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+927,Norte,Varón,21.077356,170.0,97.971598,Si,SI,2.0,1.66338,A veces,No,2.0,No,0.0,1.865851,Nunca,Transporte_publico,Obesidad_I
+928,Norte,Masculino,25.314163,177.0,114.906095,Si,Si,1.585183,3.0,A veces,No,2.101841,No,1.543961,7.3e-05,A veces,Transporte_publico,Obesidad_II
+929,Central,Femenino,19.0,1.7,64.0,Si,Si,3.0,3.0,Nunca,No,3.0,Si,3.0,1.0,Nunca,Transporte_publico,Peso_normal
+930,Central,Femenino,22.142432,1.59611,42.848033,No,no,3.0,2.581015,Frecuente,No,2.654702,No,0.902095,0.0,Nunca,Transporte_publico,Peso_insuficiente
+931,Central,Femenino,20.0,1.67,60.0,No,Si,3.0,3.0,nunca,No,2.0,No,3.0,0.0,A veces,Transporte_publico,Peso_normal
+932,Central,mujer,21.0,1.6,48.0,No,Si,2.0,3.0,A veces,No,1.0,No,1.0,,A veces,Transporte_publico,Peso_normal
+933,Norte,Femenino,23.090215,160.0,80.726195,Si,Si,1.518966,1.0,A veces,No,2.0,No,0.0,1.094046,Nunca,Transporte_publico,Obesidad_I
+934,Norte,Masculino,37.492444,184.0,92.368359,Si,SI,2.0,1.672706,A veces,No,,No,1.0,0.027093,a veces,Auto,Sobrepeso_II
+935,Central,Femenino,19.755797,1.542328,63.856193,No,Si,2.628791,2.762883,A VECES,No,,Si,0.303722,0.003229,A veces,Transporte_publico,Sobrepeso_I
+936,Central,Femenino,19.946244,1.603435,45.0,No,No,3.0,3.0,Frecuente,No,2.487919,Si,1.230441,0.0,A veces,Transporte_publico,Peso_insuficiente
+937,Sur,femenino,25.999185,1.568543,102.000122,Si,Si,3.0,3.0,A veces,No,1.000544,No,0.001297,1.0,A veces,Transporte_publico,Obesidad_III
+938,Central,masculino,26.271621,1.660955,90.0,Si,Si,2.0,3.0,A veces,No,,No,0.669278,0.505266,A veces,Auto,Obesidad_I
+939,Central,Femenino,29.0,1.6,56.0,Si,No,2.0,3.0,Frecuente,No,1.0,No,0.0,1.0,A VECES,Transporte_publico,Peso_normal
+940,Central,femenino,19.0,1.6,60.0,No,Sí,2.0,3.0,Frecuente,No,2.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+941,Norte,Femenino,24.320154,158.0,65.293179,Si,No,2.03414,2.741413,A veces,No,1.996384,No,1.276552,1.019452,Nunca,Transporte_publico,Sobrepeso_II
+942,Norte,Femenino,25.991194,162.0,104.94582,Si,Si,3.0,3.0,A VECES,No,2.45126,No,0.043689,0.670402,A veces,Transporte_publico,Obesidad_III
+943,Sur,Masculino,23.0,1.7,69.0,No,Si,3.0,1.0,Frecuente,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+944,Central,Femenino,23.0,1.65,59.0,No,No,3.0,1.0,A veces,No,2.0,No,1.0,2.0,A VECES,Transporte_publico,Peso_normal
+945,Norte,Masculino,19.337404,186.0,87.105828,Si,Si,2.21232,4.0,A veces,No,2.374044,No,2.0,0.622638,A veces,Transporte_publico,Sobrepeso_I
+946,Central,Masculino,31.426573,1.848683,99.0,Si,Sí,2.759286,2.59257,A veces,No,2.549617,No,1.427233,0.519395,A veces,Auto,Sobrepeso_II
+947,Central,Masculino,27.0,1.8,87.0,No,No,3.0,3.0,a veces,No,2.0,No,2.0,0.0,Frecuente,Caminando,Sobrepeso_I
+948,Norte,F,20.0,163.0,74.433362,Si,no,2.522399,1.032887,A veces,No,2.397653,No,2.358699,0.440087,a veces,Transporte_publico,Sobrepeso_II
+949,Norte,Masculino,20.0,183.0,89.652557,Si,Sí,2.555401,3.292386,A veces,No,3.0,No,2.0,0.315918,A VECES,Transporte_publico,Sobrepeso_I
+950,Central,Femenino,19.054938,1.585886,42.541794,No,No,2.910345,3.0,Frecuente,No,1.0,Si,1.461005,0.0,A veces,Transporte_publico,Peso_insuficiente
+951,Central,Masculino,24.0,1.75,84.0,No,Si,3.0,3.0,NUNCA,No,2.0,Si,1.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+952,Central,M,31.755387,1.775416,121.204668,Si,Si,2.758394,3.0,A VECES,No,2.161303,No,0.428173,0.716327,A veces,Auto,Obesidad_II
+953,Central,Femenino,25.902283,1.669701,104.585783,Si,SI,3.0,3.0,A veces,No,1.570188,No,0.210351,0.881848,A VECES,Transporte_publico,Obesidad_III
+954,Sur,Masculino,26.684354,1.819535,118.332689,Si,Si,1.975675,3.0,A veces,No,,No,0.704236,0.010721,A veces,Transporte_publico,Obesidad_II
+955,Norte,Femenino,21.962426,157.0,43.919835,No,No,3.0,1.600812,frecuente,No,2.651258,No,0.600817,0.0,NUNCA,Transporte_publico,Peso_insuficiente
+956,Norte,Femenino,29.934465,164.0,69.242354,Si,Si,2.029634,3.0,A veces,No,1.827515,No,,,A veces,Auto,Sobrepeso_I
+957,Central,F,22.480889,1.605662,82.470375,Si,Si,1.557287,1.0,A veces,No,2.371015,No,0.288032,2.0,A veces,Transporte_publico,Obesidad_I
+958,Norte,Masculino,21.0,182.0,72.0,Si,Si,1.0,3.0,Frecuente,No,3.0,No,2.0,0.0,A VECES,Transporte_publico,Peso_normal
+959,Norte,femenino,39.965474,174.0,80.914382,No,Sí,2.416044,3.196043,A veces,No,1.352649,No,0.148628,1.08266,A veces,Auto,Sobrepeso_I
+960,Norte,Masculino,21.0,172.0,75.0,No,Si,2.0,3.0,A veces,No,1.0,No,1.0,0.0,Nunca,Transporte_publico,Sobrepeso_I
+961,Central,Femenino,33.732714,1.679725,74.885222,Si,Si,3.0,1.13715,A veces,No,1.000695,No,0.261274,0.0,A veces,Auto,Sobrepeso_I
+962,Sur,F,21.695892,1.755476,133.870501,Si,Si,3.0,3.0,a veces,No,,No,,0.911335,A veces,Transporte_publico,Obesidad_III
+963,Norte,M,21.0,164.0,65.0,Si,No,2.0,3.0,a veces,No,,No,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+964,Central,femenino,17.065445,1.647811,49.603807,No,Si,3.0,3.566082,A veces,No,1.438398,No,,1.0,A veces,Transporte_publico,Peso_insuficiente
+965,Norte,Femenino,19.0,165.0,61.0,No,Si,3.0,1.0,A veces,No,3.0,Si,,0.0,A veces,Transporte_publico,Peso_normal
+966,Central,Femenino,23.0,1.63,55.0,Si,No,3.0,3.0,Nunca,No,2.0,Si,2.0,1.0,Nunca,Transporte_publico,Peso_normal
+967,Norte,Masculino,27.0,185.0,75.0,Si,Si,2.0,1.0,A veces,No,2.0,No,1.0,0.0,Nunca,Caminando,Peso_normal
+968,Norte,Varón,23.0,165.0,58.5,Si,No,2.0,3.0,a veces,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+969,Central,Femenino,20.0,1.63,64.0,Si,Si,1.0,3.0,Siempre,No,,No,0.0,2.0,Nunca,Auto,Peso_normal
+970,Central,Masculino,19.0,1.89,87.0,No,SI,2.0,4.0,Frecuente,No,2.0,No,,1.0,Frecuente,Auto,Peso_normal
+971,Norte,Masculino,25.0,170.0,68.0,No,Si,2.0,3.0,Frecuente,No,2.0,No,0.0,1.0,Nunca,Transporte_publico,Peso_normal
+972,Central,Femenino,20.520992,1.668642,124.704781,Si,Si,3.0,3.0,A veces,No,1.15635,No,0.786828,0.366385,A veces,Transporte_publico,Obesidad_III
+973,Central,Femenino,26.0,1.65782,111.95611,Si,Si,3.0,3.0,A veces,No,2.777557,No,0.0,0.051858,A veces,Transporte_publico,Obesidad_III
+974,Sur,Masculino,18.0,1.72,53.0,Si,Si,2.0,3.0,A veces,No,2.0,No,,2.0,A veces,Transporte_publico,Peso_insuficiente
+975,Sur,M,23.0,1.74,53.0,No,Si,2.0,3.0,Frecuente,No,1.0,No,3.0,,Nunca,Transporte_publico,Peso_insuficiente
+976,Norte,mujer,21.001458,165.0,88.026943,Si,SI,2.482575,1.001542,A veces,No,3.0,No,,1.0,Nunca,Transporte_publico,Obesidad_I
+977,Sur,Masculino,19.993154,1.762073,55.511075,Si,Si,2.0,4.0,A veces,No,2.542415,No,2.0,1.807465,NUNCA,Auto,Peso_insuficiente
+978,Norte,mujer,21.455463,161.0,68.107866,Si,Si,1.977298,3.554974,Nunca,No,2.217957,No,0.97812,0.459759,a veces,Transporte_publico,Sobrepeso_I
+979,Norte,F,16.370009,161.0,66.738769,Si,SI,2.206399,1.0,A veces,No,2.0,Si,0.94893,1.772463,Nunca,Transporte_publico,Sobrepeso_I
+980,Central,Masculino,19.443639,1.744733,87.27989,Si,Si,2.442536,3.0,A veces,No,2.825629,No,3.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+981,Central,Masculino,18.014333,1.751029,80.0,Si,Sí,2.0,2.805436,A veces,No,2.122884,No,0.045651,0.017225,Frecuente,Transporte_publico,Sobrepeso_I
+982,Norte,Femenino,38.939448,174.0,86.934846,No,Sí,2.843709,3.058539,A VECES,No,1.130079,No,2.834373,0.044954,A veces,Auto,Sobrepeso_I
+983,Central,masculino,18.0,1.7,80.0,No,No,3.0,1.0,A veces,No,1.0,No,1.0,,NUNCA,Transporte_publico,Sobrepeso_II
+984,Norte,Masculino,22.988004,181.0,91.363293,Si,Si,1.963965,1.836226,A veces,No,1.85537,No,0.0,1.667745,A veces,Transporte_publico,Sobrepeso_II
+985,Sur,M,300.0,1.696336,75.0,Si,Si,2.0,3.0,A veces,No,1.825629,No,0.699592,,a veces,Transporte_publico,Sobrepeso_I
+986,Sur,masculino,17.412629,1.723191,97.350366,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,0.931721,Nunca,Transporte_publico,Obesidad_I
+987,Norte,Masculino,18.0,178.0,108.0,Si,No,2.0,3.0,A veces,No,3.0,No,1.0,0.0,Nunca,Transporte_publico,Obesidad_I
+988,Central,Femenino,22.867719,1.655413,50.424661,Si,Si,3.0,3.642802,Frecuente,No,1.995177,No,0.118271,0.065515,Nunca,Transporte_publico,Peso_insuficiente
+989,Central,Masculino,17.689057,1.713599,83.285753,Si,Si,2.009952,2.716106,A veces,No,1.660614,No,1.0,0.60473,A veces,Transporte_publico,Sobrepeso_II
+990,Central,Femenino,34.369686,1.652202,77.13322,Si,Si,2.595128,1.619796,A veces,No,,No,0.662831,0.999268,Nunca,Auto,Sobrepeso_II
+991,Norte,Femenino,39.170029,169.0,79.278896,Si,Si,3.0,3.0,A veces,No,2.994515,No,0.0,0.0,Nunca,Auto,Sobrepeso_II
+992,Central,Masculino,23.572648,1.698346,75.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.345684,,A veces,Transporte_publico,Sobrepeso_I
+993,Central,Masculino,18.721041,1.775626,80.113493,Si,Si,1.687569,2.756405,A VECES,No,2.079131,No,2.931527,0.68173,Nunca,Transporte_publico,Sobrepeso_I
+994,Central,Femenino,21.568951,1.699315,133.10761,Si,SI,3.0,3.0,A veces,No,1.733306,No,,0.921136,A veces,Transporte_publico,Obesidad_III
+995,Sur,Femenino,22.0,1.68,52.0,No,Si,3.0,3.0,Frecuente,No,2.0,No,0.0,1.0,Nunca,Transporte_publico,Peso_insuficiente
+996,Central,masculino,22.549208,1.629194,70.0,No,Si,2.0,1.0,Nunca,No,2.803311,No,0.245354,0.0,A veces,Transporte_publico,Sobrepeso_I
+997,Central,masculino,18.381382,1.722547,53.783977,Si,Si,2.0,3.131032,A veces,No,2.072194,No,1.487987,2.0,A veces,Transporte_publico,Peso_insuficiente
+998,Central,Masculino,23.170309,1.707557,75.306702,Si,Si,2.303367,3.042774,A veces,No,1.277636,No,0.944982,0.366126,a veces,Transporte_publico,Sobrepeso_I
+999,Central,Masculino,25.45763,1.837399,95.952027,Si,Si,1.122127,2.865657,A veces,No,2.0,No,1.28775,1.944177,A veces,Transporte_publico,Sobrepeso_II
+1000,Central,Masculino,22.0,1.74,75.0,Si,Si,3.0,3.0,Frecuente,No,1.0,No,1.0,0.0,Nunca,Auto,Peso_normal
+1001,Sur,Femenino,16.928791,1.710948,45.248627,No,Sí,2.910733,3.12544,A veces,No,2.204263,No,2.407906,1.403037,A veces,Transporte_publico,Peso_insuficiente
+1002,Central,Masculino,29.669219,1.909188,129.19449,Si,Si,2.432355,3.0,A veces,No,1.336526,No,,0.090341,A VECES,Transporte_publico,Obesidad_II
+1003,Sur,femenino,21.0,1.54,56.0,No,SI,2.0,1.0,A veces,No,2.0,No,0.0,2.0,A VECES,Transporte_publico,Peso_normal
+1004,Central,Femenino,18.0,1.763465,50.279053,No,Si,1.567101,3.0,A veces,No,1.994139,No,0.107981,1.0,A veces,Transporte_publico,Peso_insuficiente
+1005,Central,Masculino,19.506389,1.824449,87.656029,Si,Si,2.793561,3.788602,A VECES,No,2.429059,No,2.094542,0.393358,a veces,Transporte_publico,Sobrepeso_I
+1006,Central,Femenino,23.0,1.5,55.0,Si,Si,3.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Moto,Peso_normal
+1007,Central,Femenino,19.434709,1.525691,42.0,No,SI,3.0,1.0,Frecuente,No,1.764055,No,0.0,0.560887,A veces,Transporte_publico,Peso_insuficiente
+1008,Sur,Femenino,28.824194,1.7,78.0,Si,Si,3.0,3.0,A VECES,No,2.147074,No,,,FRECUENTE,Auto,Sobrepeso_II
+1009,Central,M,20.0,1.72,70.0,Si,Si,3.0,3.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1010,Sur,femenino,21.938831,1.611239,67.939653,Si,Sí,1.906194,3.987707,A veces,No,2.597746,No,1.922234,1.376124,A veces,Transporte_publico,Sobrepeso_I
+1011,Central,Masculino,17.203917,1.853325,59.619485,Si,Si,2.883745,3.595761,A veces,No,2.0,No,2.077653,0.714701,Nunca,Auto,Peso_insuficiente
+1012,Central,Femenino,19.269079,1.58092,44.753943,No,No,3.0,2.975362,Frecuente,No,1.246822,Si,0.979701,0.0,A veces,Transporte_publico,Peso_insuficiente
+1013,Central,femenino,39.129291,1.532643,77.550345,Si,Sí,2.0,3.0,A veces,No,1.186996,No,0.0,0.0,A VECES,Auto,Obesidad_I
+1014,Central,Masculino,27.0,1.64,78.0,Si,Si,2.0,1.0,A veces,No,2.0,No,0.0,0.0,Frecuente,Auto,Sobrepeso_II
+1015,Norte,femenino,41.743333,168.0,79.849252,Si,Si,2.733129,3.0,A veces,No,1.302594,No,0.0,1.103349,Nunca,Auto,Sobrepeso_II
+1016,Sur,Masculino,29.956198,1.703688,82.207978,Si,SI,2.119643,3.292956,A veces,No,1.723372,No,,0.987102,A veces,Auto,Sobrepeso_II
+1017,Norte,Masculino,33.182127,184.0,97.029249,Si,Si,2.0,1.977221,A veces,No,3.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+1018,Sur,Masculino,18.0,1.71889,52.058335,Si,Si,1.950742,3.0,A veces,No,1.751723,No,0.201136,,A VECES,Transporte_publico,Peso_insuficiente
+1019,Central,Masculino,18.0,1.74,86.0,No,No,3.0,3.0,A veces,No,2.0,No,3.0,0.0,Nunca,Transporte_publico,Sobrepeso_II
+1020,Norte,Masculino,21.797388,178.0,103.605896,Si,Si,2.121909,3.0,A veces,No,2.500556,No,1.20758,0.0,Nunca,Transporte_publico,Obesidad_I
+1021,Central,Femenino,33.0,1.63,62.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+1022,Central,Masculino,26.288417,1.767806,82.694689,Si,Si,1.947405,3.118013,a veces,No,2.136159,No,0.783963,,Nunca,Transporte_publico,Sobrepeso_I
+1023,Central,Femenino,20.820455,1.547066,67.473282,Si,No,2.303656,3.0,A veces,No,,No,,1.119877,Nunca,Transporte_publico,Sobrepeso_II
+1024,Central,Masculino,33.100581,1.838791,87.85785,No,Si,2.814453,2.608055,A VECES,No,1.85916,No,2.0,0.516084,Nunca,Auto,Sobrepeso_I
+1025,Norte,Femenino,20.0,165.0,75.0,Si,Si,3.0,1.0,A veces,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Sobrepeso_II
+1026,Norte,Masculino,25.0,178.0,78.0,Si,Si,2.0,1.0,A veces,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+1027,Norte,Femenino,37.0,165.0,73.0,Si,No,3.0,3.0,A veces,No,2.0,No,1.0,0.0,a veces,Auto,Sobrepeso_I
+1028,Norte,F,40.0,155.0,62.0,Si,No,3.0,3.0,A VECES,No,3.0,No,0.0,0.0,A veces,Auto,Sobrepeso_I
+1029,Norte,femenino,20.530998,175.0,133.644711,Si,Si,3.0,3.0,A veces,No,2.896088,No,1.612741,0.77319,a veces,Transporte_publico,Obesidad_III
+1030,Central,Femenino,18.0,1.71,75.0,Si,Sí,3.0,3.0,A veces,No,,No,1.0,0.0,Nunca,Transporte_publico,Sobrepeso_I
+1031,Norte,femenino,19.821996,165.0,75.090439,Si,No,2.766036,2.443812,A VECES,No,2.707927,No,0.702839,0.827439,A veces,Transporte_publico,Sobrepeso_II
+1032,Central,Masculino,21.0,1.66,62.0,Si,Si,2.0,3.0,A veces,Si,2.0,No,1.0,1.0,Frecuente,Transporte_publico,Peso_normal
+1033,Central,F,17.0,1.65,67.0,Si,Si,3.0,1.0,A veces,No,,No,1.0,1.0,Nunca,Caminando,Peso_normal
+1034,Norte,Masculino,21.0,171.0,75.0,Si,Si,2.0,3.0,A veces,No,1.636326,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1035,Central,femenino,35.0,1.53,45.0,Si,NO,3.0,3.0,frecuente,No,1.0,No,0.0,1.0,Nunca,Auto,Peso_normal
+1036,Sur,femenino,25.722004,1.62847,107.218949,Si,Sí,3.0,3.0,a veces,No,2.48707,No,0.067329,0.455823,A veces,Transporte_publico,Obesidad_III
+1037,Central,mujer,30.613586,1.645511,69.168978,Si,Si,2.000466,3.0,A veces,No,1.131448,No,0.061366,0.0,A veces,Auto,Sobrepeso_I
+1038,Sur,Femenino,21.0,1.67,75.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1039,Central,M,29.0,1.77,83.0,No,Si,1.0,4.0,Frecuente,No,3.0,No,0.0,1.0,nunca,Moto,Sobrepeso_I
+1040,Central,Masculino,19.865895,1.76033,55.3707,Si,SI,2.120185,4.0,A veces,No,2.582165,No,2.0,1.510609,Nunca,Auto,Peso_insuficiente
+1041,Central,F,18.535075,1.688025,45.0,No,Si,3.0,3.0,a veces,No,3.0,Si,2.539762,,NUNCA,Transporte_publico,Peso_insuficiente
+1042,Central,Femenino,22.547298,1.722461,51.881263,Si,Sí,2.663421,3.0,Frecuente,No,1.04111,No,0.794402,1.391948,Nunca,Transporte_publico,Peso_insuficiente
+1043,Norte,Masculino,17.0,180.0,97.0,Si,Si,2.0,3.0,A VECES,No,3.0,No,1.0,1.0,a veces,Caminando,Sobrepeso_II
+1044,Central,Varón,30.976932,1.755333,118.237782,Si,Si,2.938616,3.0,A VECES,No,2.06039,No,0.371508,1.333559,A veces,Auto,Obesidad_II
+1045,Central,Femenino,26.0,1.656465,111.949972,Si,SI,3.0,3.0,A veces,No,2.784303,No,0.0,0.127775,A veces,Transporte_publico,Obesidad_III
+1046,Norte,masculino,24.347414,179.0,89.393589,Si,Si,1.521604,2.174968,A veces,No,2.0,No,0.0,0.632467,A veces,Transporte_publico,Sobrepeso_II
+1047,Norte,M,25.047945,180.0,118.332966,Si,Si,1.431346,3.0,a veces,No,2.098959,No,1.110868,0.196952,A veces,Transporte_publico,Obesidad_II
+1048,Central,F,21.0,1.752944,77.965532,Si,Si,2.839048,2.10601,A veces,No,1.639202,No,,,A veces,Transporte_publico,Sobrepeso_I
+1049,Central,Varón,28.825279,1.815347,120.399758,Si,Si,2.9673,3.0,A veces,No,2.530035,No,1.045107,0.947866,A veces,Auto,Obesidad_II
+1050,Norte,masculino,17.0,169.0,60.0,No,No,2.0,3.0,A veces,No,3.0,No,2.0,1.0,A veces,Caminando,Peso_normal
+1051,Norte,mujer,17.0,170.0,85.0,Si,No,2.0,3.0,Frecuente,No,2.0,No,1.0,1.0,nunca,Transporte_publico,Sobrepeso_II
+1052,Central,Femenino,25.0,1.56,45.0,No,Sí,2.0,3.0,A veces,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1053,Sur,masculino,19.0,1.7,65.0,Si,No,2.0,3.0,Frecuente,No,2.0,No,1.0,,Nunca,Transporte_publico,Peso_normal
+1054,Central,Masculino,23.0,1.76,90.0,No,Sí,3.0,3.0,A VECES,No,1.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_II
+1055,Central,Femenino,19.59904,1.566501,41.706283,No,Si,2.967853,1.0,Frecuente,No,1.131185,No,0.0,0.504176,A veces,Transporte_publico,Peso_insuficiente
+1056,Central,mujer,18.0,1.58,48.0,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+1057,Central,masculino,33.0816,1.705617,83.016968,Si,Si,2.0,2.7976,A VECES,No,2.991671,No,2.148738,0.0,NUNCA,Auto,Sobrepeso_II
+1058,Central,Masculino,22.740275,1.717288,75.948164,Si,Si,2.0,3.0,A VECES,No,2.0,No,0.0,,A VECES,Transporte_publico,Sobrepeso_I
+1059,Norte,mujer,24.469756,166.0,113.077187,Si,Si,3.0,3.0,A VECES,No,2.632224,No,0.300964,0.26956,A veces,Transporte_publico,Obesidad_III
+1060,Central,Femenino,26.208134,1.7,78.041338,Si,Si,2.784383,3.0,A veces,No,2.165605,No,0.855973,0.839659,Frecuente,Auto,Sobrepeso_II
+1061,Central,masculino,17.925497,1.829142,59.933015,Si,Sí,2.86099,4.0,A veces,No,2.0,No,2.0,0.007872,nunca,Auto,Peso_insuficiente
+1062,Sur,Masculino,33.151905,1.685127,83.986895,Si,Si,2.0,2.473911,A veces,No,2.452789,No,0.932792,,Nunca,Auto,Sobrepeso_II
+1063,Norte,Masculino,23.0,171.0,50.0,Si,SI,2.0,3.0,Siempre,No,3.0,No,0.0,2.0,NUNCA,Transporte_publico,Peso_insuficiente
+1064,Norte,Varón,18.0,176.0,68.0,No,No,2.0,4.0,Frecuente,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+1065,Norte,Femenino,38.0,150.0,60.0,Si,Si,2.0,1.0,Siempre,Si,2.0,No,0.0,0.0,A veces,Auto,Sobrepeso_I
+1066,Central,F,16.910997,1.74823,49.928447,No,Si,2.494451,3.56544,A veces,No,1.491268,No,1.951027,0.956204,A veces,Transporte_publico,Peso_insuficiente
+1067,Central,Masculino,26.0,1.75,80.0,Si,Si,3.0,1.0,Frecuente,Si,2.0,Si,2.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1068,Sur,Femenino,21.140165,1.713133,133.735889,Si,Si,3.0,3.0,A veces,No,1.411365,No,1.564618,0.910683,A veces,Transporte_publico,Obesidad_III
+1069,Central,Femenino,23.0,1.668649,80.458343,Si,Sí,2.0,2.256119,A veces,No,1.142873,No,0.807076,1.611271,Nunca,Transporte_publico,Sobrepeso_II
+1070,Sur,Femenino,21.009437,1.60681,67.773914,Si,Si,2.0,3.156309,Nunca,No,3.0,No,1.179592,0.086868,A veces,Transporte_publico,Sobrepeso_I
+1071,Central,Masculino,20.986834,1.677178,80.379575,Si,Si,2.0,2.961706,A veces,No,2.0,No,1.661556,1.114716,Nunca,Transporte_publico,Sobrepeso_II
+1072,Central,Masculino,23.0,1.68,70.0,No,Si,2.0,3.0,A veces,No,2.0,No,2.0,2.0,Frecuente,Caminando,Peso_normal
+1073,Norte,F,16.093234,161.0,65.0,Si,Si,1.321028,1.0,A veces,No,2.0,Si,0.371452,0.965604,Nunca,Transporte_publico,Sobrepeso_I
+1074,Norte,Femenino,37.0,150.0,75.0,Si,Si,2.0,3.0,Frecuente,No,1.0,No,0.0,0.0,a veces,Moto,Obesidad_I
+1075,Central,F,21.243142,1.598019,44.845655,No,No,3.0,1.72626,Frecuente,No,,No,1.31817,0.0,Nunca,Transporte_publico,Peso_insuficiente
+1076,Central,Masculino,18.0,1.6,58.0,Si,SI,2.0,3.0,Frecuente,No,2.0,No,1.0,0.0,A veces,Transporte_publico,Peso_normal
+1077,Central,M,25.498751,1.885543,121.253083,Si,Si,2.408561,3.0,A veces,No,2.851904,No,1.320065,0.0,A VECES,Transporte_publico,Obesidad_II
+1078,Central,F,25.0,1.57,55.0,No,SI,2.0,1.0,A veces,No,,No,2.0,0.0,A VECES,Transporte_publico,Peso_normal
+1079,Central,Femenino,24.196367,1.697421,114.482386,Si,Si,3.0,3.0,a veces,No,2.909675,No,0.360908,0.573887,A veces,Transporte_publico,Obesidad_III
+1080,Central,F,26.0,1.59,47.0,Si,Si,2.0,1.0,A veces,No,2.0,No,0.0,2.0,A VECES,Transporte_publico,Peso_normal
+1081,Central,mujer,19.0,1.67,64.0,No,Si,3.0,3.0,A veces,No,2.0,No,2.0,1.0,A veces,Auto,Peso_normal
+1082,Norte,Varón,25.035915,176.0,88.532032,Si,Si,1.973499,1.081805,A veces,No,2.0,No,0.0,0.464022,A veces,Transporte_publico,Sobrepeso_II
+1083,Central,masculino,21.620245,1.605314,66.621646,Si,Si,2.357496,3.376717,A veces,No,2.184843,No,1.358185,0.014885,A veces,Transporte_publico,Sobrepeso_I
+1084,Central,M,19.685,1.838266,89.496905,Si,Si,2.153639,3.715148,A veces,No,2.703337,No,2.0,0.226097,A veces,Transporte_publico,Sobrepeso_I
+1085,Central,M,20.586978,1.781952,102.910613,Si,Si,2.0,3.0,A veces,No,,No,1.464204,0.0,Nunca,Transporte_publico,Obesidad_I
+1086,Sur,Masculino,19.576682,1.834715,89.429199,Si,Sí,2.342323,3.60885,A veces,No,2.878866,No,2.0,0.208323,A veces,Transporte_publico,Sobrepeso_I
+1087,Central,M,19.0,1.7,50.0,No,Sí,1.0,4.0,Frecuente,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+1088,Central,femenino,32.593129,1.721903,72.748903,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.339232,A veces,Auto,Sobrepeso_I
+1089,Central,Femenino,22.0,1.5,49.0,Si,No,2.0,1.0,A VECES,No,2.0,No,3.0,0.0,Nunca,Caminando,Peso_normal
+1090,Sur,femenino,35.456326,1.651812,79.437921,Si,Si,2.156065,2.909117,A veces,No,1.221281,No,0.503279,1.796136,Nunca,Auto,Sobrepeso_II
+1091,Central,femenino,19.0,1.779882,80.091886,Si,Si,1.078529,1.211606,A veces,No,2.568063,No,3.0,0.817983,Nunca,Transporte_publico,Sobrepeso_I
+1092,Central,F,22.87795,1.66913,86.002736,Si,Sí,2.290095,2.590283,A veces,No,2.506296,No,,1.0,Nunca,Transporte_publico,Obesidad_I
+1093,Norte,Masculino,19.920629,177.0,57.790381,Si,Si,2.0,3.897078,A VECES,No,2.622638,No,2.0,1.894105,Nunca,Auto,Peso_insuficiente
+1094,Central,masculino,21.029633,1.607082,67.722222,Si,Si,2.0,3.691226,Nunca,No,3.0,No,1.228136,0.3352,a veces,Transporte_publico,Sobrepeso_I
+1095,Norte,M,23.335391,171.0,82.085549,Si,Si,2.716909,2.598079,a veces,No,2.90545,No,1.600431,0.176892,A veces,Transporte_publico,Sobrepeso_II
+1096,Norte,Femenino,32.997118,167.0,74.812707,Si,Si,2.948425,1.198643,A veces,No,1.0,No,0.0,0.173796,A veces,Auto,Sobrepeso_I
+1097,Norte,femenino,18.951144,162.0,72.105856,Si,No,3.0,3.884861,A VECES,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+1098,Norte,mujer,19.126145,163.0,77.858532,Si,no,2.696381,3.0,a veces,No,2.472964,No,1.856119,1.0,A veces,Transporte_publico,Sobrepeso_II
+1099,Central,Masculino,18.0,1.7,55.0,Si,Si,2.0,3.0,frecuente,No,2.0,No,0.0,0.0,A VECES,Transporte_publico,Peso_normal
+1100,Central,Varón,20.0,1.83,85.0,Si,No,3.0,3.0,A veces,No,3.0,Si,3.0,,A veces,Auto,Sobrepeso_I
+1101,Norte,Masculino,30.0,180.0,91.0,Si,Si,2.0,3.0,Frecuente,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+1102,Central,Femenino,22.970655,1.751691,55.967655,Si,Si,2.478891,3.371832,FRECUENTE,No,2.004126,No,,,Nunca,Transporte_publico,Peso_insuficiente
+1103,Sur,Femenino,37.356288,1.559499,77.26813,Si,Si,2.0,3.0,a veces,No,1.630528,No,0.0,0.0,A veces,Auto,Obesidad_I
+1104,Central,M,38.644441,1.768235,117.792268,Si,Si,2.230742,2.920373,A veces,No,1.831187,No,0.756277,0.0,A veces,Auto,Obesidad_II
+1105,Sur,mujer,25.993154,1.609401,104.854928,Si,Si,3.0,3.0,A veces,No,2.613504,No,0.067985,0.778632,A veces,Transporte_publico,Obesidad_III
+1106,Central,Femenino,19.0,1.65,56.0,Si,Si,3.0,3.0,Frecuente,Si,3.0,Si,1.0,2.0,frecuente,Transporte_publico,Peso_normal
+1107,Norte,Femenino,20.400053,153.0,40.343463,No,Si,2.703436,2.884479,A veces,No,1.439962,No,0.144627,,A veces,Transporte_publico,Peso_insuficiente
+1108,Sur,Masculino,23.0,1.712556,75.480764,Si,Si,3.0,3.654061,A VECES,No,1.229915,No,,1.597608,A veces,Transporte_publico,Sobrepeso_I
+1109,Central,Femenino,43.238402,1.733875,86.94538,Si,Si,2.353603,2.337035,A veces,No,1.830614,No,0.706287,0.0,NUNCA,Auto,Sobrepeso_II
+1110,Central,Varón,29.0,1.62,53.0,No,Sí,2.0,3.0,a veces,No,2.0,No,0.0,0.0,a veces,Auto,Peso_normal
+1111,Central,Femenino,16.0,1.66,58.0,No,No,2.0,1.0,A veces,No,1.0,No,0.0,1.0,Nunca,Caminando,Peso_normal
+1112,Central,Masculino,21.473078,1.694423,80.311273,Si,Si,2.0,2.646717,A veces,No,2.0,No,2.627515,1.358812,Nunca,Transporte_publico,Sobrepeso_II
+1113,Norte,femenino,19.027417,159.0,73.939268,Si,NO,3.0,3.362758,A veces,No,2.0,No,2.892922,1.0,A veces,Transporte_publico,Sobrepeso_II
+1114,Sur,Femenino,18.0,1.55,56.0,No,Si,2.0,3.0,A VECES,No,,No,0.0,0.0,Nunca,Auto,Peso_normal
+1115,Sur,Femenino,34.176795,1.681021,77.392179,Si,Si,2.79606,1.971472,A veces,No,1.921601,No,0.935217,0.704637,Nunca,Auto,Sobrepeso_II
+1116,Central,femenino,230.0,1.7,50.0,No,Si,1.031149,3.0,A veces,No,1.963628,No,0.028202,1.0,A veces,Transporte_publico,Peso_insuficiente
+1117,Norte,Masculino,20.0,176.0,55.0,Si,Si,2.0,4.0,A veces,No,,No,2.0,2.0,Nunca,Transporte_publico,Peso_insuficiente
+1118,Norte,Femenino,18.871794,159.0,41.452385,No,Si,2.0,1.07976,a veces,No,1.0,No,0.194745,1.547086,A veces,Transporte_publico,Peso_insuficiente
+1119,Norte,Masculino,20.0,180.0,75.0,No,Si,3.0,4.0,Siempre,No,3.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+1120,Central,Masculino,18.88485,1.699667,79.67793,Si,No,2.735297,2.157164,A veces,No,1.087166,No,0.110174,0.003695,Nunca,Transporte_publico,Sobrepeso_II
+1121,Central,mujer,23.444286,1.596466,44.594588,No,No,2.594653,1.882158,Frecuente,No,1.916812,No,0.417119,0.0,Nunca,Transporte_publico,Peso_insuficiente
+1122,Norte,F,31.255587,169.0,71.927379,Si,Si,2.615788,3.0,A VECES,No,1.771781,No,0.759422,0.686529,A VECES,Auto,Sobrepeso_I
+1123,Norte,Masculino,18.424941,175.0,54.121925,Si,Si,2.0,3.16645,A veces,No,2.278578,No,,2.0,a veces,Transporte_publico,Peso_insuficiente
+1124,Sur,Masculino,20.013906,1.647821,106.509947,Si,Si,2.869778,1.468948,A veces,No,1.656082,No,0.0,1.444033,Nunca,Transporte_publico,Obesidad_II
+1125,Central,Femenino,21.0,1.66,57.0,Si,Si,2.0,3.0,frecuente,No,1.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+1126,Norte,Femenino,20.941943,181.0,138.730619,Si,Si,3.0,3.0,A veces,No,2.641489,No,0.481555,0.735201,A veces,Transporte_publico,Obesidad_III
+1127,Central,Masculino,20.0,1.6,56.0,No,Si,2.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Transporte_publico,Peso_normal
+1128,Sur,Femenino,21.680123,1.749118,133.955091,Si,Si,3.0,3.0,A veces,No,,No,1.412357,0.901071,A veces,Transporte_publico,Obesidad_III
+1129,Sur,Femenino,18.871917,1.755254,80.0,Si,Si,2.0,1.095223,A veces,No,2.474132,No,2.876696,0.7939,Nunca,Transporte_publico,Sobrepeso_I
+1130,Norte,Varón,17.0,170.0,70.0,Si,Si,3.0,3.0,A veces,No,2.0,No,0.0,2.0,a veces,Caminando,Peso_normal
+1131,Central,Femenino,18.0,1.6,58.0,Si,SI,2.0,3.0,A veces,No,3.0,No,3.0,0.0,NUNCA,Transporte_publico,Peso_normal
+1132,Sur,Masculino,26.0,1.9,80.0,Si,Si,2.0,3.0,Frecuente,No,,Si,1.0,0.0,A veces,Auto,Peso_normal
+1133,Norte,Varón,37.997912,176.0,118.668332,Si,Si,2.611222,2.992083,A veces,No,1.796376,No,0.641954,0.20281,A veces,Auto,Obesidad_II
+1134,Central,F,22.991668,1.740295,54.166453,Si,Si,3.0,3.0,FRECUENTE,No,2.025279,No,2.0,0.152985,Nunca,Transporte_publico,Peso_insuficiente
+1135,Central,masculino,32.0,1.75,120.0,Si,NO,3.0,3.0,A veces,No,3.0,No,0.0,2.0,Nunca,Auto,Obesidad_II
+1136,Norte,Femenino,24.17851,159.0,80.553067,Si,Sí,2.0,1.0,A veces,No,,No,0.011477,0.0,Nunca,Transporte_publico,Obesidad_I
+1137,Central,femenino,19.317148,1.731195,49.650897,No,Si,2.919751,3.576103,A veces,No,1.949308,No,1.940182,1.0,A veces,Transporte_publico,Peso_insuficiente
+1138,Central,Femenino,25.380557,1.630379,46.062954,Si,Si,2.690754,3.03779,FRECUENTE,No,2.212296,No,1.616882,0.0,NUNCA,Transporte_publico,Peso_insuficiente
+1139,Norte,Masculino,40.174191,176.0,116.974504,Si,Si,2.046651,2.842035,A veces,No,1.732072,No,0.584272,0.0,a veces,Auto,Obesidad_II
+1140,Norte,F,19.054008,156.0,39.695295,No,Si,1.889199,2.217651,A veces,No,2.013605,No,2.075293,1.683261,a veces,Transporte_publico,Peso_insuficiente
+1141,Sur,Masculino,25.0,1.71,71.0,Si,SI,2.0,3.0,Frecuente,No,2.0,No,0.0,0.0,A veces,Moto,Peso_normal
+1142,Norte,Masculino,18.525834,178.0,57.275946,Si,Si,2.0,3.747163,A veces,No,2.575535,No,2.0,1.84383,NUNCA,Auto,Peso_insuficiente
+1143,Central,Masculino,25.0,1.66,68.0,No,Sí,2.0,3.0,A veces,Si,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+1144,Norte,Femenino,28.977792,170.0,78.0,Si,Si,3.0,3.0,A veces,No,1.507638,No,,1.0,FRECUENTE,Auto,Sobrepeso_II
+1145,Central,Masculino,26.957645,1.780731,112.957922,Si,SI,2.263245,3.0,A veces,No,2.092509,No,0.0,1.836853,A veces,Auto,Obesidad_II
+1146,Norte,Femenino,20.0,160.0,50.0,No,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.0,Nunca,Auto,Peso_normal
+1147,Central,M,30.0,1.76,112.0,Si,Si,1.0,3.0,Nunca,Si,2.0,Si,0.0,0.0,Frecuente,Auto,Obesidad_II
+1148,Norte,Masculino,18.0,172.0,53.0,Si,SI,2.0,3.0,A veces,No,2.0,No,0.0,2.0,a veces,Transporte_publico,Peso_insuficiente
+1149,Norte,M,21.420537,171.0,75.0,Si,Si,2.0,3.0,A veces,No,1.362642,No,0.921268,0.139013,A veces,Transporte_publico,Sobrepeso_I
+1150,Central,Masculino,22.789402,1.64187,104.270062,Si,Si,2.869833,1.569176,A veces,No,1.533682,No,0.167943,1.368262,Nunca,Transporte_publico,Obesidad_II
+1151,Central,masculino,34.204611,1.719509,84.416515,Si,Sí,2.031246,3.0,A veces,No,2.803002,No,1.98448,0.418623,Nunca,Auto,Sobrepeso_II
+1152,Norte,M,21.0,171.0,75.0,No,No,2.0,3.0,Frecuente,No,3.0,Si,3.0,1.0,Frecuente,Auto,Sobrepeso_I
+1153,Central,Femenino,21.845025,1.613668,68.126955,Si,Si,1.758394,3.981997,A veces,No,2.174248,No,0.920476,1.358163,A veces,Transporte_publico,Sobrepeso_I
+1154,Central,F,19.071027,1.756865,49.699672,No,Si,1.69427,3.266644,A veces,No,1.095417,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+1155,Central,Masculino,18.0,1.721854,52.514302,Si,SI,2.33998,3.0,A veces,No,2.0,No,0.027433,1.884138,A VECES,Transporte_publico,Peso_insuficiente
+1156,Central,femenino,28.830558,1.7,78.0,Si,Si,3.0,3.0,A veces,No,1.699971,No,1.727114,1.0,Frecuente,Auto,Sobrepeso_II
+1157,Norte,Femenino,19.483036,154.0,42.0,No,Si,3.0,1.0,frecuente,No,1.387531,No,0.0,0.466169,A veces,Transporte_publico,Peso_insuficiente
+1158,Central,Masculino,18.0,1.803527,108.251044,Si,Si,2.0,1.709546,A veces,No,2.530157,No,1.0,0.6454,Nunca,Transporte_publico,Obesidad_I
+1159,Central,F,23.0,1.634688,82.628,Si,Si,2.060922,2.933409,A veces,No,2.235282,No,0.380633,0.0026,Nunca,Transporte_publico,Obesidad_I
+1160,Norte,Masculino,19.21638,181.0,86.748295,Si,Si,2.0,3.0,A veces,No,2.168651,No,0.977998,0.142638,A veces,Transporte_publico,Sobrepeso_I
+1161,Central,mujer,51.0,1.59,50.0,Si,NO,3.0,3.0,A veces,Si,3.0,Si,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+1162,Norte,mujer,37.955371,156.0,80.0,Si,Sí,2.846452,1.139317,A veces,No,1.459511,No,1.71807,0.0,A VECES,Auto,Obesidad_I
+1163,Sur,Masculino,17.120699,1.809251,58.968994,Si,Si,2.524428,4.0,A veces,No,2.0,No,2.0,0.03838,Nunca,Auto,Peso_insuficiente
+1164,Central,Femenino,20.244359,1.559186,41.952805,No,Si,2.619835,1.0,Frecuente,No,1.198883,No,0.0,0.751212,A veces,Transporte_publico,Peso_insuficiente
+1165,Norte,Masculino,25.632447,184.0,96.192662,Si,Si,1.317729,2.278652,A veces,No,2.0,No,1.80674,1.93977,A veces,Transporte_publico,Sobrepeso_II
+1166,Sur,Masculino,18.011718,1.680991,79.752916,Si,Si,2.413156,2.521546,A VECES,No,1.985312,No,0.00705,0.965464,A veces,Transporte_publico,Sobrepeso_II
+1167,Sur,Masculino,29.695603,1.842943,93.798055,Si,Si,2.133955,2.902766,A veces,No,1.753464,No,1.729987,,A veces,Transporte_publico,Sobrepeso_II
+1168,Norte,Femenino,18.0,160.0,56.0,Si,Si,2.0,1.0,Siempre,No,2.0,No,1.0,0.0,A veces,Caminando,Peso_normal
+1169,Norte,mujer,24.0,177.0,76.0,No,No,2.0,3.0,A veces,No,3.0,No,1.0,1.0,A veces,Caminando,Peso_normal
+1170,Norte,Femenino,18.0,162.0,50.0,No,Si,3.0,3.0,A veces,No,1.0,No,0.0,0.0,A veces,Auto,Peso_normal
+1171,Central,Femenino,37.0,1.68,83.0,Si,Si,2.0,1.0,A VECES,No,2.0,No,0.0,0.0,NUNCA,Auto,Sobrepeso_II
+1172,Central,Femenino,22.0,1.73,79.0,Si,Si,2.0,1.0,A veces,No,2.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1173,Norte,Femenino,16.950499,160.0,65.0,Si,Si,2.96008,1.0,a veces,No,2.0,Si,0.736032,1.344072,nunca,Transporte_publico,Sobrepeso_I
+1174,Norte,Masculino,18.128249,170.0,52.08657,Si,Si,2.853513,3.0,A veces,No,2.0,No,0.680464,1.258881,A veces,Transporte_publico,Peso_insuficiente
+1175,Central,Masculino,21.0,1.82,67.0,No,Si,2.0,4.0,Siempre,Si,3.0,No,3.0,2.0,A veces,Caminando,Peso_normal
+1176,Central,M,24.751511,1.735343,83.337721,Si,Si,2.607335,3.0,A veces,No,2.0,No,0.451009,0.630866,A veces,Transporte_publico,Sobrepeso_II
+1177,Norte,Masculino,21.18354,172.0,80.555875,Si,Si,2.0,2.468421,A veces,No,2.0,No,2.0,1.0,Nunca,Transporte_publico,Sobrepeso_II
+1178,Sur,femenino,17.25813,1.600184,65.0,Si,Si,2.749629,2.298612,a veces,No,,Si,0.547515,1.619473,A veces,Transporte_publico,Sobrepeso_I
+1179,Norte,Femenino,26.0,164.0,111.539494,Si,Si,3.0,3.0,A veces,No,2.625537,No,0.0,0.162494,A veces,Transporte_publico,Obesidad_III
+1180,Central,Femenino,23.0,1.67,75.0,Si,Sí,2.0,3.0,Frecuente,Si,2.0,No,0.0,2.0,Nunca,Caminando,Sobrepeso_I
+1181,Central,Masculino,27.0,1.83,99.0,Si,Si,3.0,1.0,Frecuente,No,2.0,No,2.0,1.0,A veces,Caminando,Sobrepeso_II
+1182,Norte,femenino,22.176922,172.0,51.491957,Si,Si,2.486189,3.0,Frecuente,No,1.064378,No,2.206055,1.958089,Nunca,Transporte_publico,Peso_insuficiente
+1183,Norte,Masculino,19.0,183.0,82.0,Si,Si,3.0,3.0,Frecuente,No,2.0,No,2.0,0.0,a veces,Transporte_publico,Peso_normal
+1184,Norte,Masculino,22.944349,180.0,89.98168,Si,Si,1.34138,1.94671,A veces,No,2.0,No,0.0,0.975504,A veces,Transporte_publico,Sobrepeso_II
+1185,Central,Masculino,35.719457,1.685947,83.3258,Si,Si,2.0,1.009426,A veces,No,2.136398,No,1.060349,0.0,Nunca,Auto,Sobrepeso_II
+1186,Sur,Masculino,16.496978,1.691206,50.0,No,Si,2.0,1.630846,A veces,No,2.975528,No,0.548991,0.369134,A veces,Transporte_publico,Peso_insuficiente
+1187,Central,Femenino,23.69484,1.637524,113.90506,Si,Si,3.0,3.0,A veces,No,,No,0.189831,0.652289,A veces,Transporte_publico,Obesidad_III
+1188,Norte,Masculino,19.0,180.0,85.0,Si,SI,3.0,3.0,A VECES,No,2.0,No,1.0,1.0,A veces,Caminando,Sobrepeso_I
+1189,Central,Femenino,26.0,1.643892,111.884535,Si,Si,3.0,3.0,A veces,No,2.768141,No,0.0,0.094213,A veces,Transporte_publico,Obesidad_III
+1190,Norte,Femenino,17.0,160.0,53.0,No,SI,1.0,3.0,a veces,No,1.0,No,2.0,2.0,A veces,Caminando,Peso_normal
+1191,Central,femenino,18.0,1.62,68.0,No,no,2.0,1.0,A veces,No,1.0,No,0.0,2.0,Nunca,Transporte_publico,Sobrepeso_I
+1192,Central,mujer,25.951737,1.629442,104.835346,Si,Si,3.0,3.0,A veces,No,2.225139,No,0.035928,0.565315,A veces,Transporte_publico,Obesidad_III
+1193,Central,mujer,26.0,1.622468,110.400847,Si,Si,3.0,3.0,A veces,No,2.695094,No,0.0,0.413474,A veces,Transporte_publico,Obesidad_III
+1194,Central,Femenino,19.0,1.56,50.0,No,Si,2.0,1.0,A veces,No,1.0,No,0.0,,Nunca,Transporte_publico,Peso_normal
+1195,Central,mujer,21.0,1.6,68.0,Si,Sí,2.0,3.0,A veces,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1196,Central,Femenino,23.0,1.681314,80.037202,Si,Si,2.0,2.9796,a veces,No,1.964435,No,0.189957,1.73216,Nunca,Transporte_publico,Sobrepeso_II
+1197,Norte,M,21.793724,175.0,89.068227,Si,Si,2.0,2.041558,A veces,No,2.38725,No,0.813917,,A veces,Transporte_publico,Sobrepeso_II
+1198,Central,masculino,17.0,1.72,62.0,No,Si,2.0,3.0,SIEMPRE,No,2.0,No,3.0,1.0,Nunca,Transporte_publico,Peso_normal
+1199,Central,Femenino,21.0,1.753578,77.97917,Si,Si,2.273548,2.39007,A veces,No,1.648404,No,0.874643,1.102696,A veces,Transporte_publico,Sobrepeso_I
+1200,Central,Masculino,17.758315,1.854162,59.881316,Si,Sí,2.966126,3.96981,A veces,No,2.0,No,2.000088,0.378619,NUNCA,Auto,Peso_insuficiente
+1201,Sur,Femenino,25.483381,1.565288,64.848627,Si,No,2.0,1.0,A veces,No,1.0,No,0.740633,0.0,nunca,Transporte_publico,Sobrepeso_II
+1202,Sur,mujer,23.0,1.48,60.0,Si,Si,2.0,1.0,A veces,Si,1.0,No,0.0,0.0,A VECES,Transporte_publico,Sobrepeso_II
+1203,Central,F,18.0,1.63,51.0,Si,Si,1.0,3.0,Frecuente,No,1.0,No,1.0,0.0,A veces,Transporte_publico,Peso_normal
+1204,Central,Masculino,21.980847,1.819875,106.048516,Si,Si,2.0,3.0,A veces,No,2.745242,No,0.0,,A veces,Transporte_publico,Obesidad_I
+1205,Central,F,25.0,1.57,55.0,No,SI,2.0,1.0,A VECES,No,2.0,No,2.0,0.0,A veces,Transporte_publico,Peso_normal
+1206,Central,Femenino,22.0,1.58,58.0,Si,Si,2.0,1.0,A veces,No,,No,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+1207,Norte,Masculino,19.149706,170.0,78.0,Si,No,1.096455,2.491315,A veces,No,2.450069,No,0.0,0.726118,A veces,Transporte_publico,Sobrepeso_II
+1208,Norte,masculino,19.637203,181.0,85.301029,Si,Si,2.923916,3.335876,A veces,No,2.372444,No,1.305633,0.311436,A veces,Transporte_publico,Sobrepeso_I
+1209,Sur,Varón,19.429723,1.813567,86.144904,Si,Si,2.643183,3.821461,A veces,No,2.397124,No,2.044165,0.471663,A veces,Transporte_publico,Sobrepeso_I
+1210,Norte,Femenino,17.08525,154.0,57.259124,No,Si,1.972545,2.339614,a veces,No,1.711074,Si,0.095517,1.191053,A veces,Transporte_publico,Sobrepeso_I
+1211,Central,Masculino,33.0,1.85,99.0,Si,Si,2.0,3.0,A veces,Si,3.0,No,1.0,0.0,A veces,Auto,Sobrepeso_II
+1212,Central,Femenino,18.549437,1.545196,72.467862,Si,No,3.0,3.014808,A veces,No,2.0,No,1.997529,1.0,a veces,Transporte_publico,Sobrepeso_II
+1213,Central,F,33.700749,1.642971,74.803157,Si,No,3.0,1.146052,A veces,No,1.074048,No,0.679935,0.0,a veces,Auto,Sobrepeso_I
+1214,Norte,Femenino,29.463168,166.0,71.170001,Si,Si,2.0,3.0,A veces,No,1.281683,No,1.609801,0.0,A veces,Auto,Sobrepeso_I
+1215,Central,masculino,20.0,1.77,70.0,Si,SI,1.0,1.0,A veces,No,2.0,No,1.0,1.0,A VECES,Transporte_publico,Peso_normal
+1216,Central,Masculino,38.0,1.7,78.0,No,Sí,3.0,3.0,frecuente,No,2.0,No,0.0,0.0,Frecuente,Auto,Sobrepeso_II
+1217,Norte,Femenino,19.774317,154.0,64.726948,No,Si,2.706134,2.669766,A veces,No,1.979848,Si,0.445238,0.908836,A veces,Transporte_publico,Sobrepeso_I
+1218,Central,Masculino,24.0,1.78,64.0,Si,Sí,3.0,3.0,A veces,No,2.0,No,1.0,1.0,Frecuente,Transporte_publico,Peso_normal
+1219,Norte,Masculino,29.153907,177.0,87.070234,No,Si,1.595746,3.618722,A veces,No,1.274389,No,1.504003,0.370067,Nunca,Auto,Sobrepeso_I
+1220,Norte,masculino,26.0,185.0,105.0,Si,Si,3.0,3.0,Frecuente,No,3.0,No,2.0,2.0,A veces,Transporte_publico,Obesidad_I
+1221,Central,Masculino,30.610436,1.783914,120.549592,Si,Si,2.05687,3.0,A veces,No,2.358088,No,0.093418,1.759954,A veces,Auto,Obesidad_II
+1222,Sur,Femenino,21.814653,1.611822,67.140367,Si,Si,1.874935,3.370362,A veces,No,2.558773,No,,0.271024,A VECES,Transporte_publico,Sobrepeso_I
+1223,Sur,Masculino,30.350516,1.860292,123.721352,Si,SI,2.002784,3.0,A veces,No,2.292906,No,1.034031,0.0,a veces,Auto,Obesidad_II
+1224,Norte,femenino,21.832995,158.0,65.363941,No,SI,2.021446,3.0,a veces,No,1.077917,No,0.523847,0.808599,A veces,Transporte_publico,Sobrepeso_I
+1225,Norte,Varón,22.18881,172.0,81.92991,Si,Si,2.0,1.152521,A veces,No,1.723159,No,1.39016,1.094941,A VECES,Transporte_publico,Sobrepeso_II
+1226,Norte,Femenino,21.0,172.0,66.5,Si,Si,3.0,4.0,Siempre,No,3.0,No,0.0,2.0,Nunca,Transporte_publico,Peso_normal
+1227,Central,Masculino,18.0,1.72,55.0,No,Si,2.0,4.0,A veces,No,2.0,No,2.0,1.0,A VECES,Transporte_publico,Peso_normal
+1228,Sur,M,35.0,1.77,85.0,Si,no,3.0,3.0,Frecuente,No,3.0,No,2.0,1.0,A veces,Auto,Sobrepeso_II
+1229,Norte,Masculino,21.731497,170.0,75.399191,Si,Si,2.109162,3.245148,A veces,No,1.971774,No,0.989335,0.0,A veces,Transporte_publico,Sobrepeso_I
+1230,Central,Masculino,19.637947,1.809101,85.0,Si,Si,3.0,3.0,A veces,No,2.229171,No,1.607953,0.628059,A veces,Transporte_publico,Sobrepeso_I
+1231,Norte,Femenino,20.392665,153.0,65.220249,Si,No,2.451009,3.0,a veces,No,2.0,No,2.177243,1.323877,Nunca,Transporte_publico,Sobrepeso_II
+1232,Sur,Femenino,26.0,1.634894,111.946321,Si,SI,3.0,3.0,A VECES,No,2.737353,No,0.0,0.076094,A veces,Transporte_publico,Obesidad_III
+1233,Norte,Masculino,22.94313,182.0,93.086419,Si,Si,1.882235,1.240046,a veces,No,2.0,No,0.0,1.541493,A VECES,Transporte_publico,Sobrepeso_II
+1234,Norte,Varón,22.675679,182.0,96.945262,Si,Si,1.588782,2.601675,A veces,No,2.469469,No,1.736538,1.886855,A VECES,Transporte_publico,Sobrepeso_II
+1235,Norte,Masculino,18.88061,180.0,104.40682,Si,Si,2.0,3.0,A veces,No,3.0,No,2.2405,0.0,nunca,Transporte_publico,Obesidad_I
+1236,Central,Femenino,17.992717,1.618683,67.193585,Si,Si,1.952987,1.0,A VECES,No,1.334856,Si,0.732276,1.890214,Nunca,Transporte_publico,Sobrepeso_I
+1237,Sur,F,21.997683,1.689441,51.107925,Si,Si,3.0,3.715118,Frecuente,No,1.774576,No,0.10297,0.646423,Nunca,Transporte_publico,Peso_insuficiente
+1238,Norte,Femenino,19.091346,160.0,45.0,No,No,3.0,3.0,frecuente,No,1.28246,Si,1.60195,0.0,A veces,Transporte_publico,Peso_insuficiente
+1239,Sur,femenino,17.099015,1.6,65.0,Si,Si,3.0,2.401341,A veces,No,2.0,Si,0.663896,,A veces,Transporte_publico,Sobrepeso_I
+1240,Norte,masculino,23.479181,168.0,91.068054,Si,Si,1.220024,3.0,A veces,No,1.046254,No,0.520989,0.61599,Nunca,Auto,Obesidad_I
+1241,Norte,M,37.638102,175.0,118.114184,Si,Si,2.073224,3.0,A veces,No,2.024035,No,0.131371,0.0,a veces,Auto,Obesidad_II
+1242,Norte,Masculino,300.0,167.0,62.0,No,Si,2.0,1.0,Nunca,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1243,Sur,masculino,32.610018,1.742538,83.390983,Si,Si,2.247704,3.053598,A veces,No,1.919629,No,0.408023,,Nunca,Auto,Sobrepeso_II
+1244,Norte,Femenino,30.0,165.0,71.0,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,0.0,A VECES,Transporte_publico,Sobrepeso_I
+1245,Central,Masculino,17.570089,1.7,83.199034,Si,no,2.097373,2.547086,A VECES,No,1.538626,No,1.0,0.761898,NUNCA,Transporte_publico,Sobrepeso_II
+1246,Norte,Masculino,34.0,184.0,88.0,No,Si,3.0,3.0,A veces,No,1.0,Si,2.0,0.0,Nunca,Auto,Sobrepeso_I
+1247,Sur,F,18.0,1.62,55.0,Si,Si,2.0,3.0,Frecuente,No,,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+1248,Central,Femenino,21.0,1.55,57.0,No,Si,2.0,4.0,Frecuente,No,2.0,Si,2.0,,A VECES,Auto,Peso_normal
+1249,Norte,F,21.056059,173.0,152.094362,Si,Si,3.0,3.0,A veces,No,2.374958,No,0.750111,0.671458,A VECES,Transporte_publico,Obesidad_III
+1250,Norte,Femenino,18.0,159.0,53.0,No,No,1.0,3.0,a veces,No,1.0,No,1.0,2.0,Nunca,Transporte_publico,Peso_normal
+1251,Sur,M,24.122589,1.856759,95.887056,Si,Si,1.116068,2.449067,A veces,No,,No,,1.97117,a veces,Transporte_publico,Sobrepeso_II
+1252,Norte,Femenino,42.189023,165.0,79.165306,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,1.48189,Nunca,Auto,Sobrepeso_II
+1253,Central,masculino,47.7061,1.743935,84.729197,Si,Si,2.535315,3.0,A VECES,No,1.146595,No,0.31381,0.0,Nunca,Auto,Sobrepeso_II
+1254,Sur,Femenino,22.0,1.61,63.0,Si,Sí,3.0,3.0,Frecuente,No,3.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+1255,Norte,Masculino,21.0,181.0,80.0,No,No,1.0,3.0,Nunca,No,,No,2.0,0.0,Nunca,Transporte_publico,Peso_normal
+1256,Sur,M,34.243146,1.843172,92.69551,Si,Si,2.0,2.271734,A veces,No,2.629043,No,1.0,0.075823,A veces,Auto,Sobrepeso_II
+1257,Norte,Masculino,20.738469,176.0,55.003417,Si,Si,2.627031,3.832911,A veces,No,2.993448,No,2.0,1.425903,Nunca,Transporte_publico,Peso_insuficiente
+1258,Central,M,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1259,Norte,Femenino,18.610761,155.0,60.628321,No,Si,2.823179,2.644692,A veces,No,1.226764,Si,0.747528,0.008899,a veces,Transporte_publico,Sobrepeso_I
+1260,Norte,Masculino,18.0,175.0,86.372141,Si,Si,2.907062,3.0,a veces,No,2.740848,No,1.219827,0.037634,A VECES,Transporte_publico,Sobrepeso_II
+1261,Central,Femenino,23.0,1.65,80.0,Si,Si,2.0,3.0,Siempre,No,2.0,No,0.0,2.0,Nunca,Transporte_publico,Sobrepeso_II
+1262,Central,masculino,18.0,1.7,60.0,No,Si,2.0,3.0,A VECES,No,2.0,No,2.0,1.0,nunca,Transporte_publico,Peso_normal
+1263,Central,Varón,21.125836,1.638085,70.0,No,Si,2.0,1.0,nunca,No,2.115967,No,0.770536,,A veces,Transporte_publico,Sobrepeso_I
+1264,Sur,Femenino,19.0,1.63,76.0,Si,No,3.0,3.0,Frecuente,Si,3.0,No,2.0,1.0,A veces,Auto,Sobrepeso_II
+1265,Sur,Femenino,21.909534,1.611356,68.06609,Si,Si,1.834155,3.995957,A veces,No,2.632871,No,1.236114,1.980875,A veces,Transporte_publico,Sobrepeso_I
+1266,Norte,Femenino,19.0,176.0,79.349221,Si,Sí,2.0,1.893811,a veces,No,3.0,No,,1.801322,Nunca,Transporte_publico,Sobrepeso_I
+1267,Norte,M,19.0,182.0,75.0,Si,No,2.0,3.0,Frecuente,No,2.0,No,1.0,0.0,Nunca,Transporte_publico,Peso_normal
+1268,Sur,femenino,20.0,1.58,53.5,Si,Si,2.0,1.0,Frecuente,No,2.0,No,1.0,1.0,a veces,Transporte_publico,Peso_normal
+1269,Central,Femenino,21.687409,1.604697,68.016472,Si,Si,1.901611,3.266501,Nunca,No,2.926995,No,0.985872,0.307982,A veces,Transporte_publico,Sobrepeso_I
+1270,Central,Femenino,22.865018,1.632118,82.0,Si,Si,2.587789,1.482103,a veces,No,1.911664,No,0.0,0.128681,A veces,Transporte_publico,Obesidad_I
+1271,Central,masculino,19.627,1.815409,85.302146,Si,Si,2.987148,3.483449,A veces,No,2.359246,No,2.060415,0.598999,A veces,Transporte_publico,Sobrepeso_I
+1272,Central,Masculino,22.052152,1.792527,89.994415,Si,Sí,1.771693,1.890213,A veces,No,2.0,No,0.0,1.36595,A veces,Transporte_publico,Sobrepeso_II
+1273,Norte,femenino,22.0,165.0,65.0,Si,Si,2.0,3.0,frecuente,No,2.0,Si,1.0,0.0,nunca,Auto,Peso_normal
+1274,Sur,Femenino,34.204408,1.664927,80.386078,Si,Si,2.0,3.0,A veces,No,,No,0.285889,1.50301,Nunca,Auto,Sobrepeso_II
+1275,Central,Femenino,18.741188,1.556789,71.788181,Si,No,3.0,3.129155,a veces,No,2.0,No,1.634134,,Nunca,Transporte_publico,Sobrepeso_II
+1276,Central,Femenino,22.377998,1.699568,54.98774,Si,Sí,3.0,3.0,Frecuente,No,2.0,No,0.139808,0.875464,Nunca,Transporte_publico,Peso_insuficiente
+1277,Central,Femenino,18.423482,1.735461,126.798173,Si,Sí,3.0,3.0,A veces,No,2.38639,No,1.544632,0.900067,A veces,Transporte_publico,Obesidad_III
+1278,Central,femenino,21.0,1.52,42.0,No,No,3.0,1.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+1279,Norte,Femenino,22.0,167.0,50.0,Si,No,3.0,3.0,Nunca,No,3.0,Si,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+1280,Sur,Femenino,18.988581,1.544263,41.535047,No,Si,2.68601,1.0,A veces,No,1.310074,No,0.0,1.0647,A veces,Transporte_publico,Peso_insuficiente
+1281,Norte,Masculino,38.0,175.0,75.0,Si,No,3.0,3.0,FRECUENTE,No,1.0,No,2.0,1.0,Nunca,Auto,Peso_normal
+1282,Norte,Masculino,32.895637,178.0,103.771371,Si,Si,2.902469,1.734762,a veces,No,2.600238,No,2.113992,0.584755,A veces,Auto,Obesidad_I
+1283,Sur,Femenino,22.978655,1.664622,114.465425,Si,Si,3.0,3.0,A veces,No,2.408442,No,0.194056,0.803141,A veces,Transporte_publico,Obesidad_III
+1284,Central,Masculino,25.314589,1.787802,115.127662,Si,Si,1.588114,3.0,A veces,No,2.115967,No,1.541072,0.0,nunca,Auto,Obesidad_II
+1285,Norte,masculino,21.0,162.0,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1286,Central,Femenino,18.288205,1.713564,50.0,No,Si,1.140615,3.471536,A veces,No,1.0,No,2.0,1.0,A VECES,Transporte_publico,Peso_insuficiente
+1287,Central,Femenino,19.0,1.54,42.0,No,Sí,3.0,1.0,a veces,No,2.0,No,0.0,1.0,nunca,Transporte_publico,Peso_insuficiente
+1288,Norte,Femenino,21.0,162.0,68.981403,Si,Si,1.142468,3.0,Nunca,No,2.197732,No,0.827506,0.572877,A veces,Transporte_publico,Sobrepeso_I
+1289,Central,Masculino,31.327609,1.737984,82.523113,Si,Si,2.300408,3.071028,A VECES,No,1.738959,No,0.090147,0.0,a veces,Auto,Sobrepeso_II
+1290,Central,Femenino,18.48207,1.7,50.0,No,Si,1.592183,3.535016,A veces,No,1.086391,No,0.618913,1.0,A veces,Transporte_publico,Peso_insuficiente
+1291,Sur,femenino,21.0,1.55,50.0,No,Si,2.0,3.0,A veces,No,2.0,No,0.0,0.0,A VECES,Transporte_publico,Peso_normal
+1292,Norte,masculino,19.0,180.0,87.0,Si,Si,2.0,4.0,A veces,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Sobrepeso_I
+1293,Central,Masculino,18.0,1.75,85.0,Si,No,2.0,3.0,a veces,No,,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+1294,Central,Masculino,20.0,1.83,72.0,Si,No,3.0,3.0,A veces,Si,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+1295,Central,Masculino,20.0,1.83,66.0,No,No,2.0,3.0,a veces,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+1296,Norte,F,18.297229,164.0,70.0,Si,Si,2.0,1.999014,A veces,No,2.326165,No,0.00705,0.0,NUNCA,Transporte_publico,Sobrepeso_I
+1297,Norte,Femenino,25.943827,163.0,104.839068,Si,Si,3.0,3.0,A VECES,No,2.20979,No,0.114698,0.604422,A veces,Transporte_publico,Obesidad_III
+1298,Central,masculino,16.0,1.84,45.0,Si,SI,3.0,3.0,Siempre,No,3.0,No,3.0,2.0,A veces,Caminando,Peso_insuficiente
+1299,Central,mujer,31.793937,1.65015,73.810728,Si,Si,2.372494,2.849848,A veces,No,1.028538,No,0.675983,0.303025,A veces,Auto,Sobrepeso_I
+1300,Central,femenino,34.231083,1.654067,79.697278,Si,SI,2.086898,1.818026,A veces,No,2.088929,No,0.305422,,Nunca,Auto,Sobrepeso_II
+1301,Central,mujer,21.0,1.63,66.0,Si,Si,3.0,1.0,A veces,Si,3.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1302,Norte,M,27.0,170.0,78.0,No,Si,3.0,3.0,A veces,No,3.0,No,1.0,1.0,Frecuente,Transporte_publico,Sobrepeso_II
+1303,Norte,Femenino,26.591628,170.0,78.008388,Si,Si,2.734314,3.0,A veces,No,3.0,No,0.897702,0.908271,FRECUENTE,Transporte_publico,Sobrepeso_II
+1304,Sur,Varón,24.190896,1.7,84.849349,Si,Si,2.0,3.0,A veces,No,,No,0.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+1305,Central,Masculino,23.172982,1.858624,88.675503,Si,Si,2.0,2.77684,A veces,No,1.278231,No,0.55713,1.0,A veces,Auto,Sobrepeso_I
+1306,Sur,Masculino,29.0,1.682916,89.991671,Si,Si,1.851262,3.0,A veces,No,2.11267,No,0.388269,0.0,a veces,Auto,Obesidad_I
+1307,Central,Masculino,21.834894,1.722785,94.094184,Si,Si,2.0,2.966803,A veces,No,2.0,No,0.0,1.281541,Nunca,Transporte_publico,Obesidad_I
+1308,Central,mujer,40.0,1.56,80.0,Si,Si,2.0,1.0,a veces,No,2.0,No,2.0,0.0,Nunca,Transporte_publico,Obesidad_I
+1309,Norte,F,20.0,160.0,65.0,No,no,3.0,3.0,A veces,No,2.0,Si,0.0,0.0,A VECES,Transporte_publico,Sobrepeso_I
+1310,Central,Femenino,22.989846,1.65,80.0,Si,Si,2.0,3.0,A veces,No,,No,0.146919,2.0,Nunca,Transporte_publico,Sobrepeso_II
+1311,Central,Masculino,34.970367,1.713348,84.722222,Si,Si,2.884212,3.0,A veces,No,3.0,No,,0.8324,Nunca,Auto,Sobrepeso_II
+1312,Norte,Masculino,34.821442,181.0,90.13868,Si,Si,2.0,1.80993,a veces,No,2.174835,No,0.340915,0.020153,A veces,Auto,Sobrepeso_II
+1313,Central,F,19.027574,1.659877,77.272652,Si,Si,2.061461,2.812283,A veces,No,3.0,No,0.362441,0.78519,A veces,Transporte_publico,Sobrepeso_II
+1314,Norte,Masculino,21.0,162.0,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1315,Central,femenino,18.0,1.57,50.0,No,Si,2.0,3.0,A VECES,No,1.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+1316,Central,Masculino,22.0,1.72,82.0,No,SI,2.0,1.0,a veces,No,2.0,No,2.0,1.0,A veces,Transporte_publico,Sobrepeso_II
+1317,Central,Masculino,210.0,1.72,68.0,Si,Sí,2.0,3.0,A veces,No,2.0,No,1.0,1.0,Nunca,Transporte_publico,Peso_normal
+1318,Central,Masculino,22.087056,1.792435,89.998729,Si,Si,1.904732,2.608416,A veces,No,1.204175,No,,1.895312,A veces,Transporte_publico,Sobrepeso_II
+1319,Central,F,18.850466,1.550053,72.9518,Si,No,3.0,3.000974,A veces,No,2.0,No,2.274248,1.0,A veces,Transporte_publico,Sobrepeso_II
+1320,Central,Masculino,18.0,1.784402,108.413119,Si,Sí,2.0,2.475444,A veces,No,2.655795,No,1.0,0.169879,nunca,Transporte_publico,Obesidad_I
+1321,Central,mujer,19.0,1.538398,42.0,No,Sí,2.71897,1.473088,Frecuente,No,1.164644,No,,0.930926,A veces,Transporte_publico,Peso_insuficiente
+1322,Norte,Femenino,21.478496,169.0,51.256059,Si,Si,3.0,3.179995,Frecuente,No,1.910378,No,0.480614,0.625079,Nunca,Transporte_publico,Peso_insuficiente
+1323,Norte,Masculino,300.0,160.0,50.0,No,No,2.0,3.0,A veces,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1324,Central,Masculino,23.32012,1.705813,82.011962,Si,Sí,2.784471,2.122545,A veces,No,2.984153,No,2.164472,0.203978,A veces,Transporte_publico,Sobrepeso_II
+1325,Central,Masculino,26.015448,1.829907,105.436173,Si,Si,3.0,3.0,A VECES,No,2.224914,No,,1.59405,A veces,Transporte_publico,Obesidad_I
+1326,Sur,M,31.0,1.76,75.0,Si,NO,3.0,3.0,Siempre,No,3.0,Si,3.0,0.0,nunca,Bicicleta,Peso_normal
+1327,Norte,Masculino,40.50021,175.0,108.308112,Si,Si,2.317459,3.734323,A veces,No,,No,1.628637,0.0,Nunca,Auto,Obesidad_II
+1328,Central,Varón,25.027254,1.757154,112.200812,Si,Si,1.264234,3.0,A veces,No,2.0,No,1.333435,0.002168,A veces,Transporte_publico,Obesidad_II
+1329,Central,Masculino,27.93982,1.694642,99.709329,Si,Sí,2.772027,2.454432,A veces,No,1.0,No,0.858554,0.051268,nunca,Transporte_publico,Obesidad_II
+1330,Central,M,22.717249,1.708071,75.0,Si,Si,2.714447,3.0,A veces,No,3.0,No,1.096818,1.89388,A veces,Transporte_publico,Sobrepeso_I
+1331,Central,Femenino,21.28253,1.761773,133.903469,Si,Si,3.0,3.0,A veces,No,2.893062,No,1.408177,0.807457,A veces,Transporte_publico,Obesidad_III
+1332,Norte,Masculino,19.789291,182.0,85.0,Si,Si,3.0,3.0,A veces,No,2.759246,No,1.763277,0.453314,A veces,Transporte_publico,Sobrepeso_I
+1333,Sur,Femenino,21.0,1.52,42.0,No,NO,3.0,1.0,Frecuente,No,1.0,No,0.0,0.0,A veces,Transporte_publico,Peso_insuficiente
+1334,Central,Masculino,0.0,1.723921,94.743892,Si,Si,2.0,3.0,A VECES,No,2.183149,No,1.932386,0.212767,Nunca,Transporte_publico,Obesidad_I
+1335,Norte,Masculino,17.894784,173.0,84.064875,Si,No,2.019674,2.843319,A veces,No,2.832004,No,1.0,0.608607,A VECES,Transporte_publico,Sobrepeso_II
+1336,Norte,M,21.0,175.0,75.0,Si,Si,3.0,3.0,A veces,No,2.0,No,0.0,1.0,A veces,Transporte_publico,Peso_normal
+1337,Central,F,22.307413,1.605495,82.528575,Si,Si,2.049112,2.622055,A veces,No,2.280555,No,2.052896,0.896185,Nunca,Transporte_publico,Obesidad_I
+1338,Central,M,18.0,1.65,70.0,Si,No,2.0,3.0,A veces,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Sobrepeso_I
+1339,Norte,Masculino,17.0,185.0,59.409018,Si,Si,2.44004,3.0,A veces,No,2.0,No,2.784471,1.0,Nunca,Auto,Peso_insuficiente
+1340,Sur,F,20.0,1.62,52.0,No,SI,3.0,3.0,Frecuente,No,1.0,No,,1.0,Nunca,Auto,Peso_normal
+1341,Norte,Femenino,21.81119,160.0,66.401407,Si,Si,2.108711,3.0,A veces,No,2.746197,No,,0.0,A veces,Transporte_publico,Sobrepeso_I
+1342,Central,Masculino,23.451595,1.670227,75.0,Si,Si,2.0,3.0,A veces,No,2.0,No,0.129163,1.983678,A veces,Transporte_publico,Sobrepeso_I
+1343,Central,M,18.0,1.759721,86.0805,Si,Si,2.882522,3.0,A veces,No,2.452986,No,1.0,0.746651,A veces,Transporte_publico,Sobrepeso_II
+1344,Norte,masculino,23.0,179.0,90.0,Si,Si,2.067817,3.0,A VECES,No,1.082084,No,0.0,1.922364,A veces,Transporte_publico,Sobrepeso_II
+1345,Central,femenino,25.96701,1.654875,104.758713,Si,Si,3.0,3.0,A veces,No,2.612758,No,0.24629,0.802136,A veces,Transporte_publico,Obesidad_III
+1346,Sur,Femenino,21.051982,1.729719,131.877558,Si,Si,3.0,3.0,a veces,No,1.422483,No,,0.673009,A veces,Transporte_publico,Obesidad_III
+1347,Norte,Femenino,21.008051,165.0,88.126544,Si,SI,2.457547,1.00061,A veces,No,3.0,No,,1.0,Nunca,Transporte_publico,Obesidad_I
+1348,Sur,Femenino,19.314964,1.661403,49.932199,No,Si,2.205439,3.0,A veces,No,1.530531,No,2.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+1349,Norte,femenino,17.082867,164.0,43.365005,No,Si,2.815157,3.0,A veces,No,2.911187,No,2.595128,1.380204,A veces,Transporte_publico,Peso_insuficiente
+1350,Norte,Femenino,21.571288,160.0,68.058902,Si,Si,1.766849,3.322522,A veces,No,2.616285,No,0.943058,0.256977,a veces,Transporte_publico,Sobrepeso_I
+1351,Norte,Masculino,22.185756,178.0,89.836692,Si,Si,1.979944,1.599464,A veces,No,2.0,No,0.17048,0.819475,A veces,Transporte_publico,Sobrepeso_II
+1352,Central,Masculino,18.0,1.85,60.0,Si,Si,3.0,4.0,A veces,No,2.0,Si,2.0,0.0,A veces,Auto,Peso_insuficiente
+1353,Central,Femenino,19.0,1.53,42.0,No,No,2.0,3.0,A veces,No,1.0,Si,,0.0,Frecuente,Transporte_publico,Peso_insuficiente
+1354,Central,Femenino,22.0,1.6,55.0,No,No,3.0,4.0,Siempre,No,3.0,No,2.0,0.0,NUNCA,Transporte_publico,Peso_normal
+1355,Norte,Masculino,18.0,174.0,70.0,No,Si,2.0,3.0,A veces,No,2.0,No,,1.0,a veces,Transporte_publico,Peso_normal
+1356,Norte,Femenino,29.0,153.0,78.0,No,Si,2.0,1.0,A veces,No,2.0,No,0.0,0.0,Nunca,Auto,Obesidad_I
+1357,Central,masculino,28.255199,1.816547,120.699119,Si,Si,2.997951,3.0,A veces,No,2.715856,No,0.739881,0.972054,A veces,Auto,Obesidad_II
+1358,Central,Masculino,22.018228,1.627396,70.0,No,Si,2.0,1.0,Nunca,No,2.976177,No,0.780117,,A veces,Transporte_publico,Sobrepeso_I
+1359,Central,masculino,17.671064,1.854706,59.20945,Si,Si,2.707666,3.737914,a veces,No,2.026547,No,2.009397,,Nunca,Auto,Peso_insuficiente
+1360,Sur,F,25.42724,1.683502,104.759643,Si,Si,3.0,3.0,a veces,No,1.525127,No,0.220825,0.896105,A veces,Transporte_publico,Obesidad_III
+1361,Central,Femenino,19.0,1.540375,42.006282,No,no,2.938031,2.705445,Frecuente,No,1.333807,Si,1.877369,0.370973,A veces,Transporte_publico,Peso_insuficiente
+1362,Sur,Masculino,18.0,1.767058,51.132809,Si,Si,2.708965,3.0,A veces,No,1.873004,No,1.21718,1.0,a veces,Transporte_publico,Peso_insuficiente
+1363,Central,Femenino,26.0,1.64599,111.922491,Si,Si,3.0,3.0,A veces,No,2.78678,No,0.0,0.09776,A veces,Transporte_publico,Obesidad_III
+1364,Norte,Femenino,25.472995,169.0,78.434492,Si,Si,2.182401,2.832018,A veces,No,,No,0.038809,0.524015,Frecuente,Transporte_publico,Sobrepeso_II
+1365,Central,Femenino,16.38009,1.617124,67.913561,Si,Si,2.851664,1.0,A veces,No,2.0,No,0.977929,1.765321,Nunca,Transporte_publico,Sobrepeso_I
+1366,Central,Femenino,19.21164,1.567981,41.934368,No,Si,2.070964,1.0,A veces,No,1.676975,No,0.0,1.718513,A veces,Transporte_publico,Peso_insuficiente
+1367,Central,Masculino,23.668137,1.777416,97.842406,Si,Si,2.0,3.0,A veces,No,3.0,No,3.0,2.0,Nunca,Transporte_publico,Obesidad_I
+1368,Sur,F,22.038327,1.711467,51.965521,Si,Si,2.880161,3.0,Frecuente,No,1.031354,No,,1.37465,Nunca,Transporte_publico,Peso_insuficiente
+1369,Central,Masculino,30.520854,1.784049,120.644178,Si,Si,2.499108,3.0,A veces,No,2.040952,No,0.838739,0.489854,a veces,Auto,Obesidad_II
+1370,Sur,Femenino,25.293202,1.503379,64.342459,Si,No,2.0,1.0,A veces,No,1.639807,No,0.072117,0.0,Nunca,Transporte_publico,Sobrepeso_II
+1371,Central,Masculino,19.97981,1.75336,54.997374,Si,Si,2.0,3.494849,A veces,No,2.976672,No,1.94907,2.0,NUNCA,Transporte_publico,Peso_insuficiente
+1372,Central,M,22.851773,1.752115,79.414603,Si,Si,3.0,1.0,A veces,No,2.0,No,2.315983,0.0,A veces,Transporte_publico,Sobrepeso_I
+1373,Central,masculino,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,A veces,Transporte_publico,Sobrepeso_I
+1374,Norte,mujer,21.0285,174.0,78.664618,Si,Si,2.780699,1.101404,A VECES,No,1.579207,No,1.153775,,A VECES,Transporte_publico,Sobrepeso_I
+1375,Central,Femenino,35.125401,1.529834,62.903938,No,Si,2.0,2.105616,A veces,No,1.456581,No,0.0,0.9974,a veces,Auto,Sobrepeso_I
+1376,Sur,mujer,21.0,1.75,78.0,Si,No,2.0,3.0,Frecuente,No,2.0,Si,0.0,2.0,Frecuente,Transporte_publico,Sobrepeso_I
+1377,Central,Femenino,18.0,1.6,51.0,Si,Si,2.0,3.0,Frecuente,No,1.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+1378,Central,Masculino,17.441593,1.7,83.414072,Si,No,2.061384,2.579291,A veces,No,1.909253,No,1.0,0.962468,A veces,Transporte_publico,Sobrepeso_II
+1379,Central,Femenino,24.475242,1.694726,112.776612,Si,Sí,3.0,3.0,A veces,No,2.724099,No,0.336795,0.153462,A veces,Transporte_publico,Obesidad_III
+1380,Norte,Femenino,32.501143,168.0,74.959747,Si,Sí,2.291846,1.555557,A veces,No,1.0,No,0.0,0.388271,A veces,Auto,Sobrepeso_I
+1381,Central,M,23.806789,1.732492,84.557797,Si,Si,2.992205,3.0,A veces,No,2.413813,No,0.458237,0.688293,A veces,Transporte_publico,Sobrepeso_II
+1382,Sur,Varón,23.0,1.882779,64.106108,Si,SI,3.0,3.0,A veces,No,2.843777,No,1.488843,0.009254,A veces,Auto,Peso_insuficiente
+1383,Sur,femenino,19.0,1.53161,42.0,No,SI,2.749268,1.394539,Frecuente,No,,No,0.463949,,a veces,Transporte_publico,Peso_insuficiente
+1384,Central,femenino,19.994543,1.537739,39.101805,No,Si,1.118436,3.0,A veces,No,,No,2.432443,1.626194,A veces,Transporte_publico,Peso_insuficiente
+1385,Norte,M,21.0,168.0,75.0,Si,Si,2.0,3.0,A veces,No,1.164062,No,1.0,0.0,A VECES,Transporte_publico,Sobrepeso_I
+1386,Central,Masculino,23.603191,1.714508,85.137113,Si,Si,2.319776,2.884848,A veces,No,2.154898,No,0.325534,0.954216,A veces,Transporte_publico,Sobrepeso_II
+1387,Central,F,16.941489,1.551288,54.93242,No,SI,1.75375,1.296156,A veces,No,2.0,Si,,1.944675,A VECES,Transporte_publico,Sobrepeso_I
+1388,Norte,F,21.0,165.0,88.0,Si,Si,3.0,1.0,A VECES,No,3.0,No,2.0,1.0,NUNCA,Transporte_publico,Obesidad_I
+1389,Central,Femenino,36.0,1.65,80.0,Si,Si,2.0,3.0,A veces,No,1.0,No,0.0,2.0,Nunca,Auto,Sobrepeso_II
+1390,Norte,Femenino,20.0,166.0,60.0,Si,No,3.0,3.0,A veces,No,2.0,No,1.0,0.0,A veces,Caminando,Peso_normal
+1391,Norte,Masculino,17.000752,182.0,58.443049,Si,Si,2.559571,3.047959,A veces,No,2.0,No,2.011646,0.588994,NUNCA,Auto,Peso_insuficiente
+1392,Norte,Femenino,22.99368,174.0,54.877111,Si,Sí,3.0,3.0,Frecuente,No,2.009796,No,2.0,0.071317,Nunca,Transporte_publico,Peso_insuficiente
+1393,Central,Masculino,18.0,1.70653,51.121749,Si,Si,2.0,3.0,a veces,No,2.0,No,0.0,1.329237,A veces,Transporte_publico,Peso_insuficiente
+1394,Central,Masculino,24.444846,1.718845,86.319887,Si,SI,2.0,2.677693,A veces,No,2.693978,No,0.0,0.688013,A veces,Transporte_publico,Sobrepeso_II
+1395,Central,F,22.0,1.64,56.0,Si,No,3.0,3.0,A VECES,No,2.0,No,0.0,0.0,Nunca,Transporte_publico,Peso_normal
+1396,Sur,Femenino,18.236087,1.62,69.3899,Si,Si,2.22399,1.0,A veces,No,2.20312,No,0.104451,1.899073,Nunca,Transporte_publico,Sobrepeso_I
+1397,Norte,Femenino,18.0,167.0,86.242679,Si,Si,2.609123,3.0,A veces,No,1.955053,No,1.186013,0.0,Nunca,Transporte_publico,Obesidad_I
+1398,Central,Femenino,26.0,1.608283,105.359688,Si,SI,3.0,3.0,A veces,No,2.476002,No,0.0,0.546345,A veces,Transporte_publico,Obesidad_III
+1399,Central,Femenino,31.166572,1.680858,71.81338,Si,Si,2.048216,3.0,A veces,No,1.305816,No,0.170452,0.276806,A veces,Auto,Sobrepeso_I
+1400,Sur,Femenino,22.422674,1.70011,50.173425,Si,Si,2.674431,3.0,Frecuente,No,2.453384,No,1.321624,1.990617,NUNCA,Transporte_publico,Peso_insuficiente
+1401,Sur,Masculino,18.0,1.753349,51.457226,No,Si,2.823179,3.0,A veces,No,1.773236,No,1.252472,,A veces,Transporte_publico,Peso_insuficiente
+1402,Central,mujer,25.994949,1.593321,110.168166,Si,Si,3.0,3.0,A veces,No,2.447306,No,0.000454,0.486558,A veces,Transporte_publico,Obesidad_III
+1403,Sur,femenino,28.167799,1.658202,78.0,Si,Si,2.938031,1.532833,A veces,No,1.931242,No,0.525002,0.371941,Frecuente,Auto,Sobrepeso_II
+1404,Central,Femenino,23.586058,1.700499,81.108599,Si,Si,2.042762,2.9774,A veces,No,1.522426,No,0.501417,1.029135,A veces,Transporte_publico,Sobrepeso_II
+1405,Central,Femenino,20.0,1.61,64.0,Si,No,3.0,3.0,Siempre,No,2.0,Si,0.0,1.0,frecuente,Transporte_publico,Peso_normal
+1406,Norte,Femenino,18.0,162.0,58.0,No,Si,3.0,3.0,A veces,No,1.0,No,0.0,2.0,Nunca,Auto,Peso_normal
+1407,Central,M,19.16097,1.662728,77.473204,Si,No,2.008656,1.402771,A veces,No,3.0,No,0.112383,0.32803,A veces,Transporte_publico,Sobrepeso_II
+1408,Sur,Masculino,21.0,1.85,68.0,Si,Si,2.0,3.0,A veces,No,2.0,No,,1.0,A VECES,Transporte_publico,Peso_normal
+1409,Sur,Femenino,20.225396,1.550648,44.641796,No,Si,3.0,2.857787,Frecuente,No,1.0,No,0.754646,,A veces,Transporte_publico,Peso_insuficiente
+1410,Norte,M,17.997009,174.0,85.0,Si,No,2.0,3.0,A veces,No,2.976229,No,1.0,0.121992,A veces,Transporte_publico,Sobrepeso_II
+1411,Central,masculino,23.562135,1.717432,75.371244,Si,SI,2.0,3.0,A veces,No,2.0,No,0.121585,1.967259,A veces,Transporte_publico,Sobrepeso_I
+1412,Central,femenino,21.987341,1.730182,78.55444,Si,Si,2.293705,1.0,A veces,No,2.0,No,2.063943,0.0,A veces,Transporte_publico,Sobrepeso_I
+1413,Norte,Femenino,25.783865,166.0,110.21734,Si,Si,3.0,3.0,A VECES,No,1.528258,No,0.01586,0.436068,A veces,Transporte_publico,Obesidad_III
+1414,Central,Femenino,21.0,1.75,88.0,Si,Si,2.0,3.0,A veces,No,3.0,No,,0.0,a veces,Transporte_publico,Sobrepeso_II
+1415,Norte,F,18.83919,162.0,69.975607,Si,Si,2.253998,2.752318,A VECES,No,2.328331,No,0.815509,0.024088,Nunca,Transporte_publico,Sobrepeso_I
+1416,Sur,Varón,25.822348,1.766626,114.187096,Si,Si,2.075321,3.0,A veces,No,2.144838,No,1.501754,0.276319,A veces,Transporte_publico,Obesidad_II
+1417,Central,F,18.003153,1.729996,75.816864,Si,Si,2.992329,3.0,A veces,No,2.004908,No,1.0,1.405086,FRECUENTE,Transporte_publico,Sobrepeso_I
+1418,Central,Femenino,35.483601,1.647514,73.91692,Si,No,3.0,2.725012,A veces,No,1.62244,No,0.902661,0.0,A veces,Auto,Sobrepeso_I
+1419,Sur,Masculino,22.0,1.88,90.0,Si,Si,2.0,3.0,SIEMPRE,No,1.0,No,,1.0,a veces,Auto,Sobrepeso_I
+1420,Central,Femenino,19.955257,1.5891,72.713611,Si,NO,3.0,3.856434,a veces,No,2.0,No,1.32417,1.0,A veces,Transporte_publico,Sobrepeso_II
+1421,Sur,femenino,21.491055,1.586952,43.087508,No,NO,2.00876,1.73762,Frecuente,No,1.792022,No,,,Nunca,Transporte_publico,Peso_insuficiente
+1422,Sur,Femenino,20.406871,1.755978,53.699561,Si,Si,2.0,3.891994,Frecuente,No,1.86393,No,2.870127,2.0,Nunca,Transporte_publico,Peso_insuficiente
+1423,Sur,Masculino,19.0,1.75,58.0,No,Si,2.0,3.0,A veces,No,2.0,No,2.0,0.0,A veces,Bicicleta,Peso_normal
+1424,Central,F,19.262934,1.741014,132.57927,Si,Si,3.0,3.0,A veces,No,2.436261,No,1.464674,0.87092,a veces,Transporte_publico,Obesidad_III
+1425,Central,Varón,21.0,1.62,70.0,No,Si,2.0,1.0,Nunca,No,3.0,No,1.0,0.0,a veces,Transporte_publico,Sobrepeso_I
+1426,Sur,Masculino,35.217173,1.823168,91.630257,Si,Si,2.0,2.9948,A veces,No,1.290979,No,0.87599,0.85405,A veces,Auto,Sobrepeso_II
+1427,Central,F,21.700748,1.789555,137.767787,Si,Sí,3.0,3.0,A veces,No,2.832659,No,1.505775,0.923005,A veces,Transporte_publico,Obesidad_III
+1428,Sur,Femenino,21.198217,1.743841,78.88036,Si,Si,2.510583,1.0,A veces,No,2.0,No,2.119682,0.0,A veces,Transporte_publico,Sobrepeso_I
+1429,Norte,masculino,19.0,171.0,71.0,No,Sí,3.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+1430,Norte,femenino,25.908431,161.0,103.026858,Si,Sí,3.0,3.0,A veces,No,1.077253,No,0.162083,0.824607,A veces,Transporte_publico,Obesidad_III
+1431,Central,F,19.504696,1.590317,42.367615,No,No,2.959658,3.0,Frecuente,No,1.0,No,1.522399,0.0,A veces,Transporte_publico,Peso_insuficiente
+1432,Central,Masculino,19.0,1.8,60.0,Si,Si,3.0,1.0,Siempre,No,1.0,Si,0.0,0.0,Nunca,Moto,Peso_normal
+1433,Central,Femenino,21.310907,1.72064,50.0,Si,Si,2.919584,3.697831,Frecuente,No,1.147121,No,0.993058,0.08922,Nunca,Transporte_publico,Peso_insuficiente
+1434,Sur,F,26.595893,1.660756,78.574786,Si,Si,2.0,2.597608,A veces,No,2.0,No,,0.434198,Frecuente,Transporte_publico,Sobrepeso_II
+1435,Central,Femenino,19.012872,1.742062,133.779919,Si,Si,3.0,3.0,A veces,No,2.70196,No,1.465909,0.813235,A veces,Transporte_publico,Obesidad_III
+1436,Central,Femenino,22.061461,1.6,82.040318,Si,Si,1.362441,2.57038,A veces,No,2.166228,No,2.232851,1.281141,Nunca,Transporte_publico,Obesidad_I
+1437,Central,F,25.954995,1.592529,102.874549,Si,Si,3.0,3.0,A veces,No,1.074412,No,0.006265,0.845633,A veces,Transporte_publico,Obesidad_III
+1438,Central,Femenino,30.0,1.62,59.0,Si,Si,3.0,3.0,a veces,No,2.0,No,2.0,0.0,A veces,Auto,Peso_normal
+1439,Sur,M,23.94003,1.721348,83.986714,Si,Si,2.407817,2.844138,A VECES,No,,No,0.868721,0.089354,A veces,Transporte_publico,Sobrepeso_II
+1440,Norte,femenino,36.310292,170.0,83.0,Si,Si,2.0,1.0,A veces,No,2.0,No,1.472172,0.0,Nunca,Auto,Sobrepeso_II
+1441,Sur,masculino,24.63474,1.829757,120.980508,Si,Si,2.644094,3.0,A veces,No,2.740525,No,2.0,0.500936,A veces,Transporte_publico,Obesidad_II
+1442,Sur,Femenino,19.0,1.556211,42.339767,No,Si,3.0,2.0846,A veces,No,2.13755,Si,0.196152,0.062488,Nunca,Transporte_publico,Peso_insuficiente
+1443,Central,Femenino,22.0,1.56,49.0,No,Si,2.0,3.0,A VECES,No,,Si,2.0,0.0,Nunca,Caminando,Peso_normal
+1444,Norte,Masculino,25.0,179.0,72.0,Si,Si,2.0,3.0,A veces,No,2.0,No,1.0,1.0,A veces,Transporte_publico,Peso_normal
+1445,Central,F,19.47219,1.793824,160.935351,Si,Si,3.0,3.0,A veces,No,2.069257,No,1.986646,0.947091,A VECES,Transporte_publico,Obesidad_III
+1446,Central,Femenino,40.702771,1.548403,80.0,Si,Si,2.0,3.0,A veces,No,1.326165,No,0.0,0.0,A veces,Auto,Obesidad_I
+1447,Norte,femenino,22.693989,163.0,82.0,Si,Si,1.918251,1.355752,a veces,No,1.998108,No,0.0,1.382906,A veces,Transporte_publico,Obesidad_I
+1448,Central,Masculino,20.432717,1.719342,80.790813,Si,Si,2.215464,2.116195,A veces,No,1.80996,No,1.910577,0.971746,Nunca,Transporte_publico,Sobrepeso_II
+1449,Norte,Masculino,31.387982,181.0,105.254354,Si,Si,2.39728,2.036794,A veces,No,2.659419,No,1.062011,1.771135,A veces,Auto,Obesidad_I
+1450,Central,M,28.992809,1.909105,129.874864,Si,Si,2.206119,3.0,A veces,No,1.483856,No,1.113169,0.0,A veces,Transporte_publico,Obesidad_II
+1451,Sur,Femenino,21.0,1.53,53.0,No,Si,3.0,3.0,A veces,No,2.0,No,2.0,,A VECES,Transporte_publico,Peso_normal
+1452,Central,Femenino,19.621545,1.566524,61.616,No,Si,2.908757,2.696051,A veces,No,1.622827,Si,0.539952,0.001096,A veces,Transporte_publico,Sobrepeso_I
+1453,Central,Masculino,33.0,1.85,85.0,No,Si,2.0,3.0,Frecuente,No,2.0,No,1.0,0.0,A veces,Auto,Peso_normal
+1454,Central,masculino,22.0,1.7,70.0,Si,Si,2.0,3.0,A veces,No,,No,0.0,1.0,A veces,Auto,Peso_normal
+1455,Norte,Masculino,23.455324,170.0,75.0,Si,Si,2.162519,3.0,A VECES,No,,No,1.078074,1.502839,A VECES,Transporte_publico,Sobrepeso_I
+1456,Central,Masculino,23.285553,1.717775,85.312639,Si,SI,2.951591,3.0,a veces,No,2.971557,No,0.0,0.947192,a veces,Transporte_publico,Sobrepeso_II
+1457,Central,masculino,19.226314,1.814255,85.255631,Si,Si,2.971351,3.390143,A veces,No,2.133767,No,2.318492,0.678618,A veces,Transporte_publico,Sobrepeso_I
+1458,Norte,Masculino,21.380336,172.0,82.27635,Si,Si,2.09449,1.873484,A veces,No,2.0,No,2.079709,0.880414,A VECES,Transporte_publico,Sobrepeso_II
+1459,Sur,Femenino,23.365041,1.744319,133.45249,Si,SI,3.0,3.0,A veces,No,2.839069,No,1.231031,0.792496,A veces,Transporte_publico,Obesidad_III
+1460,Central,Masculino,21.0,1.617469,68.869791,No,Si,1.206276,3.0,nunca,No,2.406541,No,0.94984,,A veces,Transporte_publico,Sobrepeso_I
+1461,Norte,Femenino,16.865984,164.0,67.439589,Si,Sí,1.31415,1.068196,A VECES,No,1.364957,Si,0.0,0.057926,Nunca,Transporte_publico,Sobrepeso_I
+1462,Sur,Masculino,23.0,1.89,65.0,Si,Si,3.0,3.0,Frecuente,No,3.0,No,1.0,1.0,A veces,Transporte_publico,Peso_insuficiente
+1463,Central,Masculino,17.0,1.8,68.0,Si,No,2.0,3.0,A veces,No,1.0,No,2.0,1.0,A veces,Transporte_publico,Peso_normal
+1464,Central,Femenino,18.0,1.644682,68.392133,Si,SI,2.0,1.131695,A veces,No,1.344539,No,0.0,1.59257,Nunca,Transporte_publico,Sobrepeso_I
+1465,Sur,mujer,21.028989,1.748524,133.878843,Si,Si,3.0,3.0,A veces,No,2.868167,No,1.48372,0.83509,A veces,Transporte_publico,Obesidad_III
+1466,Central,Masculino,19.241058,1.856811,88.633616,Si,Si,2.047069,3.829101,A VECES,No,1.641022,No,1.554817,0.248218,A veces,Transporte_publico,Sobrepeso_I
+1467,Norte,Femenino,22.980957,170.0,80.473587,Si,Si,2.0,2.815255,A veces,No,1.622214,No,0.463891,1.462664,Nunca,Transporte_publico,Sobrepeso_II
+1468,Norte,Masculino,29.740496,182.0,87.668828,No,Si,3.0,3.0,A veces,No,,No,2.0,0.0,Nunca,Auto,Sobrepeso_I
+1469,Central,Femenino,19.052833,1.546551,42.069992,No,Si,3.0,1.735493,A veces,No,2.318736,No,1.193486,0.74568,Nunca,Transporte_publico,Peso_insuficiente
+1470,Central,F,19.665881,1.676346,49.105025,No,No,2.720701,3.0,A veces,No,2.0,No,1.862235,1.0,A veces,Transporte_publico,Peso_insuficiente
+1471,Central,Femenino,18.0,1.67,66.0,No,Si,3.0,3.0,A veces,No,2.0,No,0.0,0.0,A veces,Transporte_publico,Peso_normal
+1472,Sur,masculino,18.0,1.738702,50.248677,Si,Si,1.871213,3.0,A veces,No,1.283738,No,0.684879,1.487223,A veces,Transporte_publico,Peso_insuficiente
+1473,Central,Femenino,19.529746,1.751038,133.843033,Si,Si,3.0,3.0,a veces,No,2.955075,No,1.46046,0.655558,A veces,Transporte_publico,Obesidad_III
+1474,Norte,M,33.0,175.0,85.0,No,No,2.0,3.0,A veces,No,2.0,Si,1.0,0.0,A veces,Transporte_publico,Sobrepeso_II
+1475,Central,Masculino,23.154311,1.723072,82.338464,Si,SI,2.315932,2.658478,A veces,No,1.568476,No,0.949976,,A veces,Transporte_publico,Sobrepeso_II
+1476,Central,Masculino,18.164768,1.694265,52.0,Si,Sí,3.0,3.0,Frecuente,No,2.0,No,0.819682,1.0,Nunca,Transporte_publico,Peso_insuficiente
+1477,Central,M,23.0,1.65,66.0,No,No,3.0,3.0,A veces,No,2.0,No,3.0,0.0,Nunca,Transporte_publico,Peso_normal
+1478,Central,Femenino,16.270434,1.818268,47.124717,No,Si,3.0,3.286431,A veces,No,2.148146,No,2.458237,1.273333,A veces,Transporte_publico,Peso_insuficiente
+1479,Central,masculino,18.0,1.7108,50.92538,Si,Si,2.0,3.0,A veces,No,2.0,No,0.0,1.593704,A VECES,Transporte_publico,Peso_insuficiente
+1480,Norte,Femenino,300.0,174.0,128.114161,Si,Si,3.0,3.0,A veces,No,1.797041,No,,0.966181,A veces,Transporte_publico,Obesidad_III
